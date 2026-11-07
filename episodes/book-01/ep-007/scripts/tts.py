@@ -1,0 +1,102 @@
+"""Generate all voice lines with edge-tts, trim silence, apply character FX, and record durations."""
+import asyncio
+import json
+import subprocess
+from pathlib import Path
+
+import edge_tts
+
+ROOT = Path(__file__).resolve().parent.parent
+STORY = json.loads((ROOT / "data/story.json").read_text())
+OUT = ROOT / "public/audio"
+RAW = ROOT / ".cache/tts"
+OUT.mkdir(parents=True, exist_ok=True)
+RAW.mkdir(parents=True, exist_ok=True)
+
+TRIM = (
+    "silenceremove=start_periods=1:start_threshold=-48dB:start_silence=0.03,"
+    "areverse,silenceremove=start_periods=1:start_threshold=-48dB:start_silence=0.06,areverse"
+)
+
+
+def jobs():
+    for scene in STORY["scenes"]:
+        for beat in scene["beats"]:
+            if beat["kind"] == "line":
+                yield beat["id"], beat["who"], beat.get("en") or beat["zh"]
+    for n in STORY["narration"]:
+        yield n["id"], n["who"], n.get("en") or n["zh"]
+    for w in STORY["words"]:
+        yield f"w-{w['id']}-en", "word-us", w.get("say", w["word"])
+        yield f"w-{w['id']}-def", "lesson", w["en"]
+        yield f"r-{w['id']}", "word-us", w["example"]
+        if w.get("uk"):
+            yield f"w-{w['id']}-gb", "word-gb", w["word"]
+    for w in STORY.get("review", []):
+        yield f"rv-{w['word']}", "word-us", w["example"]
+
+async def tts(job_id, v, text):
+    # spoken spelling only; subtitles keep the original names
+    for k in sorted(STORY.get("pronounce", {}), key=len, reverse=True):
+        text = text.replace(k, STORY["pronounce"][k])
+    raw = RAW / f"{job_id}.mp3"
+    key = RAW / f"{job_id}.key"
+    sig = json.dumps([v, text], ensure_ascii=False)
+    if not raw.exists() or not key.exists() or key.read_text() != sig:
+        for attempt in range(5):
+            try:
+                await edge_tts.Communicate(text, v["voice"], rate=v["rate"], pitch=v["pitch"]).save(str(raw))
+                break
+            except edge_tts.exceptions.NoAudioReceived:
+                if attempt == 4:
+                    raise
+                await asyncio.sleep(2 + attempt * 2)
+        key.write_text(sig)
+    return raw
+
+
+async def synth(job_id, who, text):
+    v = STORY["voices"][who]
+    out = OUT / f"{job_id}.wav"
+    if "mix" in v:
+        # several characters saying the same line at once
+        raws = [await tts(f"{job_id}-{m}", STORY["voices"][m], text) for m in v["mix"]]
+        trims = "".join(f"[{i}]{TRIM},adelay={i * 70}:all=1,volume={1 - i * 0.15}[a{i}];" for i in range(len(raws)))
+        labels = "".join(f"[a{i}]" for i in range(len(raws)))
+        cmd = ["ffmpeg", "-v", "error", "-y"]
+        for r in raws:
+            cmd += ["-i", str(r)]
+        cmd += ["-filter_complex", f"{trims}{labels}amix=inputs={len(raws)}:normalize=0:duration=longest,volume=0.75,apad=pad_dur=0.04",
+                "-ar", "44100", "-ac", "1", str(out)]
+        subprocess.run(cmd, check=True)
+    else:
+        raw = await tts(job_id, v, text)
+        af = TRIM + ",apad=pad_dur=0.04"
+        if v.get("fx"):
+            af += "," + v["fx"]
+        subprocess.run(
+            ["ffmpeg", "-v", "error", "-y", "-i", str(raw), "-af", af, "-ar", "44100", "-ac", "1", str(out)],
+            check=True,
+        )
+    dur = float(
+        subprocess.check_output(
+            ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(out)]
+        )
+    )
+    return job_id, round(dur, 3)
+
+
+async def main():
+    sem = asyncio.Semaphore(3)
+
+    async def run(j):
+        async with sem:
+            return await synth(*j)
+
+    results = await asyncio.gather(*(run(j) for j in jobs()))
+    durations = dict(sorted(results))
+    (ROOT / "data/durations.json").write_text(json.dumps(durations, indent=2, ensure_ascii=False))
+    print(f"{len(durations)} clips, total {sum(durations.values()):.1f}s")
+
+
+asyncio.run(main())

@@ -1,0 +1,187 @@
+{
+  "episode": "EP.001",
+  "title": "替我说句 Hello，你怎么当上班长了？",
+  "season": "我被自己的分身卷了",
+  "source": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-001.html",
+  "pronounce": { "Xiaoshuais": "Shiao Shwais", "Xiaoshuai": "Shiao Shwai", "Xiaoman": "Shiao Man" },
+  "voices": {
+    "lin": { "label": "Xiaoshuai", "voice": "zh-CN-YunxiNeural", "rate": "+6%", "pitch": "+2Hz" },
+    "lin-inner": { "label": "Xiaoshuai (thinking)", "voice": "zh-CN-YunxiNeural", "rate": "+0%", "pitch": "+2Hz", "fx": "aecho=0.8:0.55:70|140:0.28|0.14" },
+    "clone": { "label": "Clone", "voice": "zh-CN-YunxiNeural", "rate": "+12%", "pitch": "+6Hz" },
+    "clone-en": { "label": "Clone", "voice": "zh-CN-YunxiNeural", "rate": "+2%", "pitch": "+6Hz" },
+    "teacher": { "label": "Teacher", "voice": "en-US-ChristopherNeural", "rate": "+0%", "pitch": "+0Hz" },
+    "teacher-vo": { "label": "Teacher (off-screen)", "voice": "en-US-ChristopherNeural", "rate": "+0%", "pitch": "+0Hz", "fx": "lowpass=f=2600,aecho=0.8:0.5:35:0.22,volume=0.9" },
+    "su": { "label": "Su Xiaoman", "voice": "zh-TW-HsiaoChenNeural", "rate": "+4%", "pitch": "+6Hz" },
+    "phone": { "label": "Phone", "voice": "en-US-MichelleNeural", "rate": "-8%", "pitch": "+0Hz", "fx": "vibrato=f=36:d=0.22,highpass=f=280,lowpass=f=3800" },
+    "narrator": { "label": "旁白", "voice": "zh-CN-XiaoxiaoNeural", "rate": "+4%", "pitch": "+0Hz" },
+    "drama": { "label": "旁白", "voice": "zh-CN-YunyangNeural", "rate": "-12%", "pitch": "-4Hz", "fx": "aecho=0.8:0.6:90:0.3" },
+    "word-us": { "label": "美音", "voice": "en-US-AriaNeural", "rate": "-18%", "pitch": "+0Hz" },
+    "lesson": { "label": "课堂", "voice": "en-US-JennyNeural", "rate": "-2%", "pitch": "+0Hz" },
+    "narrator-en": { "label": "旁白", "voice": "en-US-AvaNeural", "rate": "-4%", "pitch": "+0Hz" },
+    "drama-en": { "label": "旁白", "voice": "en-US-GuyNeural", "rate": "-12%", "pitch": "-4Hz", "fx": "aecho=0.8:0.6:90:0.3" },
+    "word-gb": { "label": "英音", "voice": "en-GB-SoniaNeural", "rate": "-18%", "pitch": "+0Hz" }
+  },
+  "panels": {
+    "p1": [1896, 1732], "p2": [1592, 1732], "p3": [1752, 1576], "p4": [1740, 1576],
+    "p5": [1752, 1548], "p6": [1740, 1548], "p7": [1752, 2112], "p8": [1740, 2112]
+  },
+  "words": [
+    { "word": "confidence", "ipa": "/ˈkɒnfɪdəns/", "part": "n.", "partZh": "名词", "meaning": "信心；自信", "example": "Have confidence in me.", "exampleZh": "对我有点信心。", "question": "让别人相信自己，可以说：", "blank": "Have ___ in me.", "scene": 3, "panel": "p3", "pos": "noun", "en": "Confidence is the feeling that you can do things well.", "enZh": "confidence：相信自己能做好事情的感觉。" },
+    { "word": "volunteer", "ipa": "/ˌvɒlənˈtɪə(r)/", "part": "v. / n.", "partZh": "本集作动词", "meaning": "自愿做；志愿者", "example": "I volunteer!", "exampleZh": "我自愿！", "question": "老师问谁愿意，分身举手说：", "blank": "I ___!", "scene": 4, "panel": "p4", "pos": "verb", "en": "To volunteer is to offer to do something without being asked.", "enZh": "volunteer：没人要求时，主动提出去做。" },
+    { "word": "goal", "ipa": "/ɡəʊl/", "part": "n.", "partZh": "名词", "meaning": "目标", "example": "My goal is to be class monitor.", "exampleZh": "我的目标是当班长。", "question": "分身想当班长，小帅想回家：", "blank": "他们的 ___ 不同。", "scene": 4, "panel": "p4", "pos": "noun", "en": "A goal is something you want to achieve.", "enZh": "goal：你想要实现的事，即目标。" },
+    { "word": "challenge", "ipa": "/ˈtʃælɪndʒ/", "part": "n.", "partZh": "本集作名词", "meaning": "挑战", "example": "I accept the challenge.", "exampleZh": "我接受这个挑战。", "question": "老师问能否接受挑战，分身说：", "blank": "I accept the ___.", "scene": 5, "panel": "p5", "pos": "noun", "en": "A challenge is something difficult that tests your ability.", "enZh": "challenge：考验能力的难事，即挑战。" },
+    { "word": "schedule", "ipa": "英 /ˈʃedjuːl/　美 /ˈskedʒuːl/", "part": "n.", "partZh": "名词", "meaning": "日程表；计划表", "example": "Here is your schedule.", "exampleZh": "这是你的日程表。", "question": "三项活动撞在一起，先检查自己的：", "blank": "先检查自己的 ___。", "scene": 6, "panel": "p6", "pos": "noun", "en": "A schedule is a plan of activities and their times.", "enZh": "schedule：列出活动和时间的计划。" }
+  ],
+  "scenes": [
+    {
+      "id": 1, "panel": "p1", "name": "一句 Hello 的代价", "place": "Hallway · After school", "tag": "一份自我介绍，三项新任务", "tagAt": "s1-reveal",
+      "cam": [
+        { "at": "start", "x": 0.27, "y": 0.64, "z": 2.7 },
+        { "at": "s1l2", "x": 0.22, "y": 0.3, "z": 2.4 },
+        { "at": "s1-reveal", "x": 0.22, "y": 0.3, "z": 2.4 },
+        { "at": "s1-reveal", "offset": 14, "x": 0.5, "y": 0.5, "z": 1.0 },
+        { "at": "end", "x": 0.5, "y": 0.5, "z": 1.08 }
+      ],
+      "beats": [
+        { "kind": "pause", "id": "s1-open", "frames": 18, "sfx": "paper" },
+        { "kind": "line", "id": "s1l1", "who": "lin-inner", "en": "I only asked my clone to say hello for me.", "zh": "我只让分身替我说句哈喽。" },
+        { "kind": "line", "id": "s1l2", "who": "lin-inner", "en": "And it came back with a class monitor trial form.", "zh": "它给我领了张班长试任表。" },
+        { "kind": "pause", "id": "s1-reveal", "frames": 54, "sfx": "twinkle" }
+      ]
+    },
+    {
+      "id": 2, "panel": "p2", "name": "脑袋先下线了", "place": "Same hallway · 3 minutes earlier", "tag": "3 分钟前",
+      "cam": [
+        { "at": "start", "x": 0.5, "y": 0.4, "z": 1.1 },
+        { "at": "s2l2", "x": 0.5, "y": 0.25, "z": 2.0 },
+        { "at": "s2l3", "x": 0.55, "y": 0.62, "z": 2.2 },
+        { "at": "end", "x": 0.55, "y": 0.6, "z": 2.7 }
+      ],
+      "beats": [
+        { "kind": "line", "id": "s2l1", "who": "teacher-vo", "en": "Next, Xiaoshuai! Introduce yourself in English.", "zh": "下一位，小帅！用英语介绍自己。" },
+        { "kind": "line", "id": "s2l2", "who": "lin-inner", "en": "It's my turn, and my brain just went offline.", "zh": "轮到我了，脑袋却先下线了。", "sfx": "powerdown" },
+        { "kind": "line", "id": "s2l3", "who": "lin", "en": "Create a clone... Does this really work?", "zh": "生成分身……这功能真能用？", "sfx": "notify" },
+        { "kind": "line", "id": "s2l4", "who": "lin", "en": "Just say hello for me, then come right out.", "zh": "就替我说句哈喽，说完就出来。" },
+        { "kind": "pause", "id": "s2-tap", "frames": 16, "sfx": "tap" }
+      ]
+    },
+    {
+      "id": 3, "panel": "p3", "name": "对我有点信心", "place": "Outside the classroom", "tag": "一个怕开口，一个太敢开口",
+      "cam": [
+        { "at": "start", "x": 0.5, "y": 0.5, "z": 1.0 },
+        { "at": "s3l2", "x": 0.7, "y": 0.35, "z": 2.1 },
+        { "at": "s3l3", "x": 0.3, "y": 0.35, "z": 2.1 },
+        { "at": "s3l4", "x": 0.68, "y": 0.4, "z": 1.9 },
+        { "at": "end", "x": 0.5, "y": 0.45, "z": 1.1 }
+      ],
+      "beats": [
+        { "kind": "pause", "id": "s3-gen", "frames": 48, "sfx": "sparkle" },
+        { "kind": "line", "id": "s3l1", "who": "phone", "en": "Clone created.", "zh": "分身已生成。", "sfx": "notify" },
+        { "kind": "line", "id": "s3l2", "who": "clone-en", "en": "Have confidence in me.", "zh": "对我有点信心。", "kw": "confidence" },
+        { "kind": "line", "id": "s3l3", "who": "lin", "en": "Just one sentence! Don't take on anything else!", "zh": "只说一句！别接别的活！" },
+        { "kind": "line", "id": "s3l4", "who": "clone", "en": "Relax. I'm great at introducing myself.", "zh": "放心，我很会自我介绍。", "sfxEnd": "twinkle" },
+        { "kind": "pause", "id": "s3-end", "frames": 14 }
+      ]
+    },
+    {
+      "id": 4, "panel": "p4", "name": "他举手了", "place": "Grade 10 classroom · Introductions", "tag": "原版想回家，分身想当班长",
+      "cam": [
+        { "at": "start", "x": 0.5, "y": 0.4, "z": 1.0 },
+        { "at": "s4l1", "x": 0.45, "y": 0.32, "z": 1.9 },
+        { "at": "s4l2", "x": 0.76, "y": 0.35, "z": 2.1 },
+        { "at": "s4l3", "x": 0.76, "y": 0.35, "z": 2.1 },
+        { "at": "s4l3", "offset": 6, "x": 0.44, "y": 0.2, "z": 2.8 },
+        { "at": "s4l5", "x": 0.46, "y": 0.3, "z": 2.0 },
+        { "at": "end", "x": 0.5, "y": 0.45, "z": 1.0 }
+      ],
+      "beats": [
+        { "kind": "line", "id": "s4l1", "who": "clone-en", "en": "Hello, everyone. I'm Xiaoshuai.", "zh": "大家好，我是小帅。" },
+        { "kind": "line", "id": "s4l2", "who": "teacher", "en": "Thank you. Now, who wants to try being class monitor?", "zh": "谢谢。接下来，谁愿意试任班长？" },
+        { "kind": "line", "id": "s4l3", "who": "clone-en", "en": "I volunteer!", "zh": "我自愿！", "kw": "volunteer", "sfx": "whoosh" },
+        { "kind": "line", "id": "s4l4", "who": "lin-inner", "en": "Why are you raising your hand?!", "zh": "你举手干什么？！", "sfx": "bonk" },
+        { "kind": "line", "id": "s4l5", "who": "clone-en", "en": "My goal is to be class monitor.", "zh": "我的目标是当班长。", "kw": "goal" },
+        { "kind": "line", "id": "s4l6", "who": "lin-inner", "en": "My goal is to get home safely.", "zh": "我的目标，是平安回家。", "kw": "goal" },
+        { "kind": "pause", "id": "s4-vs", "frames": 84, "sfx": "stamp" }
+      ]
+    },
+    {
+      "id": 5, "panel": "p5", "name": "先试任一周", "place": "Same classroom", "tag": "试任 1 周 · 邀请待确认",
+      "cam": [
+        { "at": "start", "x": 0.4, "y": 0.45, "z": 1.2 },
+        { "at": "s5l3", "x": 0.25, "y": 0.5, "z": 1.8 },
+        { "at": "s5l4", "x": 0.86, "y": 0.4, "z": 2.4 },
+        { "at": "end", "x": 0.6, "y": 0.45, "z": 1.0 }
+      ],
+      "beats": [
+        { "kind": "line", "id": "s5l1", "who": "teacher", "en": "The monitor helps organize activities. Will you take the challenge?", "zh": "班长要帮忙组织活动，愿意接受挑战吗？", "kw": "challenge" },
+        { "kind": "line", "id": "s5l2", "who": "clone-en", "en": "I accept the challenge.", "zh": "我接受这个挑战。", "kw": "challenge" },
+        { "kind": "line", "id": "s5l3", "who": "teacher", "en": "Hands up if you support Xiaoshuai trying the job.", "zh": "支持小帅试任的同学举手。", "sfxEnd": "clap" },
+        { "kind": "pause", "id": "s5-clap", "frames": 30 },
+        { "kind": "line", "id": "s5l4", "who": "teacher", "en": "Then try it for one week. Here are some activity invitations. Check them after class, and sign up once you confirm.", "zh": "那先试一周。这是活动邀请，课后看看，确认后再报名。" },
+        { "kind": "pause", "id": "s5-stamp", "frames": 54, "sfx": "stamp" }
+      ]
+    },
+    {
+      "id": 6, "panel": "p6", "name": "三项活动，同一时间", "place": "Hallway · After class", "tag": "周五 14:00 × 3",
+      "cam": [
+        { "at": "start", "x": 0.5, "y": 0.45, "z": 1.0 },
+        { "at": "s6l1", "x": 0.72, "y": 0.6, "z": 1.9 },
+        { "at": "s6l2", "x": 0.35, "y": 0.35, "z": 2.0 },
+        { "at": "s6l4", "x": 0.7, "y": 0.35, "z": 2.0 },
+        { "at": "s6l5", "x": 0.3, "y": 0.35, "z": 2.2 },
+        { "at": "s6l6", "x": 0.7, "y": 0.35, "z": 2.3 },
+        { "at": "end", "x": 0.5, "y": 0.45, "z": 1.05 }
+      ],
+      "beats": [
+        { "kind": "line", "id": "s6l1", "who": "clone-en", "en": "Here is your schedule.", "zh": "这是你的日程表。", "kw": "schedule", "sfx": "paper" },
+        { "kind": "line", "id": "s6l2", "who": "lin", "en": "English sharing, moving desks, basketball tryouts...", "zh": "英语分享、搬桌子、篮球初选……" },
+        { "kind": "line", "id": "s6l3", "who": "lin", "en": "Why are they all at two p.m. on Friday?!", "zh": "怎么全是周五下午两点？！" },
+        { "kind": "pause", "id": "s6-clash", "frames": 66 },
+        { "kind": "line", "id": "s6l4", "who": "clone", "en": "I'll do the sharing. You move the desks.", "zh": "我去分享，你去搬桌子。" },
+        { "kind": "line", "id": "s6l5", "who": "lin", "en": "What about basketball?", "zh": "篮球呢？" },
+        { "kind": "line", "id": "s6l6", "who": "clone-en", "en": "Another challenge!", "zh": "又一个挑战！", "kw": "challenge", "sfx": "boing" },
+        { "kind": "pause", "id": "s6-end", "frames": 12 }
+      ]
+    },
+    {
+      "id": 7, "panel": "p7", "name": "这次我自己说", "place": "Same hallway", "tag": "待确认，不等于全参加", "tagAt": "s7l2",
+      "cam": [
+        { "at": "start", "x": 0.55, "y": 0.72, "z": 2.0 },
+        { "at": "s7l1", "offset": 30, "x": 0.55, "y": 0.72, "z": 2.0 },
+        { "at": "s7l2", "x": 0.3, "y": 0.3, "z": 1.9 },
+        { "at": "end", "x": 0.5, "y": 0.45, "z": 1.0 }
+      ],
+      "beats": [
+        { "kind": "pause", "id": "s7-check", "frames": 26 },
+        { "kind": "line", "id": "s7l1", "who": "lin", "en": "Don't check them yet! Three invitations doesn't mean I can do all three.", "zh": "先别勾！三个待确认，不是三个我都行。", "sfx": "scratch" },
+        { "kind": "line", "id": "s7l2", "who": "lin", "en": "Come on, let's ask the teacher to change the times. This time, I'll speak for myself.", "zh": "走，找老师改时间。这次我自己说。" },
+        { "kind": "pause", "id": "s7-steps", "frames": 36, "sfx": "steps" }
+      ]
+    },
+    {
+      "id": 8, "panel": "p8", "name": "她看见了两个小帅", "place": "Hallway corner", "tag": "解释一下？", "tagAt": "s8-dun",
+      "cam": [
+        { "at": "start", "x": 0.3, "y": 0.3, "z": 2.3 },
+        { "at": "s8l1", "offset": 20, "x": 0.3, "y": 0.3, "z": 2.3 },
+        { "at": "s8-dun", "x": 0.75, "y": 0.4, "z": 2.0 },
+        { "at": "s8-dun", "offset": 10, "x": 0.75, "y": 0.4, "z": 2.0 },
+        { "at": "s8-recall", "x": 0.5, "y": 0.5, "z": 1.0 }
+      ],
+      "beats": [
+        { "kind": "pause", "id": "s8-open", "frames": 12 },
+        { "kind": "line", "id": "s8l1", "who": "su", "en": "Wait... why are there two Xiaoshuais?", "zh": "等等……怎么有两个小帅？", "sfx": "scratch" },
+        { "kind": "pause", "id": "s8-dun", "frames": 60, "sfx": "dun" },
+        { "kind": "line", "id": "s8l2", "who": "lin-inner", "en": "Can I take back that self-introduction?", "zh": "我能申请撤回这次自我介绍吗？" },
+        { "kind": "pause", "id": "s8-recall", "frames": 84 }
+      ]
+    }
+  ],
+  "narration": [
+    { "id": "n-title", "who": "narrator-en", "en": "English: To Be Continued. Episode one. I asked you to say hello. How did you become class monitor?", "zh": "英语有续集，第一话。替我说句 Hello，你怎么当上班长了？" },
+    { "id": "n-rewind", "who": "drama-en", "en": "Three minutes earlier.", "zh": "三分钟前。" },
+    { "id": "n-recap", "who": "lesson", "en": "Now, let's learn the words!", "zh": "现在，来学单词！" },
+    { "id": "n-next1", "who": "narrator-en", "en": "Next time: Do I need three of me? First, drop one promise.", "zh": "下集预告：三个我才够用？先删掉一个承诺。" },
+    { "id": "n-next2", "who": "narrator-en", "en": "The invitations aren't confirmed, and the secret isn't explained. This time, Xiaoshuai has to choose for himself.", "zh": "邀请待确认，秘密待解释。小帅这次得亲自作出选择。" },
+    { "id": "n-outro", "who": "word-us", "en": "Follow the story. Learn the words.", "zh": "跟着故事，记住单词。" }
+  ]
+}

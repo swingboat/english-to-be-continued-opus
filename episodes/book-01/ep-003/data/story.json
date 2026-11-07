@@ -1,0 +1,1061 @@
+{
+  "episode": "EP.003",
+  "episodeNo": 3,
+  "title": "同桌认出我，靠的是一句大实话。",
+  "titleLines": [
+    "My Deskmate Figured Me Out",
+    "with One Honest Sentence."
+  ],
+  "season": "Out-Hustled by My Own Clone",
+  "source": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-003.html",
+  "pronounce": {
+    "Xiaoshuais": "Shiao Shwais",
+    "Xiaoshuai": "Shiao Shwai",
+    "Xiaoman": "Shiao Man"
+  },
+  "next": {
+    "no": "004",
+    "lines": [
+      "Two Faces,",
+      "Only One Student Task Sheet."
+    ],
+    "desc": [
+      "Tomorrow: the head teacher and the parents.",
+      "Where will the clone live? What will he do?"
+    ]
+  },
+  "voices": {
+    "lin": {
+      "label": "Xiaoshuai",
+      "ref": "小帅"
+    },
+    "lin-narr": {
+      "label": "Xiaoshuai (narrating)",
+      "ref": "小帅"
+    },
+    "lin-shaky": {
+      "label": "Xiaoshuai",
+      "ref": "小帅",
+      "fx": "vibrato=f=5.5:d=0.06"
+    },
+    "lin-inner": {
+      "label": "Xiaoshuai (thinking)",
+      "ref": "小帅",
+      "fx": "aecho=0.8:0.7:70|140:0.28|0.14"
+    },
+    "clone": {
+      "label": "Clone",
+      "ref": "小帅的分身"
+    },
+    "su": {
+      "label": "Su Xiaoman",
+      "ref": "苏小满"
+    },
+    "word-us": {
+      "label": "American",
+      "voice": "en-US-AriaNeural",
+      "rate": "-18%",
+      "pitch": "+0Hz"
+    },
+    "word-gb": {
+      "label": "British",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-18%",
+      "pitch": "+0Hz"
+    },
+    "lesson": {
+      "label": "English Corner",
+      "voice": "en-US-JennyNeural",
+      "rate": "-2%",
+      "pitch": "+0Hz"
+    }
+  },
+  "storyboard": "/Users/huyin/Swingboat/english-to-be-continued/production/book-01/ep-003/storyboard.png",
+  "panelRects": [
+    [
+      3,
+      3,
+      434,
+      431
+    ],
+    [
+      448,
+      3,
+      436,
+      431
+    ],
+    [
+      3,
+      444,
+      434,
+      400
+    ],
+    [
+      448,
+      444,
+      436,
+      400
+    ],
+    [
+      3,
+      853,
+      434,
+      389
+    ],
+    [
+      448,
+      853,
+      436,
+      389
+    ],
+    [
+      3,
+      1253,
+      434,
+      518
+    ],
+    [
+      448,
+      1253,
+      436,
+      518
+    ]
+  ],
+  "panels": {
+    "p1": [
+      1736,
+      1724
+    ],
+    "p2": [
+      1744,
+      1724
+    ],
+    "p3": [
+      1736,
+      1600
+    ],
+    "p4": [
+      1744,
+      1600
+    ],
+    "p5": [
+      1736,
+      1556
+    ],
+    "p6": [
+      1744,
+      1556
+    ],
+    "p7": [
+      1736,
+      2072
+    ],
+    "p8": [
+      1744,
+      2072
+    ],
+    "prev1": [
+      1744,
+      1528
+    ],
+    "prev2": [
+      1744,
+      2184
+    ],
+    "prev3": [
+      1740,
+      2184
+    ]
+  },
+  "prevSource": [
+    "../ep-002/public/panels/p5.png",
+    "../ep-002/public/panels/p7.png",
+    "../ep-002/public/panels/p8.png"
+  ],
+  "prev": [
+    {
+      "id": "n-prev1",
+      "panel": "prev1",
+      "from": [
+        0.5,
+        0.5,
+        1.0
+      ],
+      "to": [
+        0.24,
+        0.34,
+        2.0
+      ]
+    },
+    {
+      "id": "n-prev2",
+      "panel": "prev2",
+      "from": [
+        0.3,
+        0.32,
+        1.7
+      ],
+      "to": [
+        0.55,
+        0.5,
+        1.1
+      ]
+    },
+    {
+      "id": "n-prev3",
+      "panel": "prev3",
+      "from": [
+        0.5,
+        0.4,
+        1.0
+      ],
+      "to": [
+        0.83,
+        0.27,
+        2.0
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "actually",
+      "id": "actually",
+      "ipa": "/ˈæktʃuəli/",
+      "pos": "adverb",
+      "meaning": "实际上；事实上",
+      "example": "Actually, it was not that brave.",
+      "exampleZh": "实际上，那没那么勇敢。",
+      "scene": 2,
+      "panel": "p2",
+      "en": "We say actually to tell what is really true.",
+      "enZh": "actually：用来说出真实的情况。"
+    },
+    {
+      "word": "to be frank",
+      "id": "tobefrank",
+      "ipa": "/tə bi ˈfræŋk/",
+      "pos": "phrase",
+      "meaning": "坦白说；坦率地说",
+      "example": "To be frank, I was afraid of making mistakes.",
+      "exampleZh": "坦白说，我害怕犯错。",
+      "scene": 3,
+      "panel": "p3",
+      "en": "We say to be frank before an honest opinion.",
+      "enZh": "to be frank：说真心话之前先这样开头。"
+    },
+    {
+      "word": "frank",
+      "id": "frank",
+      "ipa": "/fræŋk/",
+      "pos": "adjective",
+      "meaning": "坦率的；直言不讳的",
+      "example": "That's a frank answer.",
+      "exampleZh": "这个回答很坦率。",
+      "scene": 3,
+      "panel": "p3",
+      "en": "A frank answer is honest and direct.",
+      "enZh": "frank：诚实、直接的。"
+    },
+    {
+      "word": "differ",
+      "id": "differ",
+      "ipa": "/ˈdɪfə(r)/",
+      "uk": "/ˈdɪfə/",
+      "us": "/ˈdɪfər/",
+      "pos": "verb",
+      "meaning": "不同；有区别",
+      "example": "We look the same, but our goals differ.",
+      "exampleZh": "我们看起来一样，但目标不同。",
+      "scene": 4,
+      "panel": "p4",
+      "en": "When two things differ, they are not the same.",
+      "enZh": "differ：两样东西不一样。"
+    },
+    {
+      "word": "in person",
+      "id": "inperson",
+      "ipa": "/ɪn ˈpɜːsn/",
+      "pos": "phrase",
+      "meaning": "亲自；本人",
+      "example": "I promise to explain everything to the teacher and my parents in person.",
+      "exampleZh": "我答应亲自向老师和父母解释清楚一切。",
+      "scene": 6,
+      "panel": "p6",
+      "en": "In person means you are there and do it yourself.",
+      "enZh": "in person：本人到场，亲自去做。"
+    }
+  ],
+  "review": [
+    {
+      "word": "goal",
+      "meaning": "目标",
+      "example": "My goal is to stop hiding.",
+      "exampleZh": "我的目标是不再躲着。"
+    },
+    {
+      "word": "confidence",
+      "meaning": "自信；信心",
+      "example": "My voice shakes. My confidence grows.",
+      "exampleZh": "我的声音在发抖，我的信心却在增长。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": "p1",
+      "name": "表交了，话还没交代",
+      "place": "Hallway outside the office · After school",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s1n1",
+          "x": 0.17,
+          "y": 0.24,
+          "z": 2.2
+        },
+        {
+          "at": "s1n2",
+          "x": 0.66,
+          "y": 0.22,
+          "z": 1.8
+        },
+        {
+          "at": "s1-mirror",
+          "x": 0.66,
+          "y": 0.3,
+          "z": 1.6
+        },
+        {
+          "at": "s1n3",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s1-open",
+          "frames": 20,
+          "sfx": "bell"
+        },
+        {
+          "kind": "line",
+          "id": "s1n1",
+          "who": "lin-narr",
+          "en": "Xiaoman has our form, but she still wants an answer.",
+          "zh": "小满收下了我们的表，但她还在等一个解释。"
+        },
+        {
+          "kind": "line",
+          "id": "s1n2",
+          "who": "lin-narr",
+          "en": "My clone and I point at each other.",
+          "zh": "分身和我互相指着对方。",
+          "sfx": "rustle"
+        },
+        {
+          "kind": "pause",
+          "id": "s1-mirror",
+          "frames": 46,
+          "sfx": "stamp"
+        },
+        {
+          "kind": "line",
+          "id": "s1n3",
+          "who": "lin-narr",
+          "en": "That explains nothing.",
+          "zh": "这可什么都没解释。",
+          "sfx": "dun"
+        },
+        {
+          "kind": "pause",
+          "id": "s1-end",
+          "frames": 30
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": "p2",
+      "name": "听着像产品发布会",
+      "place": "Same hallway · Classroom door",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.6
+        },
+        {
+          "at": "s2n1",
+          "x": 0.5,
+          "y": 0.3,
+          "z": 2.0
+        },
+        {
+          "at": "s2n2",
+          "x": 0.17,
+          "y": 0.3,
+          "z": 2.4
+        },
+        {
+          "at": "s2n3",
+          "x": 0.32,
+          "y": 0.38,
+          "z": 1.7
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s2-open",
+          "frames": 20,
+          "sfx": "paper"
+        },
+        {
+          "kind": "line",
+          "id": "s2n1",
+          "who": "lin-narr",
+          "en": "He starts a perfect speech about a brave classroom experiment.",
+          "zh": "他开始了一篇完美演说，说这是一场勇敢的课堂实验。",
+          "sfx": "sparkle"
+        },
+        {
+          "kind": "pause",
+          "id": "s2-pitch",
+          "frames": 30
+        },
+        {
+          "kind": "line",
+          "id": "s2n2",
+          "who": "lin-narr",
+          "en": "Actually, it was not that brave.",
+          "zh": "实际上，那没那么勇敢。",
+          "kw": "actually",
+          "sfx": "scratch"
+        },
+        {
+          "kind": "line",
+          "id": "s2n3",
+          "who": "lin-narr",
+          "en": "I just wanted someone else to say hello for me.",
+          "zh": "我只是想让别人替我说声你好。"
+        },
+        {
+          "kind": "pause",
+          "id": "s2-end",
+          "frames": 30
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": "p3",
+      "name": "那句不好意思说的实话",
+      "place": "By the classroom door · Close-up",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s3n1",
+          "x": 0.3,
+          "y": 0.3,
+          "z": 2.3
+        },
+        {
+          "at": "s3n2",
+          "x": 0.4,
+          "y": 0.62,
+          "z": 1.5
+        },
+        {
+          "at": "s3n3",
+          "x": 0.84,
+          "y": 0.4,
+          "z": 2.3
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s3-hush",
+          "frames": 30,
+          "sfx": "heartbeat"
+        },
+        {
+          "kind": "line",
+          "id": "s3n1",
+          "who": "lin-narr",
+          "en": "To be frank, I was afraid of making mistakes.",
+          "zh": "坦白说，我害怕犯错。",
+          "kw": "to be frank"
+        },
+        {
+          "kind": "pause",
+          "id": "s3-beat",
+          "frames": 12
+        },
+        {
+          "kind": "line",
+          "id": "s3n2",
+          "who": "lin-narr",
+          "en": "I used my phone to make him. It only worked once.",
+          "zh": "我用手机生成了他。这个功能只能用一次。",
+          "sfx": "tap"
+        },
+        {
+          "kind": "line",
+          "id": "s3n3",
+          "who": "su",
+          "en": "That's a frank answer.",
+          "zh": "这个回答很坦率。",
+          "kw": "frank",
+          "sfxEnd": "twinkle"
+        },
+        {
+          "kind": "pause",
+          "id": "s3-end",
+          "frames": 40
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": "p4",
+      "name": "同一张脸，不同的目标",
+      "place": "Classroom door · Side by side",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.35,
+          "y": 0.4,
+          "z": 1.6
+        },
+        {
+          "at": "s4n1",
+          "x": 0.38,
+          "y": 0.3,
+          "z": 1.6
+        },
+        {
+          "at": "s4n2",
+          "x": 0.55,
+          "y": 0.3,
+          "z": 2.0
+        },
+        {
+          "at": "s4-cricket",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s4n3",
+          "x": 0.2,
+          "y": 0.32,
+          "z": 2.4
+        },
+        {
+          "at": "s4n4",
+          "x": 0.86,
+          "y": 0.45,
+          "z": 2.2
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s4-open",
+          "frames": 10
+        },
+        {
+          "kind": "line",
+          "id": "s4n1",
+          "who": "lin-narr",
+          "en": "We look the same, but our goals differ.",
+          "zh": "我们看起来一样，但目标不同。",
+          "kw": "differ"
+        },
+        {
+          "kind": "line",
+          "id": "s4n2",
+          "who": "lin-narr",
+          "en": "He wants applause.",
+          "zh": "他想要掌声。",
+          "sfxEnd": "cough"
+        },
+        {
+          "kind": "pause",
+          "id": "s4-cricket",
+          "frames": 56,
+          "sfx": "cricket"
+        },
+        {
+          "kind": "line",
+          "id": "s4n3",
+          "who": "lin-narr",
+          "en": "My goal is to stop hiding.",
+          "zh": "我的目标是不再躲着。",
+          "kw": "goal"
+        },
+        {
+          "kind": "pause",
+          "id": "s4-vs",
+          "frames": 78,
+          "sfx": "stamp"
+        },
+        {
+          "kind": "line",
+          "id": "s4n4",
+          "who": "lin-narr",
+          "en": "Now she understands why I entered the office myself.",
+          "zh": "现在她明白，我为什么要自己走进办公室了。",
+          "sfxEnd": "ding"
+        },
+        {
+          "kind": "pause",
+          "id": "s4-end",
+          "frames": 30
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": "p5",
+      "name": "她也有一句话想说完",
+      "place": "Empty classroom · Window desk",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.3,
+          "y": 0.62,
+          "z": 1.8
+        },
+        {
+          "at": "s5n1",
+          "x": 0.24,
+          "y": 0.36,
+          "z": 2.2
+        },
+        {
+          "at": "s5n2",
+          "x": 0.3,
+          "y": 0.45,
+          "z": 1.7
+        },
+        {
+          "at": "s5n3",
+          "x": 0.68,
+          "y": 0.36,
+          "z": 2.0
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s5-open",
+          "frames": 26,
+          "sfx": "flip"
+        },
+        {
+          "kind": "line",
+          "id": "s5n1",
+          "who": "lin-narr",
+          "en": "Then she opens her notebook. She has a radio show idea.",
+          "zh": "接着，她打开笔记本。她有一个广播节目的想法。"
+        },
+        {
+          "kind": "line",
+          "id": "s5n2",
+          "who": "lin-narr",
+          "en": "Last time, someone said it was too much trouble before she could finish.",
+          "zh": "上次她还没说完，就有人嫌太麻烦。"
+        },
+        {
+          "kind": "pause",
+          "id": "s5-cut",
+          "frames": 16
+        },
+        {
+          "kind": "line",
+          "id": "s5n3",
+          "who": "lin-narr",
+          "en": "This time, we listen.",
+          "zh": "这一次，我们听她说。",
+          "sfx": "pop",
+          "sfxEnd": "zipper"
+        },
+        {
+          "kind": "pause",
+          "id": "s5-end",
+          "frames": 36
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": "p6",
+      "name": "陪你去，不能替你说",
+      "place": "Empty classroom · By the desk",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s6n1",
+          "x": 0.85,
+          "y": 0.36,
+          "z": 2.2
+        },
+        {
+          "at": "s6n2",
+          "x": 0.22,
+          "y": 0.26,
+          "z": 2.3
+        },
+        {
+          "at": "s6-seal",
+          "x": 0.4,
+          "y": 0.4,
+          "z": 1.5
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s6-open",
+          "frames": 10
+        },
+        {
+          "kind": "line",
+          "id": "s6n1",
+          "who": "lin-narr",
+          "en": "She will come with us to see our teacher tomorrow.",
+          "zh": "明天她会陪我们一起去找老师。"
+        },
+        {
+          "kind": "line",
+          "id": "s6n2",
+          "who": "lin-narr",
+          "en": "I promise to explain everything to the teacher and my parents in person.",
+          "zh": "我答应亲自向老师和父母解释清楚一切。",
+          "kw": "in person"
+        },
+        {
+          "kind": "pause",
+          "id": "s6-seal",
+          "frames": 40,
+          "sfx": "stamp"
+        },
+        {
+          "kind": "pause",
+          "id": "s6-end",
+          "frames": 20,
+          "sfx": "zipper"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "panel": "p7",
+      "name": "这次，Hello 是我自己说的",
+      "place": "Empty classroom · A tiny audience",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.0
+        },
+        {
+          "at": "s7n1",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.0
+        },
+        {
+          "at": "s7-breath",
+          "x": 0.33,
+          "y": 0.18,
+          "z": 2.4
+        },
+        {
+          "at": "s7l1",
+          "x": 0.33,
+          "y": 0.2,
+          "z": 2.0
+        },
+        {
+          "at": "s7-clap",
+          "x": 0.6,
+          "y": 0.38,
+          "z": 1.8
+        },
+        {
+          "at": "s7n2",
+          "x": 0.3,
+          "y": 0.18,
+          "z": 2.5
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.35,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s7-open",
+          "frames": 10
+        },
+        {
+          "kind": "line",
+          "id": "s7n1",
+          "who": "lin-narr",
+          "en": "First, I practise with a smaller audience.",
+          "zh": "先从少一点的听众开始练习。"
+        },
+        {
+          "kind": "pause",
+          "id": "s7-breath",
+          "frames": 44,
+          "sfx": "breath"
+        },
+        {
+          "kind": "line",
+          "id": "s7l1",
+          "who": "lin-shaky",
+          "en": "Hi, I'm Xiaoshuai. I like basketball. I get nervous, but I want to try.",
+          "zh": "嗨，我是小帅。我喜欢篮球。我会紧张，但我想试试。",
+          "sfxEnd": "clap"
+        },
+        {
+          "kind": "pause",
+          "id": "s7-clap",
+          "frames": 34
+        },
+        {
+          "kind": "line",
+          "id": "s7n2",
+          "who": "lin-inner",
+          "en": "My voice shakes. My confidence grows.",
+          "zh": "我的声音在发抖，我的信心却在增长。",
+          "kw": "confidence",
+          "sfxEnd": "sparkle"
+        },
+        {
+          "kind": "pause",
+          "id": "s7-end",
+          "frames": 36
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "panel": "p8",
+      "name": "能介绍，先别报名",
+      "place": "Same classroom · All three",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.0
+        },
+        {
+          "at": "s8n1",
+          "x": 0.22,
+          "y": 0.2,
+          "z": 2.0
+        },
+        {
+          "at": "s8l1",
+          "x": 0.22,
+          "y": 0.28,
+          "z": 2.3
+        },
+        {
+          "at": "s8l2",
+          "x": 0.52,
+          "y": 0.3,
+          "z": 2.3
+        },
+        {
+          "at": "s8-laugh",
+          "x": 0.86,
+          "y": 0.34,
+          "z": 2.1
+        },
+        {
+          "at": "s8n2",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.0
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s8-open",
+          "frames": 10
+        },
+        {
+          "kind": "line",
+          "id": "s8n1",
+          "who": "lin-narr",
+          "en": "My clone raises his hand.",
+          "zh": "分身举起手。",
+          "sfx": "pop"
+        },
+        {
+          "kind": "line",
+          "id": "s8l1",
+          "who": "clone",
+          "en": "Can I introduce myself, too?",
+          "zh": "我也能介绍一下自己吗？"
+        },
+        {
+          "kind": "line",
+          "id": "s8l2",
+          "who": "lin",
+          "en": "Yes. Just don't volunteer for another job!",
+          "zh": "可以。可别又报名另一项工作！",
+          "kw": "volunteer",
+          "sfx": "bonk"
+        },
+        {
+          "kind": "pause",
+          "id": "s8-laugh",
+          "frames": 40,
+          "sfx": "giggle"
+        },
+        {
+          "kind": "line",
+          "id": "s8n2",
+          "who": "lin-narr",
+          "en": "Tomorrow, we both have some explaining to do.",
+          "zh": "明天，我们两个都有些事得解释清楚。"
+        },
+        {
+          "kind": "pause",
+          "id": "s8-end",
+          "frames": 40
+        }
+      ]
+    }
+  ],
+  "narration": [
+    {
+      "id": "n-prev1",
+      "who": "lin-narr",
+      "en": "Last time: two of me, three jobs. So I walked into the office by myself,",
+      "zh": "上回说到：两个我，三件事。于是我一个人走进了办公室，"
+    },
+    {
+      "id": "n-prev2",
+      "who": "lin-narr",
+      "en": "changed the schedule, and gave up one promise.",
+      "zh": "调整了日程，放弃了一个承诺。"
+    },
+    {
+      "id": "n-prev3",
+      "who": "lin-narr",
+      "en": "But Xiaoman still wants to know: why are there two of me?",
+      "zh": "可苏小满还想知道：为什么会有两个我？"
+    },
+    {
+      "id": "n-title",
+      "who": "lin-narr",
+      "en": "English: To Be Continued. Episode three. My deskmate figured me out, with one honest sentence.",
+      "zh": "英语有续集，第三话。同桌认出我，靠的是一句大实话。"
+    },
+    {
+      "id": "n-recap",
+      "who": "lesson",
+      "en": "Now, let's learn the words!",
+      "zh": "现在，来学单词！"
+    },
+    {
+      "id": "n-review",
+      "who": "lesson",
+      "en": "And two words from Episode One!",
+      "zh": "还有两个第一集学过的词！"
+    },
+    {
+      "id": "n-next1",
+      "who": "lin-narr",
+      "en": "Next time: Two faces, but only one student task sheet.",
+      "zh": "下集预告：两张脸，只能领一张学生任务单。"
+    },
+    {
+      "id": "n-next2",
+      "who": "lin-narr",
+      "en": "Tomorrow, we tell the head teacher and my parents everything. And my clone needs a place to live, and a job to do.",
+      "zh": "明天，我们要向班主任和我爸妈说明一切。分身的住处与分工，也得有个实在的安排。"
+    },
+    {
+      "id": "n-outro",
+      "who": "word-us",
+      "en": "Follow the story. Learn the words.",
+      "zh": "跟着故事，记住单词。"
+    }
+  ],
+  "voiceRefs": "/Users/huyin/Swingboat/english-to-be-continued/voices/book-01/characters"
+}

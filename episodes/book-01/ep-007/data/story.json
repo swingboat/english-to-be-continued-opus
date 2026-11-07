@@ -1,0 +1,1268 @@
+{
+ "episode": "EP.007",
+ "episodeNo": 7,
+ "title": "负责人的名字，不能写两个小帅。",
+ "titleLines": [
+  "One Job, One Name.",
+  "Not Two Xiaoshuais."
+ ],
+ "season": "Out-Hustled by My Own Clone",
+ "source": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-007.html",
+ "pronounce": {
+  "Xiaoshuais": "Shiao Shwais",
+  "Xiaoshuai": "Shiao Shwai",
+  "Xiaoman": "Shiao Man"
+ },
+ "next": {
+  "no": "008",
+  "lines": [
+   "The Computer Isn't Broken.",
+   "We Clicked the Wrong Thing."
+  ],
+  "desc": [
+   "The speaker works. The recording hasn't started.",
+   "And the clone brings... a shopping list?"
+  ]
+ },
+ "voices": {
+  "lin": {
+   "label": "Xiaoshuai",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+6%",
+   "pitch": "+2Hz"
+  },
+  "lin-en": {
+   "label": "Xiaoshuai",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "-4%",
+   "pitch": "+2Hz"
+  },
+  "lin-inner-en": {
+   "label": "Xiaoshuai (thinking)",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "-4%",
+   "pitch": "+2Hz",
+   "fx": "aecho=0.8:0.55:70|140:0.28|0.14"
+  },
+  "clone": {
+   "label": "Clone",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+12%",
+   "pitch": "+6Hz"
+  },
+  "clone-en": {
+   "label": "Clone",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+2%",
+   "pitch": "+6Hz"
+  },
+  "su": {
+   "label": "Su Xiaoman",
+   "voice": "zh-TW-HsiaoChenNeural",
+   "rate": "+4%",
+   "pitch": "+6Hz"
+  },
+  "su-en": {
+   "label": "Su Xiaoman",
+   "voice": "zh-TW-HsiaoChenNeural",
+   "rate": "+0%",
+   "pitch": "+6Hz"
+  },
+  "buzz": {
+   "label": "Buzz-cut classmate",
+   "voice": "zh-TW-YunJheNeural",
+   "rate": "+4%",
+   "pitch": "+4Hz"
+  },
+  "pony": {
+   "label": "Ponytail classmate",
+   "voice": "zh-CN-XiaoyiNeural",
+   "rate": "+4%",
+   "pitch": "+4Hz"
+  },
+  "mum": {
+   "label": "Mum",
+   "voice": "zh-CN-XiaoxiaoNeural",
+   "rate": "-2%",
+   "pitch": "-2Hz"
+  },
+  "teacher": {
+   "label": "Head Teacher",
+   "voice": "en-US-ChristopherNeural",
+   "rate": "+0%",
+   "pitch": "+0Hz"
+  },
+  "narrator-en": {
+   "label": "Narrator",
+   "voice": "en-US-AvaNeural",
+   "rate": "-4%",
+   "pitch": "+0Hz"
+  },
+  "lesson": {
+   "label": "English Corner",
+   "voice": "en-US-JennyNeural",
+   "rate": "-2%",
+   "pitch": "+0Hz"
+  },
+  "word-us": {
+   "label": "American",
+   "voice": "en-US-AriaNeural",
+   "rate": "-18%",
+   "pitch": "+0Hz"
+  },
+  "word-gb": {
+   "label": "British",
+   "voice": "en-GB-SoniaNeural",
+   "rate": "-18%",
+   "pitch": "+0Hz"
+  },
+  "adviser": {
+   "label": "Radio Adviser",
+   "voice": "en-GB-LibbyNeural",
+   "rate": "-2%",
+   "pitch": "+0Hz"
+  },
+  "clone-spk": {
+   "label": "Clone (through the speaker)",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+12%",
+   "pitch": "+6Hz",
+   "fx": "highpass=f=320,lowpass=f=3800,aecho=0.8:0.35:35:0.25,volume=1.3"
+  }
+ },
+ "storyboard": "/Users/huyin/Swingboat/english-to-be-continued/production/book-01/ep-007/storyboard.png",
+ "panelRects": [
+  [
+   3,
+   3,
+   433,
+   392
+  ],
+  [
+   450,
+   3,
+   434,
+   392
+  ],
+  [
+   3,
+   407,
+   433,
+   404
+  ],
+  [
+   450,
+   407,
+   434,
+   404
+  ],
+  [
+   3,
+   824,
+   433,
+   392
+  ],
+  [
+   450,
+   824,
+   434,
+   392
+  ],
+  [
+   3,
+   1229,
+   433,
+   542
+  ],
+  [
+   450,
+   1229,
+   434,
+   542
+  ]
+ ],
+ "panels": {
+  "p1": [
+   1732,
+   1568
+  ],
+  "p2": [
+   1736,
+   1568
+  ],
+  "p3": [
+   1732,
+   1616
+  ],
+  "p4": [
+   1736,
+   1616
+  ],
+  "p5": [
+   1732,
+   1568
+  ],
+  "p6": [
+   1736,
+   1568
+  ],
+  "p7": [
+   1732,
+   2168
+  ],
+  "p8": [
+   1736,
+   2168
+  ],
+  "prev1": [
+   1736,
+   1612
+  ],
+  "prev2": [
+   1736,
+   1572
+  ],
+  "prev3": [
+   1736,
+   2172
+  ]
+ },
+ "prevSource": [
+  "../ep-006/public/panels/p4.png",
+  "../ep-006/public/panels/p6.png",
+  "../ep-006/public/panels/p8.png"
+ ],
+ "prev": [
+  {
+   "id": "n-prev1",
+   "panel": "prev1",
+   "from": [
+    0.5,
+    0.45,
+    1.0
+   ],
+   "to": [
+    0.2,
+    0.33,
+    2.2
+   ]
+  },
+  {
+   "id": "n-prev2",
+   "panel": "prev2",
+   "from": [
+    0.5,
+    0.45,
+    1.0
+   ],
+   "to": [
+    0.5,
+    0.27,
+    2.1
+   ]
+  },
+  {
+   "id": "n-prev3",
+   "panel": "prev3",
+   "from": [
+    0.5,
+    0.4,
+    1.0
+   ],
+   "to": [
+    0.7,
+    0.55,
+    2.0
+   ]
+  }
+ ],
+ "reviewFrom": 6,
+ "words": [
+  {
+   "word": "be responsible for",
+   "id": "respfor",
+   "say": "be responsible for",
+   "kw": "responsible for",
+   "ipa": "/bi rɪˈspɒnsəbl fə(r)/",
+   "pos": "phrase",
+   "meaning": "对……负责；负责……",
+   "example": "I will be responsible for the schedule.",
+   "exampleZh": "我会负责时间安排。",
+   "scene": 2,
+   "panel": "p2",
+   "en": "If you are responsible for something, it is your job.",
+   "enZh": "be responsible for sth：这件事归你管。"
+  },
+  {
+   "word": "function",
+   "id": "function",
+   "ipa": "/ˈfʌŋkʃn/",
+   "pos": "noun",
+   "meaning": "功能；作用",
+   "example": "What is the function of this button?",
+   "exampleZh": "这个按钮有什么功能？",
+   "scene": 3,
+   "panel": "p3",
+   "en": "The function of a thing is the job it does.",
+   "enZh": "function：一样东西的用途。"
+  },
+  {
+   "word": "seek",
+   "id": "seek",
+   "ipa": "/siːk/",
+   "pos": "verb",
+   "meaning": "寻求；请求",
+   "example": "We need to seek help.",
+   "exampleZh": "我们需要寻求帮助。",
+   "scene": 5,
+   "panel": "p5",
+   "en": "To seek something is to try to find or get it.",
+   "enZh": "seek：设法寻找或获得。"
+  },
+  {
+   "word": "professional",
+   "id": "professional",
+   "ipa": "/prəˈfeʃənl/",
+   "pos": "adjective",
+   "meaning": "专业的；职业的",
+   "example": "Now we have someone with professional experience.",
+   "exampleZh": "现在，有具备专业经验的人来帮忙了。",
+   "scene": 6,
+   "panel": "p6",
+   "en": "Professional means having the skills and training for a job.",
+   "enZh": "professional：具备某项工作的技能和训练。"
+  },
+  {
+   "word": "responsible",
+   "id": "responsible",
+   "ipa": "/rɪˈspɒnsəbl/",
+   "uk": "/rɪˈspɒnsəbl/",
+   "us": "/rɪˈspɑːnsəbl/",
+   "pos": "adjective",
+   "meaning": "负责任的；负责的",
+   "example": "Being responsible also means knowing when to ask.",
+   "exampleZh": "负责任，也意味着知道什么时候该求助。",
+   "scene": 7,
+   "panel": "p7",
+   "en": "Responsible people do what they should.",
+   "enZh": "responsible：做自己该做的事。"
+  }
+ ],
+ "review": [
+  {
+   "word": "voluntary",
+   "meaning": "自愿的；志愿的",
+   "example": "Taking part is voluntary.",
+   "exampleZh": "参与是自愿的。"
+  },
+  {
+   "word": "organise",
+   "meaning": "组织；安排",
+   "example": "Xiaoman edits. I organise. My clone checks sound with guidance.",
+   "exampleZh": "小满主编，我来统筹，分身在指导下检查声音。"
+  }
+ ],
+ "scenes": [
+  {
+   "id": 1,
+   "panel": "p1",
+   "name": "两张脸，两行同样的名字",
+   "place": "Next day · After school · The radio room",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s1l1",
+     "x": 0.12,
+     "y": 0.36,
+     "z": 2.2
+    },
+    {
+     "at": "s1-twin",
+     "x": 0.63,
+     "y": 0.32,
+     "z": 1.7
+    },
+    {
+     "at": "s1l2",
+     "x": 0.52,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s1l3",
+     "x": 0.35,
+     "y": 0.43,
+     "z": 2.1
+    },
+    {
+     "at": "s1l4",
+     "x": 0.12,
+     "y": 0.36,
+     "z": 2.1
+    },
+    {
+     "at": "s1-form",
+     "x": 0.55,
+     "y": 0.58,
+     "z": 2.4
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s1-open",
+     "frames": 18,
+     "sfx": "door"
+    },
+    {
+     "kind": "line",
+     "id": "s1l1",
+     "who": "pony",
+     "en": "I'm here to help with the scripts. Wait... why do you two look the same?",
+     "zh": "我来帮忙整理稿子。咦，你们怎么……长得一样？"
+    },
+    {
+     "kind": "pause",
+     "id": "s1-twin",
+     "frames": 44,
+     "sfx": "scan"
+    },
+    {
+     "kind": "line",
+     "id": "s1l2",
+     "who": "lin",
+     "en": "He's my clone. He came from a phone copy. The teachers and our parents know. He only helps after school, with permission.",
+     "zh": "他是我的分身，来自一次手机复制。老师和家长都知道；他只在获准的课后时间来协助。"
+    },
+    {
+     "kind": "line",
+     "id": "s1l3",
+     "who": "su",
+     "en": "Same face, but their jobs need to be clear. Let's look at the draft first.",
+     "zh": "外貌一样，做的事情要分清楚。先看这张草稿。",
+     "sfx": "flip"
+    },
+    {
+     "kind": "line",
+     "id": "s1l4",
+     "who": "pony",
+     "en": "So these two lines that say \"Xiaoshuai\"... which one is which?",
+     "zh": "那这两行“小帅”，分别是谁？"
+    },
+    {
+     "kind": "pause",
+     "id": "s1-form",
+     "frames": 40,
+     "sfx": "dun"
+    },
+    {
+     "kind": "pause",
+     "id": "s1-end",
+     "frames": 12
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "panel": "p2",
+   "name": "先说清，谁来统筹",
+   "place": "The radio room · Before the test",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s2l1",
+     "x": 0.9,
+     "y": 0.25,
+     "z": 2.2
+    },
+    {
+     "at": "s2l2",
+     "x": 0.25,
+     "y": 0.32,
+     "z": 2.1
+    },
+    {
+     "at": "s2l3",
+     "x": 0.72,
+     "y": 0.45,
+     "z": 2.1
+    },
+    {
+     "at": "s2l4",
+     "x": 0.28,
+     "y": 0.32,
+     "z": 2.2
+    },
+    {
+     "at": "s2l5",
+     "x": 0.88,
+     "y": 0.28,
+     "z": 2.0
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s2-open",
+     "frames": 12
+    },
+    {
+     "kind": "line",
+     "id": "s2l1",
+     "who": "teacher",
+     "en": "First, let's be clear about today's roles. Who's organising the trial prep?",
+     "zh": "先把当班分工说清楚。谁来统筹这次试播准备？"
+    },
+    {
+     "kind": "line",
+     "id": "s2l2",
+     "who": "lin-en",
+     "en": "I will be responsible for the schedule.",
+     "zh": "我会负责时间安排。",
+     "kw": "responsible for",
+     "sfxEnd": "twinkle"
+    },
+    {
+     "kind": "line",
+     "id": "s2l3",
+     "who": "su",
+     "en": "I'll edit and sort out the scripts first. The clone will help check the sound, with the teacher's guidance.",
+     "zh": "我主编，先整理稿子；分身在老师指导下协助声音检查。"
+    },
+    {
+     "kind": "line",
+     "id": "s2l4",
+     "who": "lin-en",
+     "en": "Taking part is voluntary.",
+     "zh": "参与是自愿的。",
+     "kw": "voluntary"
+    },
+    {
+     "kind": "line",
+     "id": "s2l5",
+     "who": "teacher",
+     "en": "Good. Let's start with these roles. Later, write down who is who and what each person does. Then everyone signs for themselves.",
+     "zh": "好，按这个分工开始。表格上的身份和职责，等会儿也要改清楚再各自签名。",
+     "sfxEnd": "pop"
+    },
+    {
+     "kind": "pause",
+     "id": "s2-end",
+     "frames": 20
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "panel": "p3",
+   "name": "试一句 Hello，音箱却没回应",
+   "place": "Same desk · Sound test in the room",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.5,
+     "z": 1
+    },
+    {
+     "at": "s3l1",
+     "x": 0.25,
+     "y": 0.32,
+     "z": 2.1
+    },
+    {
+     "at": "s3-silence",
+     "x": 0.9,
+     "y": 0.78,
+     "z": 2.3
+    },
+    {
+     "at": "s3-silence",
+     "x": 0.9,
+     "y": 0.78,
+     "z": 2.3,
+     "offset": 40
+    },
+    {
+     "at": "s3l2",
+     "x": 0.22,
+     "y": 0.45,
+     "z": 1.9
+    },
+    {
+     "at": "s3l3",
+     "x": 0.78,
+     "y": 0.5,
+     "z": 2.0
+    },
+    {
+     "at": "s3l4",
+     "x": 0.5,
+     "y": 0.38,
+     "z": 2.2
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.5,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s3-open",
+     "frames": 30,
+     "sfx": "click"
+    },
+    {
+     "kind": "line",
+     "id": "s3l1",
+     "who": "clone",
+     "en": "Hello? ...Why am I the only one who can hear me?",
+     "zh": "Hello？……怎么只有我自己听见？"
+    },
+    {
+     "kind": "pause",
+     "id": "s3-silence",
+     "frames": 64,
+     "sfx": "cricket"
+    },
+    {
+     "kind": "line",
+     "id": "s3l2",
+     "who": "clone-en",
+     "en": "What is the function of this button?",
+     "zh": "这个按钮有什么功能？",
+     "kw": "function"
+    },
+    {
+     "kind": "line",
+     "id": "s3l3",
+     "who": "su",
+     "en": "Check the guide first. No guessing. Let's write down what we've already checked.",
+     "zh": "先看说明，别靠猜。我们把已经确认的地方记下来。",
+     "sfx": "flip"
+    },
+    {
+     "kind": "line",
+     "id": "s3l4",
+     "who": "lin",
+     "en": "The light is on, but the speaker is still silent. Let's describe the problem clearly first.",
+     "zh": "指示灯亮着，音箱还没出声。先把问题说清楚。"
+    },
+    {
+     "kind": "pause",
+     "id": "s3-end",
+     "frames": 20
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "panel": "p4",
+   "name": "另一个小帅能签吗",
+   "place": "At the desk · The roles form",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s4l1",
+     "x": 0.22,
+     "y": 0.32,
+     "z": 2.2
+    },
+    {
+     "at": "s4l2",
+     "x": 0.58,
+     "y": 0.35,
+     "z": 2.1
+    },
+    {
+     "at": "s4l3",
+     "x": 0.85,
+     "y": 0.45,
+     "z": 2.1
+    },
+    {
+     "at": "s4-speaker",
+     "x": 0.86,
+     "y": 0.85,
+     "z": 2.4
+    },
+    {
+     "at": "s4l4",
+     "x": 0.22,
+     "y": 0.32,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s4-open",
+     "frames": 12
+    },
+    {
+     "kind": "line",
+     "id": "s4l1",
+     "who": "clone",
+     "en": "So... could the other Xiaoshuai sign? It's the same name anyway.",
+     "zh": "那……能让另一个小帅签吗？名字反正一样。",
+     "sfx": "tap"
+    },
+    {
+     "kind": "line",
+     "id": "s4l2",
+     "who": "lin",
+     "en": "I'll sign for organising. But your checks need to show that you did them. If it's not done, write \"not done.\"",
+     "zh": "统筹我会签。但你做的检查，也得写清楚是你做的，没完成就先记未完成。"
+    },
+    {
+     "kind": "line",
+     "id": "s4l3",
+     "who": "su",
+     "en": "Writing the same name twice won't make the speaker work. Let's find someone who can help.",
+     "zh": "同一个名字写两次，音箱也不会自己响。先找谁能帮忙。"
+    },
+    {
+     "kind": "pause",
+     "id": "s4-speaker",
+     "frames": 34
+    },
+    {
+     "kind": "line",
+     "id": "s4l4",
+     "who": "clone",
+     "en": "Got it. I haven't figured it out yet, so I shouldn't tick \"done.\"",
+     "zh": "明白。我还没查清楚，不该先勾完成。",
+     "sfxEnd": "scribble"
+    },
+    {
+     "kind": "pause",
+     "id": "s4-end",
+     "frames": 20
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "panel": "p5",
+   "name": "留下来，也要会求助",
+   "place": "The radio room · Calling the adviser",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s5l1",
+     "x": 0.38,
+     "y": 0.4,
+     "z": 2.2
+    },
+    {
+     "at": "s5l2",
+     "x": 0.4,
+     "y": 0.45,
+     "z": 1.8
+    },
+    {
+     "at": "s5l3",
+     "x": 0.86,
+     "y": 0.25,
+     "z": 2.2
+    },
+    {
+     "at": "s5l4",
+     "x": 0.15,
+     "y": 0.27,
+     "z": 2.2
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s5-open",
+     "frames": 12
+    },
+    {
+     "kind": "line",
+     "id": "s5l1",
+     "who": "lin-en",
+     "en": "We need to seek help.",
+     "zh": "我们需要寻求帮助。",
+     "kw": "seek"
+    },
+    {
+     "kind": "line",
+     "id": "s5l2",
+     "who": "lin",
+     "en": "We've checked these parts with the guide. We're not sure about the speaker connection. I'll stay and explain what happened.",
+     "zh": "这些我们已经照说明看过，音箱连接还不确定。我留下把情况说清楚。"
+    },
+    {
+     "kind": "line",
+     "id": "s5l3",
+     "who": "teacher",
+     "en": "I'll call the radio adviser and ask her to come. Tell her what you've already checked.",
+     "zh": "我联系广播指导老师，请她过来看。你们把刚才确认过的地方告诉她。",
+     "sfxEnd": "ring"
+    },
+    {
+     "kind": "line",
+     "id": "s5l4",
+     "who": "clone",
+     "en": "I'll mark the parts we haven't confirmed, and wait for her to teach us.",
+     "zh": "我把还没确认的标出来，等她来教。",
+     "sfxEnd": "scribble"
+    },
+    {
+     "kind": "pause",
+     "id": "s5-end",
+     "frames": 24
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "panel": "p6",
+   "name": "有经验的人，先看连接",
+   "place": "Same room · The radio adviser arrives",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.78,
+     "y": 0.3,
+     "z": 1.6
+    },
+    {
+     "at": "s6l1",
+     "x": 0.42,
+     "y": 0.32,
+     "z": 2.2
+    },
+    {
+     "at": "s6l2",
+     "x": 0.78,
+     "y": 0.25,
+     "z": 2.2
+    },
+    {
+     "at": "s6l3",
+     "x": 0.15,
+     "y": 0.27,
+     "z": 2.2
+    },
+    {
+     "at": "s6l4",
+     "x": 0.75,
+     "y": 0.4,
+     "z": 1.9
+    },
+    {
+     "at": "s6-click",
+     "x": 0.7,
+     "y": 0.72,
+     "z": 2.6
+    },
+    {
+     "at": "s6-hello",
+     "x": 0.45,
+     "y": 0.5,
+     "z": 1.4
+    },
+    {
+     "at": "s6l5",
+     "x": 0.2,
+     "y": 0.5,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s6-open",
+     "frames": 20,
+     "sfx": "steps"
+    },
+    {
+     "kind": "line",
+     "id": "s6l1",
+     "who": "lin-en",
+     "en": "Now we have someone with professional experience.",
+     "zh": "现在，有具备专业经验的人来帮忙了。",
+     "kw": "professional"
+    },
+    {
+     "kind": "line",
+     "id": "s6l2",
+     "who": "adviser",
+     "en": "Your head teacher already told me about you two. First, tell me what you've checked.",
+     "zh": "班主任已经把情况说明了。你们先讲刚才做过哪些检查。"
+    },
+    {
+     "kind": "line",
+     "id": "s6l3",
+     "who": "clone",
+     "en": "We checked the buttons with the guide. We're not sure about this speaker connection.",
+     "zh": "按钮按说明确认过，这根音箱连接我们不确定。"
+    },
+    {
+     "kind": "line",
+     "id": "s6l4",
+     "who": "adviser",
+     "en": "That's the problem. The audio cable isn't plugged in all the way. Let's check the connection together, then test again.",
+     "zh": "问题就在这里，音频线没接牢。我带你们确认连接，再试听一次。"
+    },
+    {
+     "kind": "pause",
+     "id": "s6-click",
+     "frames": 34,
+     "sfx": "plug"
+    },
+    {
+     "kind": "line",
+     "id": "s6-hello",
+     "who": "clone-spk",
+     "en": "Hello!",
+     "zh": "Hello！",
+     "sfxEnd": "sparkle"
+    },
+    {
+     "kind": "line",
+     "id": "s6l5",
+     "who": "su",
+     "en": "This time we heard it! I'll add the check order to our prep notes.",
+     "zh": "这次听到了。我把检查顺序记进准备稿。"
+    },
+    {
+     "kind": "pause",
+     "id": "s6-end",
+     "frames": 20
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "panel": "p7",
+   "name": "各自的工作，各自签清楚",
+   "place": "After the test · Signing the roles",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.3,
+     "z": 1
+    },
+    {
+     "at": "s7l1",
+     "x": 0.25,
+     "y": 0.22,
+     "z": 2.1
+    },
+    {
+     "at": "s7l2",
+     "x": 0.82,
+     "y": 0.28,
+     "z": 2.1
+    },
+    {
+     "at": "s7l3",
+     "x": 0.25,
+     "y": 0.25,
+     "z": 2.1
+    },
+    {
+     "at": "s7l4",
+     "x": 0.52,
+     "y": 0.22,
+     "z": 2.1
+    },
+    {
+     "at": "s7l5",
+     "x": 0.45,
+     "y": 0.35,
+     "z": 1.4
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.3,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s7-open",
+     "frames": 12,
+     "sfx": "scribble"
+    },
+    {
+     "kind": "line",
+     "id": "s7l1",
+     "who": "lin-en",
+     "en": "Being responsible also means knowing when to ask.",
+     "zh": "负责任，也意味着知道什么时候该求助。",
+     "kw": "responsible"
+    },
+    {
+     "kind": "line",
+     "id": "s7l2",
+     "who": "su",
+     "en": "I'm the editor. If there's a problem with the scripts, come to me.",
+     "zh": "我主编，稿子有问题来找我。",
+     "sfxEnd": "sign"
+    },
+    {
+     "kind": "line",
+     "id": "s7l3",
+     "who": "lin",
+     "en": "I'm the organiser. The real me. If people or times aren't sorted out, come to me.",
+     "zh": "我本人统筹。人和时间没安排清楚，来找我。",
+     "sfxEnd": "sign"
+    },
+    {
+     "kind": "line",
+     "id": "s7l4",
+     "who": "clone",
+     "en": "I'll write \"Xiaoshuai (clone): sound helper.\" I'll sign this line myself, and log only the checks I did.",
+     "zh": "我写“小帅（分身）—声音协助”。这行我自己签，检查记录也写我做过的。",
+     "sfxEnd": "sign"
+    },
+    {
+     "kind": "line",
+     "id": "s7l5",
+     "who": "lin-en",
+     "en": "Xiaoman edits. I organise. My clone checks sound with guidance.",
+     "zh": "小满主编，我来统筹，分身在指导下检查声音。",
+     "kw": "organise",
+     "sfxEnd": "stamp"
+    },
+    {
+     "kind": "pause",
+     "id": "s7-end",
+     "frames": 24
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "panel": "p8",
+   "name": "十分钟，终于有了时间",
+   "place": "By the calendar · Trial slot confirmed",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1
+    },
+    {
+     "at": "s8l1",
+     "x": 0.55,
+     "y": 0.2,
+     "z": 1.8
+    },
+    {
+     "at": "s8-cal",
+     "x": 0.86,
+     "y": 0.15,
+     "z": 2.6
+    },
+    {
+     "at": "s8-cal",
+     "x": 0.86,
+     "y": 0.15,
+     "z": 2.6,
+     "offset": 26
+    },
+    {
+     "at": "s8l2",
+     "x": 0.55,
+     "y": 0.47,
+     "z": 2.1
+    },
+    {
+     "at": "s8l3",
+     "x": 0.17,
+     "y": 0.42,
+     "z": 2.1
+    },
+    {
+     "at": "s8-quiet",
+     "x": 0.88,
+     "y": 0.5,
+     "z": 1.8
+    },
+    {
+     "at": "s8l4",
+     "x": 0.9,
+     "y": 0.42,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1.1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s8-open",
+     "frames": 12
+    },
+    {
+     "kind": "line",
+     "id": "s8l1",
+     "who": "adviser",
+     "en": "The roles are clear, and the sound test passed. Next Wednesday after school, from four forty to four fifty, is yours for a ten-minute trial.",
+     "zh": "分工清楚，试听也通过了。下周三放学后，16:40 到 16:50，留给你们做十分钟试播。"
+    },
+    {
+     "kind": "pause",
+     "id": "s8-cal",
+     "frames": 40,
+     "sfx": "marker"
+    },
+    {
+     "kind": "line",
+     "id": "s8l2",
+     "who": "su",
+     "en": "Then I'll bring the first draft of the script. We need to start on the interviews, too.",
+     "zh": "那我先把稿子的第一版带来，采访素材也要开始准备。"
+    },
+    {
+     "kind": "line",
+     "id": "s8l3",
+     "who": "lin",
+     "en": "I'll tell everyone the time and who needs to be there. We'll learn the recording computer together next time.",
+     "zh": "我把时段和到场安排通知清楚。录音电脑下一次再一起学。"
+    },
+    {
+     "kind": "pause",
+     "id": "s8-quiet",
+     "frames": 26,
+     "sfx": "paper"
+    },
+    {
+     "kind": "line",
+     "id": "s8l4",
+     "who": "clone",
+     "en": "This time, what I signed is the work I'll do myself.",
+     "zh": "这回我签的，是我自己要做的事。"
+    },
+    {
+     "kind": "pause",
+     "id": "s8-end",
+     "frames": 36
+    }
+   ]
+  }
+ ],
+ "narration": [
+  {
+   "id": "n-prev1",
+   "who": "narrator-en",
+   "en": "Last time: the clone's timetable reached the floor, and Xiaoman circled just one box.",
+   "zh": "上回说到：分身的节目表垂到了地上，小满只圈出了一小格。"
+  },
+  {
+   "id": "n-prev2",
+   "who": "narrator-en",
+   "en": "The clone admitted he had never used the equipment.",
+   "zh": "分身承认，自己从没用过那套设备。"
+  },
+  {
+   "id": "n-prev3",
+   "who": "narrator-en",
+   "en": "One ten-minute trial was approved in principle. But first: written roles, and an equipment check.",
+   "zh": "一期十分钟试播获得原则同意。但得先交书面分工，再检查设备。"
+  },
+  {
+   "id": "n-title",
+   "who": "narrator-en",
+   "en": "English: To Be Continued. Episode seven. One job, one name. You can't write Xiaoshuai twice.",
+   "zh": "英语有续集，第七话。负责人的名字，不能写两个小帅。"
+  },
+  {
+   "id": "n-recap",
+   "who": "lesson",
+   "en": "Now, let's learn the words!",
+   "zh": "现在，来学单词！"
+  },
+  {
+   "id": "n-review",
+   "who": "lesson",
+   "en": "And two words from Episode 6!",
+   "zh": "还有两个第六集学过的词！"
+  },
+  {
+   "id": "n-next1",
+   "who": "narrator-en",
+   "en": "Next time: the computer isn't broken. We clicked in the wrong place.",
+   "zh": "下集预告：电脑没坏，是我们点错了地方。"
+  },
+  {
+   "id": "n-next2",
+   "who": "narrator-en",
+   "en": "The speaker is fixed, but the recording hasn't started. And before we even get to the computer, the clone brings a list of new equipment to buy.",
+   "zh": "音箱已经接好，录音素材还没开始做。下一次准备转到电脑，分身却先拿来一张设备采购单。"
+  },
+  {
+   "id": "n-outro",
+   "who": "word-us",
+   "en": "Follow the story. Learn the words.",
+   "zh": "跟着故事，记住单词。"
+  }
+ ]
+}

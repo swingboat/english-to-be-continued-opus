@@ -1,0 +1,1335 @@
+{
+  "episode": "EP.005",
+  "episodeNo": 5,
+  "title": "他替我答应的晨跑，我来喊暂停。",
+  "titleLines": [
+    "He Said Yes to a Morning Run.",
+    "I Call Time‑Out."
+  ],
+  "season": "Out-Hustled by My Own Clone",
+  "source": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-005.html",
+  "pronounce": {
+    "Xiaoshuais": "Shiao Shwais",
+    "Xiaoshuai": "Shiao Shwai",
+    "Xiaoman": "Shiao Man"
+  },
+  "next": {
+    "no": "006",
+    "lines": [
+      "Not Hush Money.",
+      "She Wants Ten Minutes."
+    ],
+    "desc": [
+      "First, I listen to Xiaoman's whole radio pitch.",
+      "My clone? He already wants an all-day show."
+    ]
+  },
+  "voices": {
+    "lin": {
+      "label": "Xiaoshuai",
+      "ref": "小帅"
+    },
+    "lin-narr": {
+      "label": "Xiaoshuai (narrating)",
+      "ref": "小帅"
+    },
+    "lin-inner": {
+      "label": "Xiaoshuai (thinking)",
+      "ref": "小帅",
+      "fx": "aecho=0.8:0.7:70|140:0.28|0.14"
+    },
+    "clone": {
+      "label": "Clone",
+      "ref": "小帅的分身"
+    },
+    "su": {
+      "label": "Su Xiaoman",
+      "ref": "苏小满"
+    },
+    "buzz": {
+      "label": "Buzz-cut classmate",
+      "ref": "寸头同学"
+    },
+    "buzz-vo": {
+      "label": "Buzz-cut classmate (off-screen)",
+      "ref": "寸头同学",
+      "fx": "lowpass=f=3600,aecho=0.8:0.4:30:0.15"
+    },
+    "pony": {
+      "label": "Ponytail classmate",
+      "ref": "高马尾同学"
+    },
+    "teacher": {
+      "label": "Head Teacher",
+      "ref": "班主任"
+    },
+    "word-us": {
+      "label": "American",
+      "voice": "en-US-AriaNeural",
+      "rate": "-18%",
+      "pitch": "+0Hz"
+    },
+    "word-gb": {
+      "label": "British",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-18%",
+      "pitch": "+0Hz"
+    },
+    "lesson": {
+      "label": "English Corner",
+      "voice": "en-US-JennyNeural",
+      "rate": "-2%",
+      "pitch": "+0Hz"
+    }
+  },
+  "storyboard": "/Users/huyin/Swingboat/english-to-be-continued/production/book-01/ep-005/storyboard.png",
+  "panelRects": [
+    [
+      3,
+      3,
+      434,
+      415
+    ],
+    [
+      450,
+      3,
+      434,
+      415
+    ],
+    [
+      3,
+      429,
+      434,
+      452
+    ],
+    [
+      450,
+      429,
+      434,
+      452
+    ],
+    [
+      3,
+      892,
+      434,
+      369
+    ],
+    [
+      450,
+      892,
+      434,
+      369
+    ],
+    [
+      3,
+      1272,
+      434,
+      499
+    ],
+    [
+      450,
+      1272,
+      434,
+      499
+    ]
+  ],
+  "panels": {
+    "p1": [
+      1736,
+      1660
+    ],
+    "p2": [
+      1736,
+      1660
+    ],
+    "p3": [
+      1736,
+      1808
+    ],
+    "p4": [
+      1736,
+      1808
+    ],
+    "p5": [
+      1736,
+      1476
+    ],
+    "p6": [
+      1736,
+      1476
+    ],
+    "p7": [
+      1736,
+      1996
+    ],
+    "p8": [
+      1736,
+      1996
+    ],
+    "prev1": [
+      1740,
+      1600
+    ],
+    "prev2": [
+      1732,
+      1600
+    ],
+    "prev3": [
+      1732,
+      2000
+    ]
+  },
+  "prevSource": [
+    "../ep-004/public/panels/p3.png",
+    "../ep-004/public/panels/p4.png",
+    "../ep-004/public/panels/p8.png"
+  ],
+  "prev": [
+    {
+      "id": "n-prev1",
+      "panel": "prev1",
+      "from": [
+        0.5,
+        0.45,
+        1.0
+      ],
+      "to": [
+        0.52,
+        0.3,
+        1.9
+      ]
+    },
+    {
+      "id": "n-prev2",
+      "panel": "prev2",
+      "from": [
+        0.5,
+        0.45,
+        1.0
+      ],
+      "to": [
+        0.86,
+        0.25,
+        2.2
+      ]
+    },
+    {
+      "id": "n-prev3",
+      "panel": "prev3",
+      "from": [
+        0.5,
+        0.4,
+        1.0
+      ],
+      "to": [
+        0.75,
+        0.3,
+        2.0
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "dynamic",
+      "id": "dynamic",
+      "ipa": "/daɪˈnæmɪk/",
+      "pos": "adjective",
+      "meaning": "充满活力的；生气勃勃的",
+      "example": "My clone promises a dynamic start to the day.",
+      "exampleZh": "分身保证，这一天会以充满活力的方式开始。",
+      "scene": 1,
+      "panel": "p1",
+      "en": "Dynamic means full of energy and action.",
+      "enZh": "dynamic：充满能量和活力的。"
+    },
+    {
+      "word": "lifestyle",
+      "id": "lifestyle",
+      "ipa": "/ˈlaɪfstaɪl/",
+      "pos": "noun",
+      "meaning": "生活方式",
+      "example": "His dream lifestyle comes with a stopwatch.",
+      "exampleZh": "他理想的生活方式，连秒表都配好了。",
+      "scene": 1,
+      "panel": "p1",
+      "en": "Your lifestyle is the way you usually live every day.",
+      "enZh": "lifestyle：你平时每天的生活方式。"
+    },
+    {
+      "word": "drag",
+      "id": "drag",
+      "ipa": "/dræɡ/",
+      "pos": "verb",
+      "meaning": "拖；拖着脚步缓慢移动",
+      "example": "Soon I start to drag my feet.",
+      "exampleZh": "没多久，我开始拖着脚步走。",
+      "scene": 3,
+      "panel": "p3",
+      "en": "To drag your feet is to walk slowly, as if they are heavy.",
+      "enZh": "drag your feet：脚步沉重、慢慢地挪。"
+    },
+    {
+      "word": "leisure",
+      "id": "leisure",
+      "ipa": "/ˈleʒə(r)/",
+      "uk": "/ˈleʒə/",
+      "us": "/ˈliːʒər/",
+      "pos": "noun",
+      "meaning": "空闲；闲暇",
+      "example": "Xiaoman runs in her leisure time.",
+      "exampleZh": "小满会在闲暇时间跑步。",
+      "scene": 5,
+      "panel": "p5",
+      "en": "Leisure is free time, when you don't have to work or study.",
+      "enZh": "leisure：不用工作或学习的空闲时间。"
+    },
+    {
+      "word": "tend to do sth",
+      "id": "tendto",
+      "say": "tend to do something",
+      "kw": "tend to",
+      "ipa": "/tend tə/",
+      "pos": "phrase",
+      "meaning": "倾向于做某事；往往会做某事",
+      "example": "I tend to say yes before I ask enough questions.",
+      "exampleZh": "我往往还没问清楚，就先答应了。",
+      "scene": 6,
+      "panel": "p6",
+      "en": "If you tend to do something, you often do it. Use the base verb after to.",
+      "enZh": "tend to do sth：往往会做某事；to 后面接动词原形。"
+    }
+  ],
+  "review": [
+    {
+      "word": "schedule",
+      "meaning": "日程表；计划表",
+      "example": "Can we change the schedule?",
+      "exampleZh": "能调整一下日程吗？"
+    },
+    {
+      "word": "volunteer",
+      "meaning": "自愿做；主动提出",
+      "example": "I volunteer to lead the slower group.",
+      "exampleZh": "我自愿带领慢一点的那一组。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": "p1",
+      "name": "连休息都安排好了",
+      "place": "Next morning · Home, before school",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s1n1",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.3
+        },
+        {
+          "at": "s1l1",
+          "x": 0.7,
+          "y": 0.3,
+          "z": 2.1
+        },
+        {
+          "at": "s1n2",
+          "x": 0.62,
+          "y": 0.5,
+          "z": 1.6
+        },
+        {
+          "at": "s1n3",
+          "x": 0.4,
+          "y": 0.55,
+          "z": 1.8
+        },
+        {
+          "at": "s1l2",
+          "x": 0.32,
+          "y": 0.3,
+          "z": 2.1
+        },
+        {
+          "at": "s1l3",
+          "x": 0.7,
+          "y": 0.3,
+          "z": 2.0
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s1-open",
+          "frames": 20,
+          "sfx": "beep"
+        },
+        {
+          "kind": "line",
+          "id": "s1n1",
+          "who": "lin-narr",
+          "en": "My clone promises a dynamic start to the day.",
+          "zh": "分身保证，这一天会以充满活力的方式开始。",
+          "kw": "dynamic"
+        },
+        {
+          "kind": "line",
+          "id": "s1l1",
+          "who": "clone",
+          "en": "A start full of energy! How long to run, how long to rest — I've planned it all.",
+          "zh": "开场要有活力！跑多久、歇多久，我都安排好了。"
+        },
+        {
+          "kind": "line",
+          "id": "s1n2",
+          "who": "lin-narr",
+          "en": "His dream lifestyle comes with a stopwatch.",
+          "zh": "他理想的生活方式，连秒表都配好了。",
+          "kw": "lifestyle",
+          "sfx": "tick"
+        },
+        {
+          "kind": "line",
+          "id": "s1n3",
+          "who": "lin-narr",
+          "en": "Even rest has a time limit.",
+          "zh": "就连休息，也有时间限制。"
+        },
+        {
+          "kind": "line",
+          "id": "s1l2",
+          "who": "lin",
+          "en": "Even resting has a countdown? I'll take it and ask everyone first.",
+          "zh": "连休息都要倒计时？我先拿去问问大家。"
+        },
+        {
+          "kind": "line",
+          "id": "s1l3",
+          "who": "clone",
+          "en": "I'll wait at home for feedback. Remember, the rest button is this one.",
+          "zh": "我在家等反馈。记得，休息键在这边。",
+          "sfx": "tap",
+          "sfxEnd": "click"
+        },
+        {
+          "kind": "pause",
+          "id": "s1-end",
+          "frames": 20
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": "p2",
+      "name": "先问，再试半圈",
+      "place": "Before morning reading · Beside the track",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s2n1",
+          "x": 0.4,
+          "y": 0.4,
+          "z": 1.3
+        },
+        {
+          "at": "s2l1",
+          "x": 0.26,
+          "y": 0.3,
+          "z": 2.1
+        },
+        {
+          "at": "s2l2",
+          "x": 0.12,
+          "y": 0.4,
+          "z": 2.2
+        },
+        {
+          "at": "s2l3",
+          "x": 0.53,
+          "y": 0.3,
+          "z": 2.2
+        },
+        {
+          "at": "s2l4",
+          "x": 0.85,
+          "y": 0.25,
+          "z": 1.9
+        },
+        {
+          "at": "s2n2",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.2
+        },
+        {
+          "at": "s2n3",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s2n4",
+          "x": 0.3,
+          "y": 0.45,
+          "z": 1.9
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s2-open",
+          "frames": 20,
+          "sfx": "birds"
+        },
+        {
+          "kind": "line",
+          "id": "s2n1",
+          "who": "lin-narr",
+          "en": "Before we start, I ask the group what they want.",
+          "zh": "开始前，我先问这一组同学想怎样活动。"
+        },
+        {
+          "kind": "line",
+          "id": "s2l1",
+          "who": "lin",
+          "en": "How do you all want to exercise? Let's be clear first. We won't just follow a sheet.",
+          "zh": "想怎么运动？咱们先说清楚，不照着一张表硬来。"
+        },
+        {
+          "kind": "line",
+          "id": "s2l2",
+          "who": "su",
+          "en": "I'd like to walk first. I can try half a lap of slow jogging, too. Just don't sprint right away.",
+          "zh": "我想先走走，也能试半圈慢跑，别一上来就冲。"
+        },
+        {
+          "kind": "line",
+          "id": "s2l3",
+          "who": "buzz",
+          "en": "Slow is fine with me. Let's try it.",
+          "zh": "慢一点我可以，先试试。"
+        },
+        {
+          "kind": "line",
+          "id": "s2l4",
+          "who": "teacher",
+          "en": "Warm up before you start. I'll be right here. If it doesn't feel right, stop and tell me.",
+          "zh": "热完身再开始。我在旁边，觉得不合适就停下说。"
+        },
+        {
+          "kind": "line",
+          "id": "s2n2",
+          "who": "lin-narr",
+          "en": "We agree to try half a lap slowly, with our teacher watching.",
+          "zh": "我们同意在老师看着的情况下，先慢慢试跑半圈。"
+        },
+        {
+          "kind": "line",
+          "id": "s2n3",
+          "who": "lin-narr",
+          "en": "My clone stays at home.",
+          "zh": "分身留在家里。"
+        },
+        {
+          "kind": "line",
+          "id": "s2n4",
+          "who": "lin-narr",
+          "en": "I bring his stopwatch.",
+          "zh": "我带来了他准备的秒表。",
+          "sfxEnd": "beep"
+        },
+        {
+          "kind": "pause",
+          "id": "s2-end",
+          "frames": 16
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": "p3",
+      "name": "嘴上慢跑，脚先想休息",
+      "place": "Same track · Halfway through",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.4,
+          "y": 0.5,
+          "z": 1.3
+        },
+        {
+          "at": "s3n1",
+          "x": 0.38,
+          "y": 0.3,
+          "z": 2.0
+        },
+        {
+          "at": "s3n2",
+          "x": 0.4,
+          "y": 0.5,
+          "z": 1.4
+        },
+        {
+          "at": "s3l1",
+          "x": 0.85,
+          "y": 0.22,
+          "z": 2.4
+        },
+        {
+          "at": "s3n3",
+          "x": 0.68,
+          "y": 0.45,
+          "z": 1.6
+        },
+        {
+          "at": "s3l2",
+          "x": 0.68,
+          "y": 0.35,
+          "z": 2.0
+        },
+        {
+          "at": "end",
+          "x": 0.75,
+          "y": 0.6,
+          "z": 1.5
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s3-run",
+          "frames": 36,
+          "sfx": "steps"
+        },
+        {
+          "kind": "line",
+          "id": "s3n1",
+          "who": "lin-narr",
+          "en": "Soon I start to drag my feet.",
+          "zh": "没多久，我开始拖着脚步走。",
+          "kw": "drag",
+          "sfx": "breath"
+        },
+        {
+          "kind": "line",
+          "id": "s3n2",
+          "who": "lin-narr",
+          "en": "This feels nothing like a gentle start.",
+          "zh": "这可一点也不像轻松的开场。"
+        },
+        {
+          "kind": "line",
+          "id": "s3l1",
+          "who": "pony",
+          "en": "The \"slow\" we agreed on and the \"slow\" I had in mind... aren't the same slow.",
+          "zh": "刚才说的慢，和我想的慢，好像不是一个慢。"
+        },
+        {
+          "kind": "line",
+          "id": "s3n3",
+          "who": "lin-narr",
+          "en": "Xiaoman points to a bench.",
+          "zh": "小满指向一张长椅。"
+        },
+        {
+          "kind": "line",
+          "id": "s3l2",
+          "who": "su",
+          "en": "There's a bench up ahead. Let's stop and ask how everyone feels.",
+          "zh": "前面有长椅。咱们先停下来问问大家的感觉。"
+        },
+        {
+          "kind": "pause",
+          "id": "s3-end",
+          "frames": 16
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": "p4",
+      "name": "我一坐下，整组都坐下",
+      "place": "Trackside · The bench",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.5,
+          "z": 1.0
+        },
+        {
+          "at": "s4n1",
+          "x": 0.35,
+          "y": 0.4,
+          "z": 2.1
+        },
+        {
+          "at": "s4-sit",
+          "x": 0.5,
+          "y": 0.5,
+          "z": 1.0
+        },
+        {
+          "at": "s4n2",
+          "x": 0.5,
+          "y": 0.5,
+          "z": 1.1
+        },
+        {
+          "at": "s4l1",
+          "x": 0.58,
+          "y": 0.38,
+          "z": 2.2
+        },
+        {
+          "at": "s4n3",
+          "x": 0.36,
+          "y": 0.5,
+          "z": 1.8
+        },
+        {
+          "at": "s4-beep",
+          "x": 0.36,
+          "y": 0.5,
+          "z": 2.4
+        },
+        {
+          "at": "s4l2",
+          "x": 0.12,
+          "y": 0.4,
+          "z": 2.2
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.5,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s4-open",
+          "frames": 10
+        },
+        {
+          "kind": "line",
+          "id": "s4n1",
+          "who": "lin-narr",
+          "en": "I press the rest timer and sit down.",
+          "zh": "我按下休息倒计时，坐了下来。",
+          "sfx": "tap"
+        },
+        {
+          "kind": "pause",
+          "id": "s4-sit",
+          "frames": 40
+        },
+        {
+          "kind": "line",
+          "id": "s4n2",
+          "who": "lin-narr",
+          "en": "The whole group follows.",
+          "zh": "整组同学都跟着坐下了。"
+        },
+        {
+          "kind": "line",
+          "id": "s4l1",
+          "who": "buzz",
+          "en": "You sit, I sit. Perfect.",
+          "zh": "你坐我也坐，刚好。"
+        },
+        {
+          "kind": "line",
+          "id": "s4n3",
+          "who": "lin-narr",
+          "en": "Ten seconds later, it beeps.",
+          "zh": "十秒后，秒表就响了。"
+        },
+        {
+          "kind": "pause",
+          "id": "s4-beep",
+          "frames": 40,
+          "sfx": "beep"
+        },
+        {
+          "kind": "line",
+          "id": "s4l2",
+          "who": "su",
+          "en": "That's it? I haven't even caught my breath.",
+          "zh": "这就结束了？我还没把气喘匀。"
+        },
+        {
+          "kind": "pause",
+          "id": "s4-end",
+          "frames": 20
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": "p5",
+      "name": "休息怎么也成了比赛",
+      "place": "Same bench · Xiaoman asks",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s5n1",
+          "x": 0.3,
+          "y": 0.4,
+          "z": 1.6
+        },
+        {
+          "at": "s5l1",
+          "x": 0.27,
+          "y": 0.36,
+          "z": 2.0
+        },
+        {
+          "at": "s5l2",
+          "x": 0.27,
+          "y": 0.36,
+          "z": 2.3
+        },
+        {
+          "at": "s5l3",
+          "x": 0.58,
+          "y": 0.32,
+          "z": 1.8
+        },
+        {
+          "at": "s5l4",
+          "x": 0.55,
+          "y": 0.5,
+          "z": 1.5
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s5-open",
+          "frames": 10
+        },
+        {
+          "kind": "line",
+          "id": "s5n1",
+          "who": "lin-narr",
+          "en": "Xiaoman runs in her leisure time.",
+          "zh": "小满会在闲暇时间跑步。",
+          "kw": "leisure"
+        },
+        {
+          "kind": "line",
+          "id": "s5l1",
+          "who": "su",
+          "en": "I run after class, too. I just don't want a race first thing in the morning.",
+          "zh": "我课余也会跑步，但不想一早就比赛。"
+        },
+        {
+          "kind": "line",
+          "id": "s5l2",
+          "who": "su",
+          "en": "Why is even resting a race?",
+          "zh": "怎么连休息都成了比赛？"
+        },
+        {
+          "kind": "line",
+          "id": "s5l3",
+          "who": "su",
+          "en": "Can we change the schedule?",
+          "zh": "能调整一下日程吗？",
+          "kw": "schedule"
+        },
+        {
+          "kind": "line",
+          "id": "s5l4",
+          "who": "teacher",
+          "en": "Of course. A schedule is there to help people. Let's hear how everyone feels first.",
+          "zh": "当然。表是拿来帮人的，先听听各自的感觉。"
+        },
+        {
+          "kind": "pause",
+          "id": "s5-end",
+          "frames": 20
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": "p6",
+      "name": "先关秒表，再听人说",
+      "place": "By the bench · Talking with the teacher",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.25,
+          "y": 0.5,
+          "z": 2.0
+        },
+        {
+          "at": "s6n1",
+          "x": 0.2,
+          "y": 0.28,
+          "z": 2.2
+        },
+        {
+          "at": "s6n2",
+          "x": 0.25,
+          "y": 0.55,
+          "z": 1.9
+        },
+        {
+          "at": "s6l1",
+          "x": 0.25,
+          "y": 0.35,
+          "z": 1.8
+        },
+        {
+          "at": "s6l2",
+          "x": 0.5,
+          "y": 0.38,
+          "z": 2.2
+        },
+        {
+          "at": "s6l3",
+          "x": 0.4,
+          "y": 0.45,
+          "z": 1.3
+        },
+        {
+          "at": "s6l4",
+          "x": 0.8,
+          "y": 0.3,
+          "z": 2.1
+        },
+        {
+          "at": "s6n3",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.1
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s6-open",
+          "frames": 14
+        },
+        {
+          "kind": "line",
+          "id": "s6n1",
+          "who": "lin-inner",
+          "en": "I tend to say yes before I ask enough questions.",
+          "zh": "我往往还没问清楚，就先答应了。",
+          "kw": "tend to"
+        },
+        {
+          "kind": "line",
+          "id": "s6n2",
+          "who": "lin-narr",
+          "en": "I stop the timer and ask what everyone can manage.",
+          "zh": "我停掉秒表，问清每个人能接受怎样的活动。",
+          "sfx": "tap"
+        },
+        {
+          "kind": "line",
+          "id": "s6l1",
+          "who": "lin",
+          "en": "I only asked if you wanted to try. I didn't ask how slow feels right. Let me ask again.",
+          "zh": "刚才只问要不要试，没问大家觉得多慢才合适。现在再问一次。"
+        },
+        {
+          "kind": "line",
+          "id": "s6l2",
+          "who": "su",
+          "en": "I'd like to walk a lap, then stretch.",
+          "zh": "我想走一圈，再做拉伸。"
+        },
+        {
+          "kind": "line",
+          "id": "s6l3",
+          "who": "buzz-vo",
+          "en": "I still want to run, but even slower than before.",
+          "zh": "我还想跑，但想比刚才再慢一点。"
+        },
+        {
+          "kind": "line",
+          "id": "s6l4",
+          "who": "teacher",
+          "en": "Sure. Start once you've rested. Running is your choice. Walking and stretching count, too.",
+          "zh": "可以。休息好了再开始，跑步自愿，步行和拉伸也都是活动。",
+          "sfxEnd": "stamp"
+        },
+        {
+          "kind": "line",
+          "id": "s6n3",
+          "who": "lin-narr",
+          "en": "A plan should fit people, too.",
+          "zh": "计划也得适合实际参加的人。"
+        },
+        {
+          "kind": "pause",
+          "id": "s6-end",
+          "frames": 24
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "panel": "p7",
+      "name": "同一节活动，不同的节奏",
+      "place": "Sports field · The new plan",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.0
+        },
+        {
+          "at": "s7n1",
+          "x": 0.3,
+          "y": 0.3,
+          "z": 1.5
+        },
+        {
+          "at": "s7n2",
+          "x": 0.72,
+          "y": 0.35,
+          "z": 1.6
+        },
+        {
+          "at": "s7n3",
+          "x": 0.18,
+          "y": 0.2,
+          "z": 2.0
+        },
+        {
+          "at": "s7l1",
+          "x": 0.38,
+          "y": 0.2,
+          "z": 2.2
+        },
+        {
+          "at": "s7l2",
+          "x": 0.72,
+          "y": 0.3,
+          "z": 2.0
+        },
+        {
+          "at": "s7l3",
+          "x": 0.55,
+          "y": 0.2,
+          "z": 2.1
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s7-open",
+          "frames": 20,
+          "sfx": "steps"
+        },
+        {
+          "kind": "line",
+          "id": "s7n1",
+          "who": "lin-narr",
+          "en": "With our teacher's approval, some jog.",
+          "zh": "老师同意后，有人慢跑。"
+        },
+        {
+          "kind": "line",
+          "id": "s7n2",
+          "who": "lin-narr",
+          "en": "Others walk or stretch.",
+          "zh": "有人步行或拉伸。"
+        },
+        {
+          "kind": "line",
+          "id": "s7n3",
+          "who": "lin-narr",
+          "en": "I volunteer to lead the slower group.",
+          "zh": "我自愿带领慢一点的那一组。",
+          "kw": "volunteer",
+          "sfxEnd": "twinkle"
+        },
+        {
+          "kind": "line",
+          "id": "s7l1",
+          "who": "buzz",
+          "en": "This slow is the slow I meant.",
+          "zh": "这个慢，是我想的那个慢。"
+        },
+        {
+          "kind": "line",
+          "id": "s7l2",
+          "who": "su",
+          "en": "We'll walk, then stretch. We won't race you on laps.",
+          "zh": "我们这边走完再拉伸，就不跟你们比圈数了。"
+        },
+        {
+          "kind": "line",
+          "id": "s7l3",
+          "who": "teacher",
+          "en": "Everyone, go the way we agreed. When you're done, we'll head back to class together.",
+          "zh": "各自按说好的方式来，活动完一起回班。"
+        },
+        {
+          "kind": "pause",
+          "id": "s7-end",
+          "frames": 24
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "panel": "p8",
+      "name": "这次，让她把话说完",
+      "place": "Break time · Outside the classroom",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.0
+        },
+        {
+          "at": "s8n1",
+          "x": 0.4,
+          "y": 0.4,
+          "z": 1.3
+        },
+        {
+          "at": "s8l1",
+          "x": 0.25,
+          "y": 0.42,
+          "z": 2.0
+        },
+        {
+          "at": "s8n2",
+          "x": 0.3,
+          "y": 0.5,
+          "z": 1.6
+        },
+        {
+          "at": "s8l2",
+          "x": 0.68,
+          "y": 0.2,
+          "z": 2.1
+        },
+        {
+          "at": "s8l3",
+          "x": 0.3,
+          "y": 0.35,
+          "z": 1.9
+        },
+        {
+          "at": "s8l4",
+          "x": 0.72,
+          "y": 0.3,
+          "z": 2.0
+        },
+        {
+          "at": "s8n3",
+          "x": 0.7,
+          "y": 0.55,
+          "z": 1.8
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s8-open",
+          "frames": 20,
+          "sfx": "flip"
+        },
+        {
+          "kind": "line",
+          "id": "s8n1",
+          "who": "lin-narr",
+          "en": "At break, Xiaoman asks for a few minutes to explain her radio idea.",
+          "zh": "课间，小满想找几分钟，讲清她的广播想法。"
+        },
+        {
+          "kind": "line",
+          "id": "s8l1",
+          "who": "su",
+          "en": "Can you save ten minutes at lunch? I want to go through my radio plan from start to finish.",
+          "zh": "午休能留十分钟吗？我想把广播提案完整讲一遍。"
+        },
+        {
+          "kind": "line",
+          "id": "s8n2",
+          "who": "lin-narr",
+          "en": "She wants ten minutes to explain it properly.",
+          "zh": "她想用十分钟，把提案好好说完整。"
+        },
+        {
+          "kind": "line",
+          "id": "s8l2",
+          "who": "lin",
+          "en": "Sure. After you finish, we'll ask the teacher together about a trial broadcast.",
+          "zh": "可以。你讲完，我们再一起问老师能不能试播。"
+        },
+        {
+          "kind": "line",
+          "id": "s8l3",
+          "who": "su",
+          "en": "Put the stopwatch away first. I don't want a \"time's up\" ten seconds in.",
+          "zh": "先把秒表收好。我不想开头十秒就被提醒结束。"
+        },
+        {
+          "kind": "line",
+          "id": "s8l4",
+          "who": "lin",
+          "en": "This time, it's not in charge of the opening.",
+          "zh": "这回它不管开场。"
+        },
+        {
+          "kind": "line",
+          "id": "s8n3",
+          "who": "lin-narr",
+          "en": "For once, I leave the stopwatch in my pocket.",
+          "zh": "这一次，我让秒表老实待在口袋里。",
+          "sfxEnd": "zipper"
+        },
+        {
+          "kind": "pause",
+          "id": "s8-end",
+          "frames": 34
+        }
+      ]
+    }
+  ],
+  "narration": [
+    {
+      "id": "n-prev1",
+      "who": "lin-narr",
+      "en": "Last time: our teacher gave the one task sheet to me, the real Xiaoshuai.",
+      "zh": "上回说到：老师把唯一的学生任务单交给了我——真正的小帅。"
+    },
+    {
+      "id": "n-prev2",
+      "who": "lin-narr",
+      "en": "Then my clone volunteered us to lead a morning run!",
+      "zh": "接着，分身又抢着替我们报名带队晨跑！"
+    },
+    {
+      "id": "n-prev3",
+      "who": "lin-narr",
+      "en": "I haven't even asked who wants to run, but he already has a stopwatch.",
+      "zh": "我连谁想跑都还没问，他连秒表都准备好了。"
+    },
+    {
+      "id": "n-title",
+      "who": "lin-narr",
+      "en": "English: To Be Continued. Episode five. He said yes to a morning run. I call time-out.",
+      "zh": "英语有续集，第五话。他替我答应的晨跑，我来喊暂停。"
+    },
+    {
+      "id": "n-recap",
+      "who": "lesson",
+      "en": "Now, let's learn the words!",
+      "zh": "现在，来学单词！"
+    },
+    {
+      "id": "n-review",
+      "who": "lesson",
+      "en": "And two words from Episode One!",
+      "zh": "还有两个第一集学过的词！"
+    },
+    {
+      "id": "n-next1",
+      "who": "lin-narr",
+      "en": "Next time: She doesn't want hush money. She wants ten minutes.",
+      "zh": "下集预告：她想要的不是保密费，是十分钟。"
+    },
+    {
+      "id": "n-next2",
+      "who": "lin-narr",
+      "en": "First, I listen to Xiaoman's whole radio pitch. Then we ask our teacher for one ten-minute trial. But my clone already wants a show that fills the whole day.",
+      "zh": "先认真听完小满的广播提案，再一起向老师争取一次十分钟试播。可分身已经想把一整天都排满节目了。"
+    },
+    {
+      "id": "n-outro",
+      "who": "word-us",
+      "en": "Follow the story. Learn the words.",
+      "zh": "跟着故事，记住单词。"
+    }
+  ],
+  "recall": [
+    {
+      "word": "actually",
+      "meaning": "实际上"
+    },
+    {
+      "word": "differ",
+      "meaning": "不同"
+    },
+    {
+      "word": "in person",
+      "meaning": "亲自"
+    },
+    {
+      "word": "frank",
+      "meaning": "坦率的"
+    },
+    {
+      "word": "to be frank",
+      "meaning": "坦白说"
+    }
+  ],
+  "voiceRefs": "/Users/huyin/Swingboat/english-to-be-continued/voices/book-01/characters"
+}

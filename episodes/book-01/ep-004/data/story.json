@@ -1,0 +1,1237 @@
+{
+  "episode": "EP.004",
+  "episodeNo": 4,
+  "title": "两张脸，只能领一张学生任务单。",
+  "titleLines": [
+    "Two Faces,",
+    "Only One Student Task Sheet."
+  ],
+  "season": "Out-Hustled by My Own Clone",
+  "source": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-004.html",
+  "pronounce": {
+    "Xiaoshuais": "Shiao Shwais",
+    "Xiaoshuai": "Shiao Shwai",
+    "Xiaoman": "Shiao Man"
+  },
+  "next": {
+    "no": "005",
+    "lines": [
+      "He Said Yes to a Morning Run.",
+      "I Call Time‑Out."
+    ],
+    "desc": [
+      "First: ask everyone how they want to run.",
+      "The clone? Timing practice — at home."
+    ]
+  },
+  "voices": {
+    "lin": {
+      "label": "Xiaoshuai",
+      "ref": "小帅"
+    },
+    "lin-narr": {
+      "label": "Xiaoshuai (narrating)",
+      "ref": "小帅"
+    },
+    "lin-inner": {
+      "label": "Xiaoshuai (thinking)",
+      "ref": "小帅",
+      "fx": "aecho=0.8:0.7:70|140:0.28|0.14"
+    },
+    "clone": {
+      "label": "Clone",
+      "ref": "小帅的分身"
+    },
+    "clone-rush": {
+      "label": "Clone",
+      "ref": "小帅的分身",
+      "fx": "atempo=1.08"
+    },
+    "both": {
+      "label": "Xiaoshuai + Clone",
+      "mix": [
+        "lin",
+        "clone"
+      ]
+    },
+    "su": {
+      "label": "Su Xiaoman",
+      "ref": "苏小满"
+    },
+    "teacher": {
+      "label": "Head Teacher",
+      "ref": "班主任"
+    },
+    "mum": {
+      "label": "Mum",
+      "ref": "小帅妈妈"
+    },
+    "dad-vo": {
+      "label": "Dad (off-screen)",
+      "ref": "小帅爸爸",
+      "fx": "lowpass=f=3400,aecho=0.8:0.4:40:0.18"
+    },
+    "word-us": {
+      "label": "American",
+      "voice": "en-US-AriaNeural",
+      "rate": "-18%",
+      "pitch": "+0Hz"
+    },
+    "word-gb": {
+      "label": "British",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-18%",
+      "pitch": "+0Hz"
+    },
+    "lesson": {
+      "label": "English Corner",
+      "voice": "en-US-JennyNeural",
+      "rate": "-2%",
+      "pitch": "+0Hz"
+    }
+  },
+  "storyboard": "/Users/huyin/Swingboat/english-to-be-continued/production/book-01/ep-004/storyboard.png",
+  "panelRects": [
+    [
+      3,
+      3,
+      435,
+      415
+    ],
+    [
+      451,
+      3,
+      433,
+      415
+    ],
+    [
+      3,
+      429,
+      435,
+      400
+    ],
+    [
+      451,
+      429,
+      433,
+      400
+    ],
+    [
+      3,
+      840,
+      435,
+      421
+    ],
+    [
+      451,
+      840,
+      433,
+      421
+    ],
+    [
+      3,
+      1271,
+      435,
+      500
+    ],
+    [
+      451,
+      1271,
+      433,
+      500
+    ]
+  ],
+  "panels": {
+    "p1": [
+      1740,
+      1660
+    ],
+    "p2": [
+      1732,
+      1660
+    ],
+    "p3": [
+      1740,
+      1600
+    ],
+    "p4": [
+      1732,
+      1600
+    ],
+    "p5": [
+      1740,
+      1684
+    ],
+    "p6": [
+      1732,
+      1684
+    ],
+    "p7": [
+      1740,
+      2000
+    ],
+    "p8": [
+      1732,
+      2000
+    ],
+    "prev1": [
+      1736,
+      1600
+    ],
+    "prev2": [
+      1744,
+      1556
+    ],
+    "prev3": [
+      1736,
+      2072
+    ]
+  },
+  "prevSource": [
+    "../ep-003/public/panels/p3.png",
+    "../ep-003/public/panels/p6.png",
+    "../ep-003/public/panels/p7.png"
+  ],
+  "prev": [
+    {
+      "id": "n-prev1",
+      "panel": "prev1",
+      "from": [
+        0.5,
+        0.45,
+        1.0
+      ],
+      "to": [
+        0.3,
+        0.32,
+        2.0
+      ]
+    },
+    {
+      "id": "n-prev2",
+      "panel": "prev2",
+      "from": [
+        0.5,
+        0.45,
+        1.2
+      ],
+      "to": [
+        0.22,
+        0.3,
+        2.0
+      ]
+    },
+    {
+      "id": "n-prev3",
+      "panel": "prev3",
+      "from": [
+        0.5,
+        0.35,
+        1.0
+      ],
+      "to": [
+        0.33,
+        0.2,
+        2.0
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "previous",
+      "id": "previous",
+      "ipa": "/ˈpriːviəs/",
+      "pos": "adjective",
+      "meaning": "以前的；先前的",
+      "example": "At my previous school, I often stayed quiet.",
+      "exampleZh": "在以前的学校，我经常保持沉默。",
+      "scene": 2,
+      "panel": "p2",
+      "en": "Previous means the one that came before this one.",
+      "enZh": "previous：在这一个之前的那一个。"
+    },
+    {
+      "word": "junior",
+      "id": "junior",
+      "ipa": "/ˈdʒuːniə(r)/",
+      "pos": "adjective",
+      "meaning": "较低年级的；初级的",
+      "example": "Finishing junior secondary school did not change that.",
+      "exampleZh": "读完初中，也没能改变这一点。",
+      "scene": 2,
+      "panel": "p2",
+      "en": "Junior means lower in level, or younger.",
+      "enZh": "junior：级别较低的，或年纪较小的。"
+    },
+    {
+      "word": "secondary",
+      "id": "secondary",
+      "ipa": "/ˈsekəndri/",
+      "uk": "/ˈsekəndri/",
+      "us": "/ˈsekənderi/",
+      "pos": "adjective",
+      "meaning": "中等教育的",
+      "example": "I finished junior secondary school.",
+      "exampleZh": "我读完了初中。",
+      "scene": 2,
+      "panel": "p2",
+      "en": "Secondary school comes after primary school and before university.",
+      "enZh": "secondary school：小学之后、大学之前的中学。"
+    },
+    {
+      "word": "senior",
+      "id": "senior",
+      "ipa": "/ˈsiːniə(r)/",
+      "pos": "adjective",
+      "meaning": "较高年级的；高级的",
+      "example": "Now I'm in senior secondary school.",
+      "exampleZh": "现在我上高中了。",
+      "scene": 3,
+      "panel": "p3",
+      "en": "Senior means higher in level, or older.",
+      "enZh": "senior：级别较高的，或年纪较大的。"
+    },
+    {
+      "word": "campus",
+      "id": "campus",
+      "ipa": "/ˈkæmpəs/",
+      "pos": "noun",
+      "meaning": "校园",
+      "example": "He may help with approved projects on campus after class.",
+      "exampleZh": "他可以在课后参与校园里已经获准开展的项目。",
+      "scene": 3,
+      "panel": "p3",
+      "en": "A campus is the land and buildings of a school.",
+      "enZh": "campus：学校的场地和建筑，也就是校园。"
+    }
+  ],
+  "review": [
+    {
+      "word": "volunteer",
+      "meaning": "自愿做；主动提出",
+      "example": "We volunteer to lead a run!",
+      "exampleZh": "我们自愿带队跑步！"
+    },
+    {
+      "word": "goal",
+      "meaning": "目标",
+      "example": "My goal is to do my own part.",
+      "exampleZh": "我的目标是做好自己该做的事。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": "p1",
+      "name": "答应来，就真的来了",
+      "place": "Head teacher's office · Next morning",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s1n1",
+          "x": 0.62,
+          "y": 0.4,
+          "z": 1.3
+        },
+        {
+          "at": "s1l1",
+          "x": 0.72,
+          "y": 0.3,
+          "z": 1.7
+        },
+        {
+          "at": "s1-pen",
+          "x": 0.18,
+          "y": 0.32,
+          "z": 2.3
+        },
+        {
+          "at": "s1l2",
+          "x": 0.18,
+          "y": 0.32,
+          "z": 2.3
+        },
+        {
+          "at": "s1n2",
+          "x": 0.42,
+          "y": 0.75,
+          "z": 1.5
+        },
+        {
+          "at": "s1l3",
+          "x": 0.42,
+          "y": 0.27,
+          "z": 2.4
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s1-knock",
+          "frames": 34,
+          "sfx": "knock"
+        },
+        {
+          "kind": "line",
+          "id": "s1n1",
+          "who": "lin-narr",
+          "en": "The next morning, Xiaoman comes with us to the teacher's office.",
+          "zh": "第二天早上，小满陪我们一起去老师办公室。"
+        },
+        {
+          "kind": "line",
+          "id": "s1l1",
+          "who": "both",
+          "en": "Good morning, sir!",
+          "zh": "老师好！"
+        },
+        {
+          "kind": "pause",
+          "id": "s1-pen",
+          "frames": 36,
+          "sfx": "tick"
+        },
+        {
+          "kind": "line",
+          "id": "s1l2",
+          "who": "teacher",
+          "en": "Wait a second... Why did I hear \"Good morning\" twice?",
+          "zh": "先等一下……我怎么听到两声“老师好”？"
+        },
+        {
+          "kind": "line",
+          "id": "s1n2",
+          "who": "lin-narr",
+          "en": "We have two faces and one student task sheet.",
+          "zh": "我们有两张脸，面前却只有一张学生任务单。",
+          "sfx": "paper"
+        },
+        {
+          "kind": "line",
+          "id": "s1l3",
+          "who": "su",
+          "en": "Sir, I saw it with my own eyes yesterday. I came with them to explain.",
+          "zh": "老师，我昨天也亲眼看到了。我陪他们来说明。"
+        },
+        {
+          "kind": "pause",
+          "id": "s1-end",
+          "frames": 20
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": "p2",
+      "name": "换了学校，不能继续躲",
+      "place": "Same office · Xiaoshuai explains",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s2n1",
+          "x": 0.36,
+          "y": 0.38,
+          "z": 1.6
+        },
+        {
+          "at": "s2n2",
+          "x": 0.26,
+          "y": 0.26,
+          "z": 2.4
+        },
+        {
+          "at": "s2n3",
+          "x": 0.3,
+          "y": 0.3,
+          "z": 2.1
+        },
+        {
+          "at": "s2-chair",
+          "x": 0.88,
+          "y": 0.35,
+          "z": 1.8
+        },
+        {
+          "at": "s2l1",
+          "x": 0.88,
+          "y": 0.35,
+          "z": 2.0
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s2-open",
+          "frames": 14
+        },
+        {
+          "kind": "line",
+          "id": "s2n1",
+          "who": "lin-narr",
+          "en": "I explain everything, from the phone to my fear of speaking.",
+          "zh": "我把一切解释清楚，从手机的事到我害怕开口的原因。",
+          "sfx": "tap"
+        },
+        {
+          "kind": "line",
+          "id": "s2n2",
+          "who": "lin-narr",
+          "en": "At my previous school, I often stayed quiet.",
+          "zh": "在以前的学校，我经常保持沉默。",
+          "kw": "previous"
+        },
+        {
+          "kind": "line",
+          "id": "s2n3",
+          "who": "lin-narr",
+          "en": "Finishing junior secondary school did not change that.",
+          "zh": "读完初中，也没能改变这一点。",
+          "kw": "junior secondary"
+        },
+        {
+          "kind": "pause",
+          "id": "s2-chair",
+          "frames": 20,
+          "sfx": "rustle"
+        },
+        {
+          "kind": "line",
+          "id": "s2l1",
+          "who": "teacher",
+          "en": "I understand. Let's call your mum, so we can sort out the daily plan together.",
+          "zh": "我听明白了。先联系你妈妈，让她来一起把日常安排说清楚。"
+        },
+        {
+          "kind": "pause",
+          "id": "s2-call",
+          "frames": 40,
+          "sfx": "notify"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": "p3",
+      "name": "任务单只递给本人",
+      "place": "Office · At the teacher's desk",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s3n1",
+          "x": 0.5,
+          "y": 0.3,
+          "z": 2.2
+        },
+        {
+          "at": "s3l1",
+          "x": 0.3,
+          "y": 0.4,
+          "z": 1.7
+        },
+        {
+          "at": "s3-reach",
+          "x": 0.72,
+          "y": 0.45,
+          "z": 1.8
+        },
+        {
+          "at": "s3n2",
+          "x": 0.75,
+          "y": 0.35,
+          "z": 1.6
+        },
+        {
+          "at": "s3l2",
+          "x": 0.84,
+          "y": 0.28,
+          "z": 2.3
+        },
+        {
+          "at": "s3n3",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.2
+        },
+        {
+          "at": "s3n4",
+          "x": 0.18,
+          "y": 0.3,
+          "z": 2.0
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s3-open",
+          "frames": 10
+        },
+        {
+          "kind": "line",
+          "id": "s3n1",
+          "who": "lin-narr",
+          "en": "Now I'm in senior secondary school. I must do my own part.",
+          "zh": "现在我上高中了，得做好自己该做的事。",
+          "kw": "senior secondary"
+        },
+        {
+          "kind": "line",
+          "id": "s3l1",
+          "who": "teacher",
+          "en": "Lessons, homework, and the class monitor trial are Xiaoshuai's job. This task sheet goes to you, and only you.",
+          "zh": "上课、作业和班长试任，由小帅本人承担。这张任务单也只给本人。",
+          "sfx": "paper"
+        },
+        {
+          "kind": "pause",
+          "id": "s3-reach",
+          "frames": 40,
+          "sfx": "rustle"
+        },
+        {
+          "kind": "line",
+          "id": "s3n2",
+          "who": "lin-narr",
+          "en": "My clone cannot attend lessons for me.",
+          "zh": "分身不能替我上课。"
+        },
+        {
+          "kind": "line",
+          "id": "s3l2",
+          "who": "clone",
+          "en": "Then what can I do? I want to help, too.",
+          "zh": "那我能做点什么？我也想帮忙。"
+        },
+        {
+          "kind": "line",
+          "id": "s3n3",
+          "who": "lin-narr",
+          "en": "He may help with approved projects on campus after class.",
+          "zh": "他可以在课后参与校园里已经获准开展的项目。",
+          "kw": "campus"
+        },
+        {
+          "kind": "line",
+          "id": "s3n4",
+          "who": "lin-narr",
+          "en": "He needs Mum's permission and a teacher there.",
+          "zh": "这需要妈妈同意，也要有老师在场。"
+        },
+        {
+          "kind": "pause",
+          "id": "s3-end",
+          "frames": 24
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": "p4",
+      "name": "妈妈来了，他又想报名",
+      "place": "Later that day · The office",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s4n1",
+          "x": 0.4,
+          "y": 0.4,
+          "z": 1.4
+        },
+        {
+          "at": "s4l1",
+          "x": 0.28,
+          "y": 0.3,
+          "z": 2.2
+        },
+        {
+          "at": "s4-story",
+          "x": 0.6,
+          "y": 0.32,
+          "z": 2.0
+        },
+        {
+          "at": "s4n2",
+          "x": 0.6,
+          "y": 0.4,
+          "z": 1.8
+        },
+        {
+          "at": "s4l2",
+          "x": 0.86,
+          "y": 0.25,
+          "z": 2.4
+        },
+        {
+          "at": "s4l3",
+          "x": 0.6,
+          "y": 0.32,
+          "z": 2.2
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s4-open",
+          "frames": 20,
+          "sfx": "thud"
+        },
+        {
+          "kind": "line",
+          "id": "s4n1",
+          "who": "lin-narr",
+          "en": "Our teacher calls Mum. She comes to hear us both.",
+          "zh": "老师联系了妈妈，她来听我们两个说明情况。"
+        },
+        {
+          "kind": "line",
+          "id": "s4l1",
+          "who": "mum",
+          "en": "Last night you said you had something to tell me face to face. So it's this big! Tell me the whole story again.",
+          "zh": "昨晚说有事要当面讲，原来是这么大一件事。经过你再给我讲一遍。"
+        },
+        {
+          "kind": "pause",
+          "id": "s4-story",
+          "frames": 54,
+          "sfx": "rewind"
+        },
+        {
+          "kind": "line",
+          "id": "s4n2",
+          "who": "lin-narr",
+          "en": "He asks me to organise tomorrow's morning activity.",
+          "zh": "老师让我安排明天的晨间活动。"
+        },
+        {
+          "kind": "line",
+          "id": "s4l2",
+          "who": "clone-rush",
+          "en": "We volunteer to lead a run!",
+          "zh": "我们自愿带队跑步！",
+          "kw": "volunteer",
+          "sfx": "whoosh"
+        },
+        {
+          "kind": "line",
+          "id": "s4l3",
+          "who": "lin",
+          "en": "I'll ask the class first.",
+          "zh": "我先问问同学们。"
+        },
+        {
+          "kind": "pause",
+          "id": "s4-end",
+          "frames": 24
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": "p5",
+      "name": "他需要的，也有一张床",
+      "place": "That night · The spare room at home",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s5n1",
+          "x": 0.45,
+          "y": 0.42,
+          "z": 1.3
+        },
+        {
+          "at": "s5l1",
+          "x": 0.14,
+          "y": 0.25,
+          "z": 2.0
+        },
+        {
+          "at": "s5n2",
+          "x": 0.8,
+          "y": 0.4,
+          "z": 2.0
+        },
+        {
+          "at": "s5l2",
+          "x": 0.8,
+          "y": 0.33,
+          "z": 2.3
+        },
+        {
+          "at": "s5n3",
+          "x": 0.45,
+          "y": 0.5,
+          "z": 1.8
+        },
+        {
+          "at": "s5l3",
+          "x": 0.5,
+          "y": 0.3,
+          "z": 2.1
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s5-open",
+          "frames": 24,
+          "sfx": "door"
+        },
+        {
+          "kind": "line",
+          "id": "s5n1",
+          "who": "lin-narr",
+          "en": "At home, Dad hears the story, and Mum opens the spare room.",
+          "zh": "回到家，爸爸也听了事情经过，妈妈打开了备用房间。"
+        },
+        {
+          "kind": "line",
+          "id": "s5l1",
+          "who": "dad-vo",
+          "en": "I've heard it all. Let's sort out daily life together. If anything comes up, say it face to face.",
+          "zh": "我听完了。先一起把日子安排好，有事当面说。"
+        },
+        {
+          "kind": "line",
+          "id": "s5n2",
+          "who": "lin-narr",
+          "en": "My clone asks if he can stay.",
+          "zh": "分身问自己能不能住下来。"
+        },
+        {
+          "kind": "line",
+          "id": "s5l2",
+          "who": "clone",
+          "en": "Can I... have a place to sleep, too?",
+          "zh": "我也能有地方睡吗？"
+        },
+        {
+          "kind": "line",
+          "id": "s5n3",
+          "who": "lin-narr",
+          "en": "She gives him a blanket.",
+          "zh": "妈妈递给他一条被子。",
+          "sfx": "rustle"
+        },
+        {
+          "kind": "line",
+          "id": "s5l3",
+          "who": "mum",
+          "en": "You need a bed, too.",
+          "zh": "你也需要一张床。"
+        },
+        {
+          "kind": "pause",
+          "id": "s5-end",
+          "frames": 40
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": "p6",
+      "name": "多一个人，也多一份碗",
+      "place": "After dinner · The kitchen",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s6n1",
+          "x": 0.65,
+          "y": 0.55,
+          "z": 1.4
+        },
+        {
+          "at": "s6l1",
+          "x": 0.82,
+          "y": 0.3,
+          "z": 2.0
+        },
+        {
+          "at": "s6l2",
+          "x": 0.32,
+          "y": 0.3,
+          "z": 1.8
+        },
+        {
+          "at": "s6l3",
+          "x": 0.18,
+          "y": 0.3,
+          "z": 2.3
+        },
+        {
+          "at": "s6l4",
+          "x": 0.46,
+          "y": 0.3,
+          "z": 2.3
+        },
+        {
+          "at": "s6l5",
+          "x": 0.6,
+          "y": 0.5,
+          "z": 1.3
+        },
+        {
+          "at": "s6n2",
+          "x": 0.32,
+          "y": 0.32,
+          "z": 1.7
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s6-open",
+          "frames": 16,
+          "sfx": "clink"
+        },
+        {
+          "kind": "line",
+          "id": "s6n1",
+          "who": "lin-narr",
+          "en": "Then she points to the bowls.",
+          "zh": "接着，妈妈指向那几只碗。"
+        },
+        {
+          "kind": "line",
+          "id": "s6l1",
+          "who": "mum",
+          "en": "Two boys. Two sets of dishes to wash.",
+          "zh": "两个人，就洗两份碗。"
+        },
+        {
+          "kind": "line",
+          "id": "s6l2",
+          "who": "both",
+          "en": "Huh?!",
+          "zh": "啊？！"
+        },
+        {
+          "kind": "line",
+          "id": "s6l3",
+          "who": "lin",
+          "en": "I thought—",
+          "zh": "我刚才还以为——"
+        },
+        {
+          "kind": "line",
+          "id": "s6l4",
+          "who": "clone",
+          "en": "I thought so too—",
+          "zh": "我刚才也以为——"
+        },
+        {
+          "kind": "line",
+          "id": "s6l5",
+          "who": "mum",
+          "en": "Stop pointing at each other. One washes, one dries. Perfect.",
+          "zh": "别互相指了。一个洗，一个擦，正好。",
+          "sfxEnd": "ding"
+        },
+        {
+          "kind": "line",
+          "id": "s6n2",
+          "who": "lin-narr",
+          "en": "The extra pair of hands suddenly looks less exciting.",
+          "zh": "多一双手这件事，突然没那么让人兴奋了。"
+        },
+        {
+          "kind": "pause",
+          "id": "s6-end",
+          "frames": 24
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "panel": "p7",
+      "name": "一个洗，一个擦",
+      "place": "The kitchen · At the sink",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.0
+        },
+        {
+          "at": "s7n1",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.2
+        },
+        {
+          "at": "s7l1",
+          "x": 0.75,
+          "y": 0.22,
+          "z": 2.0
+        },
+        {
+          "at": "s7n2",
+          "x": 0.32,
+          "y": 0.2,
+          "z": 2.4
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s7-water",
+          "frames": 44,
+          "sfx": "water"
+        },
+        {
+          "kind": "line",
+          "id": "s7n1",
+          "who": "lin-narr",
+          "en": "I wash. He dries. Neither of us escapes.",
+          "zh": "我洗，他擦。我们谁也没躲掉。",
+          "sfxEnd": "clink"
+        },
+        {
+          "kind": "line",
+          "id": "s7l1",
+          "who": "clone",
+          "en": "So two people working fast means... both people have to work.",
+          "zh": "原来两个人的效率，是两个人都得动手。"
+        },
+        {
+          "kind": "pause",
+          "id": "s7-beat",
+          "frames": 14
+        },
+        {
+          "kind": "line",
+          "id": "s7n2",
+          "who": "lin-inner",
+          "en": "My goal is to do my own part.",
+          "zh": "我的目标是做好自己该做的事。",
+          "kw": "goal",
+          "sfxEnd": "twinkle"
+        },
+        {
+          "kind": "pause",
+          "id": "s7-end",
+          "frames": 34
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "panel": "p8",
+      "name": "我还没问，他先计时",
+      "place": "That night · The study desk",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.4,
+          "z": 1.0
+        },
+        {
+          "at": "s8n1",
+          "x": 0.4,
+          "y": 0.45,
+          "z": 1.7
+        },
+        {
+          "at": "s8n2",
+          "x": 0.75,
+          "y": 0.3,
+          "z": 2.1
+        },
+        {
+          "at": "s8n3",
+          "x": 0.32,
+          "y": 0.25,
+          "z": 2.3
+        },
+        {
+          "at": "s8l1",
+          "x": 0.75,
+          "y": 0.3,
+          "z": 2.2
+        },
+        {
+          "at": "end",
+          "x": 0.55,
+          "y": 0.4,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s8-open",
+          "frames": 20,
+          "sfx": "scribble"
+        },
+        {
+          "kind": "line",
+          "id": "s8n1",
+          "who": "lin-narr",
+          "en": "Later, I write down questions for the class.",
+          "zh": "晚些时候，我写下准备问同学们的问题。"
+        },
+        {
+          "kind": "line",
+          "id": "s8n2",
+          "who": "lin-narr",
+          "en": "My clone brings a stopwatch. He has already imagined a race.",
+          "zh": "分身拿来一只秒表。他已经想象起一场比赛了。",
+          "sfx": "beep"
+        },
+        {
+          "kind": "pause",
+          "id": "s8-race",
+          "frames": 36
+        },
+        {
+          "kind": "line",
+          "id": "s8n3",
+          "who": "lin-narr",
+          "en": "I have not even asked who wants to run.",
+          "zh": "我连谁想跑步都还没问呢。"
+        },
+        {
+          "kind": "line",
+          "id": "s8l1",
+          "who": "clone",
+          "en": "Then I'm in charge of... not pressing it.",
+          "zh": "那我先负责……不按。"
+        },
+        {
+          "kind": "pause",
+          "id": "s8-end",
+          "frames": 30
+        }
+      ]
+    }
+  ],
+  "narration": [
+    {
+      "id": "n-prev1",
+      "who": "lin-narr",
+      "en": "Last time: I finally told Xiaoman the truth. To be frank, I was afraid of making mistakes.",
+      "zh": "上回说到：我终于对小满说了实话——坦白说，我害怕犯错。"
+    },
+    {
+      "id": "n-prev2",
+      "who": "lin-narr",
+      "en": "I promised to explain everything to the teacher and my parents, in person.",
+      "zh": "我答应亲自向老师和父母解释清楚一切。"
+    },
+    {
+      "id": "n-prev3",
+      "who": "lin-narr",
+      "en": "And this time, I said hello by myself.",
+      "zh": "而这一次，Hello 是我自己说的。"
+    },
+    {
+      "id": "n-title",
+      "who": "lin-narr",
+      "en": "English: To Be Continued. Episode four. Two faces, but only one student task sheet.",
+      "zh": "英语有续集，第四话。两张脸，只能领一张学生任务单。"
+    },
+    {
+      "id": "n-recap",
+      "who": "lesson",
+      "en": "Now, let's learn the words!",
+      "zh": "现在，来学单词！"
+    },
+    {
+      "id": "n-review",
+      "who": "lesson",
+      "en": "And two words from Episode One!",
+      "zh": "还有两个第一集学过的词！"
+    },
+    {
+      "id": "n-next1",
+      "who": "lin-narr",
+      "en": "Next time: My clone said yes to a morning run. Now I'm calling a time-out.",
+      "zh": "下集预告：他替我答应的晨跑，我来喊暂停。"
+    },
+    {
+      "id": "n-next2",
+      "who": "lin-narr",
+      "en": "First, I ask everyone how they want to run. Tomorrow morning, my teacher and I organise it on the spot. My clone helps with the timing, from home.",
+      "zh": "先问大家想怎么跑。明早，由我和老师在现场协调；分身先在家帮忙准备计时。"
+    },
+    {
+      "id": "n-outro",
+      "who": "word-us",
+      "en": "Follow the story. Learn the words.",
+      "zh": "跟着故事，记住单词。"
+    }
+  ],
+  "voiceRefs": "/Users/huyin/Swingboat/english-to-be-continued/voices/book-01/characters"
+}

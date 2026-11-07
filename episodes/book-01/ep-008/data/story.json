@@ -1,0 +1,1257 @@
+{
+ "episode": "EP.008",
+ "episodeNo": 8,
+ "title": "电脑没坏，是我们点错了地方。",
+ "titleLines": [
+  "The Computer Isn't Broken.",
+  "We Clicked the Wrong Thing."
+ ],
+ "season": "Out-Hustled by My Own Clone",
+ "source": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-008.html",
+ "pronounce": {
+  "Xiaoshuais": "Shiao Shwais",
+  "Xiaoshuai": "Shiao Shwai",
+  "Xiaoman": "Shiao Man"
+ },
+ "next": {
+  "no": "009",
+  "lines": [
+   "Three Hours of Searching.",
+   "Twenty Group Chats Later."
+  ],
+  "desc": [
+   "The equipment works. The stories are up to us.",
+   "But the search box leads straight to feeds and chats..."
+  ]
+ },
+ "voices": {
+  "lin": {
+   "label": "Xiaoshuai",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+6%",
+   "pitch": "+2Hz"
+  },
+  "lin-en": {
+   "label": "Xiaoshuai",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "-4%",
+   "pitch": "+2Hz"
+  },
+  "lin-inner-en": {
+   "label": "Xiaoshuai (thinking)",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "-4%",
+   "pitch": "+2Hz",
+   "fx": "aecho=0.8:0.55:70|140:0.28|0.14"
+  },
+  "clone": {
+   "label": "Clone",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+12%",
+   "pitch": "+6Hz"
+  },
+  "clone-en": {
+   "label": "Clone",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+2%",
+   "pitch": "+6Hz"
+  },
+  "su": {
+   "label": "Su Xiaoman",
+   "voice": "zh-TW-HsiaoChenNeural",
+   "rate": "+4%",
+   "pitch": "+6Hz"
+  },
+  "su-en": {
+   "label": "Su Xiaoman",
+   "voice": "zh-TW-HsiaoChenNeural",
+   "rate": "+0%",
+   "pitch": "+6Hz"
+  },
+  "buzz": {
+   "label": "Buzz-cut classmate",
+   "voice": "zh-TW-YunJheNeural",
+   "rate": "+4%",
+   "pitch": "+4Hz"
+  },
+  "pony": {
+   "label": "Ponytail classmate",
+   "voice": "zh-CN-XiaoyiNeural",
+   "rate": "+4%",
+   "pitch": "+4Hz"
+  },
+  "mum": {
+   "label": "Mum",
+   "voice": "zh-CN-XiaoxiaoNeural",
+   "rate": "-2%",
+   "pitch": "-2Hz"
+  },
+  "teacher": {
+   "label": "Head Teacher",
+   "voice": "en-US-ChristopherNeural",
+   "rate": "+0%",
+   "pitch": "+0Hz"
+  },
+  "narrator-en": {
+   "label": "Narrator",
+   "voice": "en-US-AvaNeural",
+   "rate": "-4%",
+   "pitch": "+0Hz"
+  },
+  "lesson": {
+   "label": "English Corner",
+   "voice": "en-US-JennyNeural",
+   "rate": "-2%",
+   "pitch": "+0Hz"
+  },
+  "word-us": {
+   "label": "American",
+   "voice": "en-US-AriaNeural",
+   "rate": "-18%",
+   "pitch": "+0Hz"
+  },
+  "word-gb": {
+   "label": "British",
+   "voice": "en-GB-SoniaNeural",
+   "rate": "-18%",
+   "pitch": "+0Hz"
+  },
+  "adviser": {
+   "label": "Radio Adviser",
+   "voice": "en-GB-LibbyNeural",
+   "rate": "-2%",
+   "pitch": "+0Hz"
+  },
+  "clone-spk": {
+   "label": "Clone (through the speaker)",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+12%",
+   "pitch": "+6Hz",
+   "fx": "highpass=f=320,lowpass=f=3800,aecho=0.8:0.35:35:0.25,volume=1.3"
+  },
+  "lin-spk": {
+   "label": "Xiaoshuai (playback)",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "-4%",
+   "pitch": "+2Hz",
+   "fx": "highpass=f=320,lowpass=f=3800,aecho=0.8:0.35:35:0.25,volume=1.3"
+  }
+ },
+ "storyboard": "/Users/huyin/Swingboat/english-to-be-continued/production/book-01/ep-008/storyboard.png",
+ "panelRects": [
+  [
+   3,
+   3,
+   433,
+   394
+  ],
+  [
+   450,
+   3,
+   434,
+   394
+  ],
+  [
+   3,
+   410,
+   433,
+   422
+  ],
+  [
+   450,
+   410,
+   434,
+   422
+  ],
+  [
+   3,
+   845,
+   433,
+   404
+  ],
+  [
+   450,
+   845,
+   434,
+   404
+  ],
+  [
+   3,
+   1261,
+   433,
+   510
+  ],
+  [
+   450,
+   1261,
+   434,
+   510
+  ]
+ ],
+ "panels": {
+  "p1": [
+   1732,
+   1576
+  ],
+  "p2": [
+   1736,
+   1576
+  ],
+  "p3": [
+   1732,
+   1688
+  ],
+  "p4": [
+   1736,
+   1688
+  ],
+  "p5": [
+   1732,
+   1616
+  ],
+  "p6": [
+   1736,
+   1616
+  ],
+  "p7": [
+   1732,
+   2040
+  ],
+  "p8": [
+   1736,
+   2040
+  ],
+  "prev1": [
+   1736,
+   1616
+  ],
+  "prev2": [
+   1736,
+   1568
+  ],
+  "prev3": [
+   1736,
+   2168
+  ]
+ },
+ "prevSource": [
+  "../ep-007/public/panels/p4.png",
+  "../ep-007/public/panels/p6.png",
+  "../ep-007/public/panels/p8.png"
+ ],
+ "prev": [
+  {
+   "id": "n-prev1",
+   "panel": "prev1",
+   "from": [
+    0.5,
+    0.45,
+    1.0
+   ],
+   "to": [
+    0.6,
+    0.6,
+    2.0
+   ]
+  },
+  {
+   "id": "n-prev2",
+   "panel": "prev2",
+   "from": [
+    0.5,
+    0.45,
+    1.0
+   ],
+   "to": [
+    0.7,
+    0.7,
+    2.2
+   ]
+  },
+  {
+   "id": "n-prev3",
+   "panel": "prev3",
+   "from": [
+    0.5,
+    0.4,
+    1.0
+   ],
+   "to": [
+    0.8,
+    0.2,
+    2.0
+   ]
+  }
+ ],
+ "reviewFrom": 7,
+ "words": [
+  {
+   "word": "laptop",
+   "id": "laptop",
+   "ipa": "/ˈlæptɒp/",
+   "uk": "/ˈlæptɒp/",
+   "us": "/ˈlæptɑːp/",
+   "pos": "noun",
+   "meaning": "笔记本电脑",
+   "example": "A borrowed laptop is already waiting.",
+   "exampleZh": "一台借来的笔记本电脑已经备好了。",
+   "scene": 1,
+   "panel": "p1",
+   "en": "A laptop is a small computer you can carry.",
+   "enZh": "laptop：可以随身带的小电脑。"
+  },
+  {
+   "word": "digital",
+   "id": "digital",
+   "ipa": "/ˈdɪdʒɪtl/",
+   "pos": "adjective",
+   "meaning": "数字的；数码的",
+   "example": "We make a short digital recording.",
+   "exampleZh": "我们录了一小段数字音频。",
+   "scene": 2,
+   "panel": "p2",
+   "en": "Digital means stored as numbers, like files on a computer.",
+   "enZh": "digital：以数字形式存储的，比如电脑里的文件。"
+  },
+  {
+   "word": "hardware",
+   "id": "hardware",
+   "ipa": "/ˈhɑːdweə(r)/",
+   "uk": "/ˈhɑːdweə/",
+   "us": "/ˈhɑːrdwer/",
+   "pos": "noun",
+   "meaning": "硬件",
+   "example": "Our current hardware works for this test.",
+   "exampleZh": "我们现有的硬件够用来完成这次测试。",
+   "scene": 7,
+   "panel": "p7",
+   "en": "Hardware is the machines you can touch, like a laptop or a mic.",
+   "enZh": "hardware：摸得着的设备，比如电脑和麦克风。"
+  },
+  {
+   "word": "engine",
+   "id": "engine",
+   "ipa": "/ˈendʒɪn/",
+   "pos": "noun",
+   "meaning": "引擎；发动机",
+   "example": "This engine helps us find information.",
+   "exampleZh": "这个引擎帮助我们查找信息。",
+   "scene": 8,
+   "panel": "p8",
+   "en": "An engine is the part that makes something work.",
+   "enZh": "engine：让东西运转起来的部分。"
+  },
+  {
+   "word": "search engine",
+   "id": "searchengine",
+   "kw": "search engine",
+   "ipa": "/ˈsɜːtʃ ˌendʒɪn/",
+   "pos": "noun phrase",
+   "meaning": "搜索引擎",
+   "example": "We use a search engine to find ideas for our first question.",
+   "exampleZh": "我们用搜索引擎，为第一个采访问题寻找思路。",
+   "scene": 8,
+   "panel": "p8",
+   "en": "A search engine is a website that finds information for you.",
+   "enZh": "search engine：帮你在网上查找信息的网站。"
+  }
+ ],
+ "review": [
+  {
+   "word": "function",
+   "meaning": "功能；作用",
+   "example": "What is the function of this icon?",
+   "exampleZh": "这个图标有什么功能？"
+  },
+  {
+   "word": "professional",
+   "meaning": "专业的；职业的",
+   "example": "The adviser gives us professional guidance.",
+   "exampleZh": "指导老师给我们专业指导。"
+  }
+ ],
+ "scenes": [
+  {
+   "id": 1,
+   "panel": "p1",
+   "name": "说完分享，再来练录音",
+   "place": "Friday · After school · The radio room",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s1l1",
+     "x": 0.28,
+     "y": 0.22,
+     "z": 2.2
+    },
+    {
+     "at": "s1l2",
+     "x": 0.74,
+     "y": 0.45,
+     "z": 2.1
+    },
+    {
+     "at": "s1l3",
+     "x": 0.5,
+     "y": 0.68,
+     "z": 1.7
+    },
+    {
+     "at": "s1-tone",
+     "x": 0.88,
+     "y": 0.8,
+     "z": 2.3
+    },
+    {
+     "at": "s1l4",
+     "x": 0.88,
+     "y": 0.27,
+     "z": 2.1
+    },
+    {
+     "at": "s1l5",
+     "x": 0.48,
+     "y": 0.42,
+     "z": 2.2
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s1-open",
+     "frames": 20,
+     "sfx": "zipper"
+    },
+    {
+     "kind": "line",
+     "id": "s1l1",
+     "who": "lin",
+     "en": "Moving the desks, and my two o'clock English talk... both done on time. This time, I gave the talk myself.",
+     "zh": "搬桌和两点的英语分享都按时做完了。这次是我自己讲的。"
+    },
+    {
+     "kind": "line",
+     "id": "s1l2",
+     "who": "su",
+     "en": "I heard it. Now it's time to record some sound.",
+     "zh": "听到了。现在轮到把声音录下来。"
+    },
+    {
+     "kind": "line",
+     "id": "s1l3",
+     "who": "lin-inner-en",
+     "en": "A borrowed laptop is already waiting.",
+     "zh": "一台借来的笔记本电脑已经备好了。",
+     "kw": "laptop"
+    },
+    {
+     "kind": "pause",
+     "id": "s1-tone",
+     "frames": 40,
+     "sfx": "chime"
+    },
+    {
+     "kind": "line",
+     "id": "s1l4",
+     "who": "adviser",
+     "en": "The school lent us this laptop for practice. We heard the test tone, so the speaker is fine. Next, let's open the recording software.",
+     "zh": "学校借来的电脑先给你们练。提示音听到了，音箱连接正常，接下来打开录音软件。"
+    },
+    {
+     "kind": "line",
+     "id": "s1l5",
+     "who": "clone",
+     "en": "I brought the guide and my prep checklist.",
+     "zh": "我把说明和准备清单都带来了。",
+     "sfx": "paper"
+    },
+    {
+     "kind": "pause",
+     "id": "s1-end",
+     "frames": 16
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "panel": "p2",
+   "name": "录上了，回放却点错了",
+   "place": "Same desk · A short test recording",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s2l1",
+     "x": 0.55,
+     "y": 0.68,
+     "z": 1.8
+    },
+    {
+     "at": "s2-rec",
+     "x": 0.42,
+     "y": 0.4,
+     "z": 2.2
+    },
+    {
+     "at": "s2l3",
+     "x": 0.68,
+     "y": 0.45,
+     "z": 2.1
+    },
+    {
+     "at": "s2l4",
+     "x": 0.42,
+     "y": 0.4,
+     "z": 2.1
+    },
+    {
+     "at": "s2-click",
+     "x": 0.56,
+     "y": 0.8,
+     "z": 2.6
+    },
+    {
+     "at": "s2-play",
+     "x": 0.56,
+     "y": 0.75,
+     "z": 2.0
+    },
+    {
+     "at": "s2l5",
+     "x": 0.25,
+     "y": 0.25,
+     "z": 2.2
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s2-open",
+     "frames": 12
+    },
+    {
+     "kind": "line",
+     "id": "s2l1",
+     "who": "lin-inner-en",
+     "en": "We make a short digital recording.",
+     "zh": "我们录了一小段数字音频。",
+     "kw": "digital"
+    },
+    {
+     "kind": "pause",
+     "id": "s2-rec",
+     "frames": 16,
+     "sfx": "beep"
+    },
+    {
+     "kind": "line",
+     "id": "s2l2",
+     "who": "lin-en",
+     "en": "Welcome to our radio test.",
+     "zh": "欢迎来到我们的广播测试。"
+    },
+    {
+     "kind": "line",
+     "id": "s2l3",
+     "who": "su",
+     "en": "Let's keep this short clip and play it back.",
+     "zh": "先留这一小段，回放听听。"
+    },
+    {
+     "kind": "line",
+     "id": "s2l4",
+     "who": "lin",
+     "en": "I'll click here... then press play.",
+     "zh": "我点这里……再按播放。"
+    },
+    {
+     "kind": "pause",
+     "id": "s2-click",
+     "frames": 30
+    },
+    {
+     "kind": "pause",
+     "id": "s2-play",
+     "frames": 44,
+     "sfx": "cricket"
+    },
+    {
+     "kind": "line",
+     "id": "s2l5",
+     "who": "clone",
+     "en": "The waveform is there. So why can't we hear the playback?",
+     "zh": "波形出来了，怎么没听到回放？"
+    },
+    {
+     "kind": "pause",
+     "id": "s2-end",
+     "frames": 16
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "panel": "p3",
+   "name": "声音没来，采购单先来了",
+   "place": "At the desk · Two pages of upgrades",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s3l1",
+     "x": 0.48,
+     "y": 0.2,
+     "z": 2.1
+    },
+    {
+     "at": "s3-list",
+     "x": 0.5,
+     "y": 0.5,
+     "z": 1.4
+    },
+    {
+     "at": "s3l2",
+     "x": 0.15,
+     "y": 0.45,
+     "z": 2.2
+    },
+    {
+     "at": "s3l3",
+     "x": 0.86,
+     "y": 0.5,
+     "z": 2.2
+    },
+    {
+     "at": "s3l4",
+     "x": 0.9,
+     "y": 0.17,
+     "z": 2.2
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s3-open",
+     "frames": 20,
+     "sfx": "paper"
+    },
+    {
+     "kind": "line",
+     "id": "s3l1",
+     "who": "clone",
+     "en": "Maybe the computer is too old? I made two pages of upgrade ideas. A computer, headphones, adapters...",
+     "zh": "会不会电脑太旧？我列了两页升级建议——电脑、耳机、接口……"
+    },
+    {
+     "kind": "pause",
+     "id": "s3-list",
+     "frames": 40,
+     "sfx": "rustle"
+    },
+    {
+     "kind": "line",
+     "id": "s3l2",
+     "who": "lin",
+     "en": "Hold on. Your list is blocking the computer.",
+     "zh": "先等一下。你的清单把电脑挡住了。"
+    },
+    {
+     "kind": "line",
+     "id": "s3l3",
+     "who": "su",
+     "en": "Now all I can see is what you want to buy, not what went wrong.",
+     "zh": "我现在只能看见你准备买什么，看不见哪里出了问题。"
+    },
+    {
+     "kind": "line",
+     "id": "s3l4",
+     "who": "adviser",
+     "en": "Put the paper down first. Let's look at that recording.",
+     "zh": "先把纸放下，看看刚才那段录音。"
+    },
+    {
+     "kind": "pause",
+     "id": "s3-end",
+     "frames": 16
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "panel": "p4",
+   "name": "先让我们看见屏幕",
+   "place": "Same desk · Back to the software",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s4l1",
+     "x": 0.28,
+     "y": 0.43,
+     "z": 2.2
+    },
+    {
+     "at": "s4l2",
+     "x": 0.58,
+     "y": 0.82,
+     "z": 2.7
+    },
+    {
+     "at": "s4l2",
+     "offset": 56,
+     "x": 0.58,
+     "y": 0.82,
+     "z": 2.7
+    },
+    {
+     "at": "s4l3",
+     "x": 0.45,
+     "y": 0.17,
+     "z": 2.2
+    },
+    {
+     "at": "s4-look",
+     "x": 0.6,
+     "y": 0.8,
+     "z": 2.7
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s4-open",
+     "frames": 18,
+     "sfx": "paper"
+    },
+    {
+     "kind": "line",
+     "id": "s4l1",
+     "who": "lin",
+     "en": "First, let us see the screen. Did I click next to the button just now?",
+     "zh": "先让我们看见屏幕。刚才我是不是点到旁边了？"
+    },
+    {
+     "kind": "line",
+     "id": "s4l2",
+     "who": "lin-en",
+     "en": "What is the function of this icon?",
+     "zh": "这个图标有什么功能？",
+     "kw": "function"
+    },
+    {
+     "kind": "line",
+     "id": "s4l3",
+     "who": "clone",
+     "en": "Okay. I'll put my list away and look with you.",
+     "zh": "好，我先收住清单，跟你们一起看。"
+    },
+    {
+     "kind": "pause",
+     "id": "s4-look",
+     "frames": 44,
+     "sfx": "tick"
+    },
+    {
+     "kind": "pause",
+     "id": "s4-end",
+     "frames": 8
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "panel": "p5",
+   "name": "线索只有一个小图标",
+   "place": "Laptop close-up · The playback track",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.45,
+     "y": 0.5,
+     "z": 1.2
+    },
+    {
+     "at": "s5l1",
+     "x": 0.15,
+     "y": 0.42,
+     "z": 2.0
+    },
+    {
+     "at": "s5-icon",
+     "x": 0.74,
+     "y": 0.58,
+     "z": 2.8
+    },
+    {
+     "at": "s5l2",
+     "x": 0.85,
+     "y": 0.32,
+     "z": 2.1
+    },
+    {
+     "at": "s5l3",
+     "x": 0.5,
+     "y": 0.48,
+     "z": 1.5
+    },
+    {
+     "at": "s5l4",
+     "x": 0.4,
+     "y": 0.15,
+     "z": 2.2
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s5-open",
+     "frames": 12
+    },
+    {
+     "kind": "line",
+     "id": "s5l1",
+     "who": "su",
+     "en": "Here! Why does this little speaker have a line through it?",
+     "zh": "这里的小喇叭怎么有一条斜线？"
+    },
+    {
+     "kind": "pause",
+     "id": "s5-icon",
+     "frames": 30,
+     "sfx": "dun"
+    },
+    {
+     "kind": "line",
+     "id": "s5l2",
+     "who": "lin",
+     "en": "That was me. I meant to click next to it, but I turned it off.",
+     "zh": "是我。刚才想点旁边，结果把它关了。",
+     "sfx": "bonk"
+    },
+    {
+     "kind": "line",
+     "id": "s5l3",
+     "who": "adviser",
+     "en": "That's the playback mute for this track. Your voice was recorded. It just can't play back while it's muted.",
+     "zh": "这是这一条轨道的播放静音。声音录进来了，只是回放时被关住了。"
+    },
+    {
+     "kind": "line",
+     "id": "s5l4",
+     "who": "clone",
+     "en": "My two pages of upgrades... and I never noticed this one little icon.",
+     "zh": "我那两页清单，还没看到这一个小图标。"
+    },
+    {
+     "kind": "pause",
+     "id": "s5-end",
+     "frames": 20
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "panel": "p6",
+   "name": "同一段声音，终于听到了",
+   "place": "At the desk · Unmute and play again",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s6l1",
+     "x": 0.78,
+     "y": 0.22,
+     "z": 2.2
+    },
+    {
+     "at": "s6l2",
+     "x": 0.75,
+     "y": 0.25,
+     "z": 2.0
+    },
+    {
+     "at": "s6-unmute",
+     "x": 0.66,
+     "y": 0.66,
+     "z": 2.7
+    },
+    {
+     "at": "s6-play",
+     "x": 0.6,
+     "y": 0.62,
+     "z": 1.9
+    },
+    {
+     "at": "s6l3",
+     "x": 0.4,
+     "y": 0.3,
+     "z": 2.2
+    },
+    {
+     "at": "s6l4",
+     "x": 0.9,
+     "y": 0.47,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s6-open",
+     "frames": 12
+    },
+    {
+     "kind": "line",
+     "id": "s6l1",
+     "who": "lin-inner-en",
+     "en": "The adviser gives us professional guidance.",
+     "zh": "指导老师给我们专业指导。",
+     "kw": "professional"
+    },
+    {
+     "kind": "line",
+     "id": "s6l2",
+     "who": "adviser",
+     "en": "Unmute this track, then play the same clip again.",
+     "zh": "取消这条轨道的静音，再放刚才同一段。"
+    },
+    {
+     "kind": "pause",
+     "id": "s6-unmute",
+     "frames": 30,
+     "sfx": "tap"
+    },
+    {
+     "kind": "line",
+     "id": "s6-play",
+     "who": "lin-spk",
+     "en": "Welcome to our radio test.",
+     "zh": "欢迎来到我们的广播测试。",
+     "sfxEnd": "sparkle"
+    },
+    {
+     "kind": "line",
+     "id": "s6l3",
+     "who": "lin",
+     "en": "I hear it! That's really the clip I just recorded.",
+     "zh": "听到了，这次确实是我刚才录的声音。"
+    },
+    {
+     "kind": "line",
+     "id": "s6l4",
+     "who": "su",
+     "en": "The recording is there, and the equipment works. Let's note the problem and check it first next time.",
+     "zh": "录音在，设备也能用。问题记清楚，下次先检查。",
+     "sfxEnd": "scribble"
+    },
+    {
+     "kind": "pause",
+     "id": "s6-end",
+     "frames": 20
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "panel": "p7",
+   "name": "设备先用好，清单先收好",
+   "place": "Same room · Saving the test file",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1
+    },
+    {
+     "at": "s7l1",
+     "x": 0.45,
+     "y": 0.7,
+     "z": 1.8
+    },
+    {
+     "at": "s7l2",
+     "x": 0.12,
+     "y": 0.3,
+     "z": 2.2
+    },
+    {
+     "at": "s7l3",
+     "x": 0.8,
+     "y": 0.4,
+     "z": 2.1
+    },
+    {
+     "at": "s7l4",
+     "x": 0.82,
+     "y": 0.1,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s7-open",
+     "frames": 12
+    },
+    {
+     "kind": "line",
+     "id": "s7l1",
+     "who": "lin-en",
+     "en": "Our current hardware works for this test.",
+     "zh": "我们现有的硬件够用来完成这次测试。",
+     "kw": "hardware",
+     "sfx": "paper"
+    },
+    {
+     "kind": "line",
+     "id": "s7l2",
+     "who": "clone",
+     "en": "I heard it in the headphones, too. I won't add a third page. First, I'll learn how to use this set.",
+     "zh": "耳机里也听到了。我先不加第三页，先把这套用明白。"
+    },
+    {
+     "kind": "line",
+     "id": "s7l3",
+     "who": "su",
+     "en": "The short test is saved. Next, let's prepare what we actually want to say.",
+     "zh": "短试音保存好了。接下来准备真正要讲的内容。",
+     "sfx": "click"
+    },
+    {
+     "kind": "line",
+     "id": "s7l4",
+     "who": "adviser",
+     "en": "Good. Keep going with your roles. Your ten-minute slot next Wednesday is still yours.",
+     "zh": "好，照分工继续。下周三的十分钟试播时段保留。",
+     "sfxEnd": "ding"
+    },
+    {
+     "kind": "pause",
+     "id": "s7-end",
+     "frames": 20
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "panel": "p8",
+   "name": "轮到搜索框，找我们的故事",
+   "place": "Same session · The search box",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1
+    },
+    {
+     "at": "s8l1",
+     "x": 0.45,
+     "y": 0.27,
+     "z": 2.1
+    },
+    {
+     "at": "s8-type",
+     "x": 0.6,
+     "y": 0.4,
+     "z": 2.0
+    },
+    {
+     "at": "s8l2",
+     "x": 0.75,
+     "y": 0.28,
+     "z": 2.1
+    },
+    {
+     "at": "s8l3",
+     "x": 0.15,
+     "y": 0.28,
+     "z": 2.1
+    },
+    {
+     "at": "s8l4",
+     "x": 0.45,
+     "y": 0.27,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1.1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s8-open",
+     "frames": 12,
+     "sfx": "keys"
+    },
+    {
+     "kind": "line",
+     "id": "s8l1",
+     "who": "lin-en",
+     "en": "We use a search engine to find ideas for our first question.",
+     "zh": "我们用搜索引擎，为第一个采访问题寻找思路。",
+     "kw": "search engine"
+    },
+    {
+     "kind": "pause",
+     "id": "s8-type",
+     "frames": 54,
+     "sfx": "keys"
+    },
+    {
+     "kind": "line",
+     "id": "s8l2",
+     "who": "su",
+     "en": "Search for question ideas first. Then we decide who to really ask, and what. It's still about the help we got on our first day.",
+     "zh": "先搜采访问题的思路，再决定真正问谁、问什么。还是围绕入学第一天得到的帮助。",
+     "sfx": "flip"
+    },
+    {
+     "kind": "line",
+     "id": "s8l3",
+     "who": "clone-en",
+     "en": "This engine helps us find information. Our job is to understand it.",
+     "zh": "这次引擎负责找资料，我们负责把它看明白。",
+     "kw": "engine"
+    },
+    {
+     "kind": "line",
+     "id": "s8l4",
+     "who": "lin",
+     "en": "Let's each write down one useful clue. Don't let the prep list get longer than the content again.",
+     "zh": "先各记下一条有用的线索，别又让准备清单比内容多。",
+     "sfxEnd": "scribble"
+    },
+    {
+     "kind": "pause",
+     "id": "s8-end",
+     "frames": 34
+    }
+   ]
+  }
+ ],
+ "narration": [
+  {
+   "id": "n-prev1",
+   "who": "narrator-en",
+   "en": "Last time: the roles form had Xiaoshuai's name on it twice.",
+   "zh": "上回说到：分工表上，“小帅”被写了两遍。"
+  },
+  {
+   "id": "n-prev2",
+   "who": "narrator-en",
+   "en": "The speaker stayed silent, until the radio adviser found a loose cable.",
+   "zh": "音箱一直没声音，直到广播指导老师发现一根线松了。"
+  },
+  {
+   "id": "n-prev3",
+   "who": "narrator-en",
+   "en": "Now every job has one name, and the ten-minute trial has a time slot.",
+   "zh": "现在，每项工作只写一个名字，十分钟试播也有了时段。"
+  },
+  {
+   "id": "n-title",
+   "who": "narrator-en",
+   "en": "English: To Be Continued. Episode eight. The computer isn't broken. We clicked in the wrong place.",
+   "zh": "英语有续集，第八话。电脑没坏，是我们点错了地方。"
+  },
+  {
+   "id": "n-recap",
+   "who": "lesson",
+   "en": "Now, let's learn the words!",
+   "zh": "现在，来学单词！"
+  },
+  {
+   "id": "n-review",
+   "who": "lesson",
+   "en": "And two words from Episode 7!",
+   "zh": "还有两个第七集学过的词！"
+  },
+  {
+   "id": "n-next1",
+   "who": "narrator-en",
+   "en": "Next time: three hours of searching, and twenty new group chats.",
+   "zh": "下集预告：搜了三小时，收获二十个聊天群。"
+  },
+  {
+   "id": "n-next2",
+   "who": "narrator-en",
+   "en": "The equipment works, but the stories are up to us. Once the search box opens, busy feeds and chats quickly pull all three of them off track.",
+   "zh": "设备能用，选题还得自己找。搜索框一打开，三人却很快被热闹的动态和聊天带跑了。"
+  },
+  {
+   "id": "n-outro",
+   "who": "word-us",
+   "en": "Follow the story. Learn the words.",
+   "zh": "跟着故事，记住单词。"
+  }
+ ]
+}

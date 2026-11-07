@@ -1,0 +1,1229 @@
+{
+ "episode": "EP.009",
+ "episodeNo": 9,
+ "title": "搜了三小时，收获二十个聊天群。",
+ "titleLines": [
+  "Three Hours of Searching.",
+  "Twenty Group Chats Later."
+ ],
+ "season": "Out-Hustled by My Own Clone",
+ "source": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-009.html",
+ "pronounce": {
+  "Xiaoshuais": "Shiao Shwais",
+  "Xiaoshuai": "Shiao Shwai",
+  "Xiaoman": "Shiao Man"
+ },
+ "next": {
+  "no": "010",
+  "lines": [
+   "Trying to Quit His Phone,",
+   "He Almost Deleted the Show."
+  ],
+  "desc": [
+   "The draft is saved. The notifications are back.",
+   "And the clone reaches for the wrong files..."
+  ]
+ },
+ "voices": {
+  "lin": {
+   "label": "Xiaoshuai",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+6%",
+   "pitch": "+2Hz"
+  },
+  "lin-en": {
+   "label": "Xiaoshuai",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "-4%",
+   "pitch": "+2Hz"
+  },
+  "lin-inner-en": {
+   "label": "Xiaoshuai (thinking)",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "-4%",
+   "pitch": "+2Hz",
+   "fx": "aecho=0.8:0.55:70|140:0.28|0.14"
+  },
+  "clone": {
+   "label": "Clone",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+12%",
+   "pitch": "+6Hz"
+  },
+  "clone-en": {
+   "label": "Clone",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+2%",
+   "pitch": "+6Hz"
+  },
+  "su": {
+   "label": "Su Xiaoman",
+   "voice": "zh-TW-HsiaoChenNeural",
+   "rate": "+4%",
+   "pitch": "+6Hz"
+  },
+  "su-en": {
+   "label": "Su Xiaoman",
+   "voice": "zh-TW-HsiaoChenNeural",
+   "rate": "+0%",
+   "pitch": "+6Hz"
+  },
+  "buzz": {
+   "label": "Buzz-cut classmate",
+   "voice": "zh-TW-YunJheNeural",
+   "rate": "+4%",
+   "pitch": "+4Hz"
+  },
+  "pony": {
+   "label": "Ponytail classmate",
+   "voice": "zh-CN-XiaoyiNeural",
+   "rate": "+4%",
+   "pitch": "+4Hz"
+  },
+  "mum": {
+   "label": "Mum",
+   "voice": "zh-CN-XiaoxiaoNeural",
+   "rate": "-2%",
+   "pitch": "-2Hz"
+  },
+  "teacher": {
+   "label": "Head Teacher",
+   "voice": "en-US-ChristopherNeural",
+   "rate": "+0%",
+   "pitch": "+0Hz"
+  },
+  "narrator-en": {
+   "label": "Narrator",
+   "voice": "en-US-AvaNeural",
+   "rate": "-4%",
+   "pitch": "+0Hz"
+  },
+  "lesson": {
+   "label": "English Corner",
+   "voice": "en-US-JennyNeural",
+   "rate": "-2%",
+   "pitch": "+0Hz"
+  },
+  "word-us": {
+   "label": "American",
+   "voice": "en-US-AriaNeural",
+   "rate": "-18%",
+   "pitch": "+0Hz"
+  },
+  "word-gb": {
+   "label": "British",
+   "voice": "en-GB-SoniaNeural",
+   "rate": "-18%",
+   "pitch": "+0Hz"
+  },
+  "adviser": {
+   "label": "Radio Adviser",
+   "voice": "en-GB-LibbyNeural",
+   "rate": "-2%",
+   "pitch": "+0Hz"
+  },
+  "clone-spk": {
+   "label": "Clone (through the speaker)",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+12%",
+   "pitch": "+6Hz",
+   "fx": "highpass=f=320,lowpass=f=3800,aecho=0.8:0.35:35:0.25,volume=1.3"
+  },
+  "lin-spk": {
+   "label": "Xiaoshuai (playback)",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "-4%",
+   "pitch": "+2Hz",
+   "fx": "highpass=f=320,lowpass=f=3800,aecho=0.8:0.35:35:0.25,volume=1.3"
+  },
+  "mum-vo": {
+   "label": "Mum (from the kitchen)",
+   "voice": "zh-CN-XiaoxiaoNeural",
+   "rate": "-2%",
+   "pitch": "-2Hz",
+   "fx": "lowpass=f=3200,aecho=0.8:0.4:40:0.2"
+  },
+  "pony-phone": {
+   "label": "Ponytail classmate (on the phone)",
+   "voice": "zh-CN-XiaoyiNeural",
+   "rate": "+4%",
+   "pitch": "+4Hz",
+   "fx": "highpass=f=400,lowpass=f=3400,volume=1.4"
+  }
+ },
+ "storyboard": "/Users/huyin/Swingboat/english-to-be-continued/production/book-01/ep-009/storyboard.png",
+ "panelRects": [
+  [
+   3,
+   3,
+   433,
+   403
+  ],
+  [
+   450,
+   3,
+   434,
+   403
+  ],
+  [
+   3,
+   419,
+   433,
+   405
+  ],
+  [
+   450,
+   419,
+   434,
+   405
+  ],
+  [
+   3,
+   836,
+   433,
+   393
+  ],
+  [
+   450,
+   836,
+   434,
+   393
+  ],
+  [
+   3,
+   1241,
+   433,
+   530
+  ],
+  [
+   450,
+   1241,
+   434,
+   530
+  ]
+ ],
+ "panels": {
+  "p1": [
+   1732,
+   1612
+  ],
+  "p2": [
+   1736,
+   1612
+  ],
+  "p3": [
+   1732,
+   1620
+  ],
+  "p4": [
+   1736,
+   1620
+  ],
+  "p5": [
+   1732,
+   1572
+  ],
+  "p6": [
+   1736,
+   1572
+  ],
+  "p7": [
+   1732,
+   2120
+  ],
+  "p8": [
+   1736,
+   2120
+  ],
+  "prev1": [
+   1732,
+   1688
+  ],
+  "prev2": [
+   1732,
+   1616
+  ],
+  "prev3": [
+   1736,
+   2040
+  ]
+ },
+ "prevSource": [
+  "../ep-008/public/panels/p3.png",
+  "../ep-008/public/panels/p5.png",
+  "../ep-008/public/panels/p8.png"
+ ],
+ "prev": [
+  {
+   "id": "n-prev1",
+   "panel": "prev1",
+   "from": [
+    0.5,
+    0.45,
+    1.0
+   ],
+   "to": [
+    0.5,
+    0.45,
+    1.6
+   ]
+  },
+  {
+   "id": "n-prev2",
+   "panel": "prev2",
+   "from": [
+    0.5,
+    0.45,
+    1.0
+   ],
+   "to": [
+    0.74,
+    0.58,
+    2.4
+   ]
+  },
+  {
+   "id": "n-prev3",
+   "panel": "prev3",
+   "from": [
+    0.5,
+    0.4,
+    1.0
+   ],
+   "to": [
+    0.6,
+    0.45,
+    1.9
+   ]
+  }
+ ],
+ "reviewFrom": 8,
+ "words": [
+  {
+   "word": "surf the Internet",
+   "id": "surfnet",
+   "kw": "surf the Internet",
+   "ipa": "/sɜːf ði ˈɪntənet/",
+   "pos": "phrase",
+   "meaning": "网上冲浪；浏览互联网",
+   "example": "We surf the Internet for interview ideas.",
+   "exampleZh": "我们上网寻找采访思路。",
+   "scene": 2,
+   "panel": "p2",
+   "en": "To surf the Internet is to look at one website after another.",
+   "enZh": "surf the Internet：一个网页接一个网页地浏览。"
+  },
+  {
+   "word": "social media",
+   "id": "socialmedia",
+   "kw": "social media",
+   "ipa": "/ˌsəʊʃl ˈmiːdiə/",
+   "pos": "noun phrase",
+   "meaning": "社交媒体",
+   "example": "One link leads to social media.",
+   "exampleZh": "一个链接把我们带到了社交媒体。",
+   "scene": 2,
+   "panel": "p2",
+   "en": "Social media is apps and websites where people share posts and chat.",
+   "enZh": "social media：人们发帖、聊天的应用和网站。"
+  },
+  {
+   "word": "surf",
+   "id": "surf",
+   "ipa": "/sɜːf/",
+   "uk": "/sɜːf/",
+   "us": "/sɜːrf/",
+   "pos": "verb",
+   "meaning": "上网浏览；冲浪",
+   "example": "I start to surf for funny videos.",
+   "exampleZh": "我开始上网找搞笑视频。",
+   "scene": 3,
+   "panel": "p3",
+   "en": "To surf is to move quickly from one web page to the next.",
+   "enZh": "surf：在网页之间快速跳来跳去地浏览。"
+  },
+  {
+   "word": "chat",
+   "id": "chat",
+   "ipa": "/tʃæt/",
+   "pos": "verb",
+   "meaning": "聊天；闲聊",
+   "example": "Soon we chat more than we search.",
+   "exampleZh": "没多久，我们聊天比查资料还多。",
+   "scene": 3,
+   "panel": "p3",
+   "en": "To chat is to talk in a friendly, relaxed way.",
+   "enZh": "chat：轻松随意地聊天。"
+  },
+  {
+   "word": "media",
+   "id": "media",
+   "ipa": "/ˈmiːdiə/",
+   "pos": "noun",
+   "meaning": "媒体；传播媒介",
+   "example": "Radio is part of the media, too.",
+   "exampleZh": "广播也是媒体的一部分。",
+   "scene": 5,
+   "panel": "p5",
+   "en": "The media are ways of sharing news with many people, like TV and radio.",
+   "enZh": "media：向大众传递信息的方式，如电视和广播。"
+  }
+ ],
+ "review": [
+  {
+   "word": "search engine",
+   "meaning": "搜索引擎",
+   "example": "We use a search engine to find interview ideas.",
+   "exampleZh": "我们用搜索引擎寻找采访思路。"
+  },
+  {
+   "word": "digital",
+   "meaning": "数字的；数码的",
+   "example": "We open a digital notebook for useful leads.",
+   "exampleZh": "我们打开数字笔记，准备记下有用线索。"
+  }
+ ],
+ "scenes": [
+  {
+   "id": 1,
+   "panel": "p1",
+   "name": "借来的电脑，写好的任务",
+   "place": "Saturday · 9 a.m. · Xiaoshuai's home",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s1l1",
+     "x": 0.2,
+     "y": 0.25,
+     "z": 2.1
+    },
+    {
+     "at": "s1l2",
+     "x": 0.9,
+     "y": 0.52,
+     "z": 2.2
+    },
+    {
+     "at": "s1l3",
+     "x": 0.42,
+     "y": 0.45,
+     "z": 2.1
+    },
+    {
+     "at": "s1l4",
+     "x": 0.68,
+     "y": 0.38,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s1-open",
+     "frames": 24,
+     "sfx": "clink"
+    },
+    {
+     "kind": "line",
+     "id": "s1l1",
+     "who": "mum",
+     "en": "The teacher signed out this laptop for you, so remember to take it back on Monday. First, tell me clearly what you're looking for today.",
+     "zh": "老师登记借回的电脑，周一记得带回去。你们先把今天要找什么说清楚。"
+    },
+    {
+     "kind": "line",
+     "id": "s1l2",
+     "who": "su",
+     "en": "Still the help people got on their first day. Each of us finds one lead we can use.",
+     "zh": "还是第一天得到过什么帮助。每个人先找一条能用的线索。",
+     "sfx": "flip"
+    },
+    {
+     "kind": "line",
+     "id": "s1l3",
+     "who": "lin-en",
+     "en": "We open a digital notebook for useful leads. We use a search engine to find interview ideas.",
+     "zh": "数字笔记开好了，先用搜索引擎找思路。",
+     "kw": "digital|search engine"
+    },
+    {
+     "kind": "line",
+     "id": "s1l4",
+     "who": "clone",
+     "en": "This time, I'll definitely bring back loads of material!",
+     "zh": "这次我一定带回很多资料。",
+     "sfxEnd": "boing"
+    },
+    {
+     "kind": "pause",
+     "id": "s1-end",
+     "frames": 16
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "panel": "p2",
+   "name": "一个链接，还有下一个",
+   "place": "Same table · Just starting to browse",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s2l1",
+     "x": 0.27,
+     "y": 0.33,
+     "z": 2.1
+    },
+    {
+     "at": "s2l2",
+     "x": 0.85,
+     "y": 0.33,
+     "z": 2.2
+    },
+    {
+     "at": "s2l3",
+     "x": 0.5,
+     "y": 0.32,
+     "z": 2.2
+    },
+    {
+     "at": "s2-links",
+     "x": 0.45,
+     "y": 0.65,
+     "z": 1.7
+    },
+    {
+     "at": "s2l4",
+     "x": 0.27,
+     "y": 0.33,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s2-open",
+     "frames": 14,
+     "sfx": "click"
+    },
+    {
+     "kind": "line",
+     "id": "s2l1",
+     "who": "lin-en",
+     "en": "We surf the Internet for interview ideas.",
+     "zh": "我们上网寻找采访思路。",
+     "kw": "surf the Internet"
+    },
+    {
+     "kind": "line",
+     "id": "s2l2",
+     "who": "su",
+     "en": "This one's about the first day of school. Let me see what people say.",
+     "zh": "这条在聊开学经历，我看一下大家怎么说。",
+     "sfx": "click"
+    },
+    {
+     "kind": "line",
+     "id": "s2l3",
+     "who": "clone",
+     "en": "There's a related discussion right next to it. Let's open one more.",
+     "zh": "旁边还有相关讨论，再开一个。",
+     "sfx": "click"
+    },
+    {
+     "kind": "pause",
+     "id": "s2-links",
+     "frames": 54
+    },
+    {
+     "kind": "line",
+     "id": "s2l4",
+     "who": "lin-inner-en",
+     "en": "One link leads to social media.",
+     "zh": "一个链接把我们带到了社交媒体。",
+     "kw": "social media"
+    },
+    {
+     "kind": "pause",
+     "id": "s2-end",
+     "frames": 16
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "panel": "p3",
+   "name": "嘴上查资料，手上看小猫",
+   "place": "The table and the sofa · Drifting off",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s3l1",
+     "x": 0.22,
+     "y": 0.35,
+     "z": 2.1
+    },
+    {
+     "at": "s3l2",
+     "x": 0.2,
+     "y": 0.4,
+     "z": 2.0
+    },
+    {
+     "at": "s3l3",
+     "x": 0.85,
+     "y": 0.45,
+     "z": 2.1
+    },
+    {
+     "at": "s3l4",
+     "x": 0.62,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s3l5",
+     "x": 0.22,
+     "y": 0.32,
+     "z": 2.0
+    },
+    {
+     "at": "s3l6",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1.3
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s3-open",
+     "frames": 12,
+     "sfx": "giggle"
+    },
+    {
+     "kind": "line",
+     "id": "s3l1",
+     "who": "lin",
+     "en": "Look at this cat's face on its first day at school... Just one look. Just one!",
+     "zh": "这只猫第一天上学的表情……你们看一眼，就一眼。"
+    },
+    {
+     "kind": "line",
+     "id": "s3l2",
+     "who": "lin-inner-en",
+     "en": "I start to surf for funny videos.",
+     "zh": "我开始上网找搞笑视频。",
+     "kw": "surf"
+    },
+    {
+     "kind": "line",
+     "id": "s3l3",
+     "who": "su",
+     "en": "Hold on, I have to reply to this comment. He's got it backwards.",
+     "zh": "等一下，这条评论我得回。他把问题说反了。",
+     "sfx": "keys"
+    },
+    {
+     "kind": "line",
+     "id": "s3l4",
+     "who": "clone",
+     "en": "This group chat could give us ideas, too. I'll save the invite first.",
+     "zh": "这个讨论群也能找灵感，我先收藏入口。",
+     "sfxEnd": "notify"
+    },
+    {
+     "kind": "line",
+     "id": "s3l5",
+     "who": "lin",
+     "en": "Weren't we looking for interview material? ...After this one.",
+     "zh": "我们不是在查采访资料吗？……先看完这一条。"
+    },
+    {
+     "kind": "line",
+     "id": "s3l6",
+     "who": "lin-inner-en",
+     "en": "Soon we chat more than we search.",
+     "zh": "没多久，我们聊天比查资料还多。",
+     "kw": "chat"
+    },
+    {
+     "kind": "pause",
+     "id": "s3-end",
+     "frames": 20
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "panel": "p4",
+   "name": "二十个群，半页采访都没有",
+   "place": "Noon · Mum brings lunch",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.86,
+     "y": 0.17,
+     "z": 2.4
+    },
+    {
+     "at": "s4-clock",
+     "x": 0.86,
+     "y": 0.17,
+     "z": 2.4
+    },
+    {
+     "at": "s4l1",
+     "x": 0.22,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s4l2",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 2.0
+    },
+    {
+     "at": "s4l3",
+     "x": 0.92,
+     "y": 0.65,
+     "z": 2.2
+    },
+    {
+     "at": "s4l4",
+     "x": 0.83,
+     "y": 0.45,
+     "z": 2.2
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s4-clock",
+     "frames": 72,
+     "sfx": "rewind"
+    },
+    {
+     "kind": "line",
+     "id": "s4l1",
+     "who": "mum",
+     "en": "The last dish is almost ready. You've searched for three hours. Did you find anything good enough to go with lunch?",
+     "zh": "最后一道菜马上好。你们查了三小时，查到的东西能下饭吗？",
+     "sfx": "clink"
+    },
+    {
+     "kind": "line",
+     "id": "s4l2",
+     "who": "clone",
+     "en": "I saved twenty group chat invites!",
+     "zh": "我收藏了二十个群聊入口！"
+    },
+    {
+     "kind": "line",
+     "id": "s4l3",
+     "who": "su",
+     "en": "I only copied one popular comment, and I don't know whose experience it is. The interview page has barely moved.",
+     "zh": "我只抄了一句热评，还不知道是谁的经历。采访页几乎没动。"
+    },
+    {
+     "kind": "line",
+     "id": "s4l4",
+     "who": "lin",
+     "en": "I remember every face that cat made, but I didn't write down a single piece of material.",
+     "zh": "我连猫的表情都记住了，就是没记下一条素材。"
+    },
+    {
+     "kind": "pause",
+     "id": "s4-end",
+     "frames": 24
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "panel": "p5",
+   "name": "各带回一条，说清从哪来",
+   "place": "Same table · Back on track",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s5-down",
+     "x": 0.2,
+     "y": 0.8,
+     "z": 2.4
+    },
+    {
+     "at": "s5l1",
+     "x": 0.25,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s5l2",
+     "x": 0.5,
+     "y": 0.33,
+     "z": 2.2
+    },
+    {
+     "at": "s5l3",
+     "x": 0.48,
+     "y": 0.4,
+     "z": 1.9
+    },
+    {
+     "at": "s5l4",
+     "x": 0.8,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s5-open",
+     "frames": 10
+    },
+    {
+     "kind": "pause",
+     "id": "s5-down",
+     "frames": 30,
+     "sfx": "thud"
+    },
+    {
+     "kind": "line",
+     "id": "s5l1",
+     "who": "lin",
+     "en": "Let's each bring back one really useful lead, and write down where it came from. Which one can we use right now?",
+     "zh": "先各带回一条真正有用的线索，写清从哪来。我们现在能用哪一条？"
+    },
+    {
+     "kind": "line",
+     "id": "s5l2",
+     "who": "su-en",
+     "en": "Radio is part of the media, too.",
+     "zh": "广播也是媒体的一部分。",
+     "kw": "media"
+    },
+    {
+     "kind": "line",
+     "id": "s5l3",
+     "who": "su",
+     "en": "We need to know whose experience it is, and whether they want to share it. We can't just copy a popular comment.",
+     "zh": "我们得知道是谁的经历、愿不愿意讲，不能只抄一句热评。"
+    },
+    {
+     "kind": "line",
+     "id": "s5l4",
+     "who": "clone",
+     "en": "Okay. I'll find something we can check against. No more group invites.",
+     "zh": "好。我去找能对照的资料，群入口先不加了。",
+     "sfx": "click",
+     "sfxEnd": "powerdown"
+    },
+    {
+     "kind": "pause",
+     "id": "s5-end",
+     "frames": 20
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "panel": "p6",
+   "name": "自己的经历，愿意讲的人",
+   "place": "Home table · A quick phone call",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s6l1",
+     "x": 0.18,
+     "y": 0.35,
+     "z": 2.1
+    },
+    {
+     "at": "s6l2",
+     "x": 0.5,
+     "y": 0.3,
+     "z": 2.2
+    },
+    {
+     "at": "s6l3",
+     "x": 0.18,
+     "y": 0.33,
+     "z": 2.1
+    },
+    {
+     "at": "s6l4",
+     "x": 0.5,
+     "y": 0.3,
+     "z": 2.0
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s6-open",
+     "frames": 12,
+     "sfx": "scribble"
+    },
+    {
+     "kind": "line",
+     "id": "s6l1",
+     "who": "lin",
+     "en": "I can tell my own first day. I was scared of saying something wrong, and you waited until I finished my introduction. That really happened.",
+     "zh": "我可以讲自己的第一天：怕说错，你等我把那句介绍说完了。这个我真经历过。"
+    },
+    {
+     "kind": "line",
+     "id": "s6l2",
+     "who": "su",
+     "en": "Can I borrow your phone to call the classmate who helped us? I'll ask if she'd like to talk about her first day.",
+     "zh": "借我手机问一下昨天帮忙的同学？问问她愿不愿意讲开学第一天的经历。"
+    },
+    {
+     "kind": "line",
+     "id": "s6l3",
+     "who": "lin",
+     "en": "Sure. Ask her first if she wants to.",
+     "zh": "可以。你先问她愿不愿意讲。",
+     "sfxEnd": "ring"
+    },
+    {
+     "kind": "line",
+     "id": "s6l4",
+     "who": "pony-phone",
+     "en": "I'd like to! On my first day, I went into the wrong building, and a classmate walked me to the library. Let's set a time on Monday. I'm about to eat lunch, too.",
+     "zh": "我愿意。我第一天走错了楼，有同学带我去图书馆。周一再约具体时间吧，我也准备吃饭了。"
+    },
+    {
+     "kind": "pause",
+     "id": "s6-end",
+     "frames": 22
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "panel": "p7",
+   "name": "手册里的路，周一去核对",
+   "place": "Same table · Three leads come together",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1
+    },
+    {
+     "at": "s7l1",
+     "x": 0.22,
+     "y": 0.2,
+     "z": 2.0
+    },
+    {
+     "at": "s7-map",
+     "x": 0.25,
+     "y": 0.38,
+     "z": 2.4
+    },
+    {
+     "at": "s7l2",
+     "x": 0.88,
+     "y": 0.38,
+     "z": 2.1
+    },
+    {
+     "at": "s7l3",
+     "x": 0.58,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s7-open",
+     "frames": 14,
+     "sfx": "paper"
+    },
+    {
+     "kind": "line",
+     "id": "s7l1",
+     "who": "clone",
+     "en": "The school guide shows where the library is. On Monday, we'll walk this route to check it, and ask her where she went that day.",
+     "zh": "手册里有图书馆的位置。周一回校，我们沿着这条路核对，再问她当时走到了哪儿。"
+    },
+    {
+     "kind": "pause",
+     "id": "s7-map",
+     "frames": 30,
+     "sfx": "marker"
+    },
+    {
+     "kind": "line",
+     "id": "s7l2",
+     "who": "su",
+     "en": "One personal story, one person willing to talk, one map we can check at school. They all have sources now.",
+     "zh": "一条本人经历，一个愿意受访的人，一份能回校核对的地图。都有出处了。",
+     "sfxEnd": "pop"
+    },
+    {
+     "kind": "line",
+     "id": "s7l3",
+     "who": "lin",
+     "en": "Only these go into our prep notes. The interview time and the route still need checking. This isn't the final script yet.",
+     "zh": "这些才进准备笔记。采访时间和路线还要确认，先别当成最终稿。",
+     "sfxEnd": "stamp"
+    },
+    {
+     "kind": "pause",
+     "id": "s7-end",
+     "frames": 20
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "panel": "p8",
+   "name": "第一段真故事，下一条新提醒",
+   "place": "Before lunch · A 30-second spoken draft",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1
+    },
+    {
+     "at": "s8l1",
+     "x": 0.25,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s8l2",
+     "x": 0.8,
+     "y": 0.5,
+     "z": 1.9
+    },
+    {
+     "at": "s8l3",
+     "x": 0.55,
+     "y": 0.25,
+     "z": 2.2
+    },
+    {
+     "at": "s8l4",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1.2
+    },
+    {
+     "at": "s8l5",
+     "x": 0.25,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s8-ping",
+     "x": 0.22,
+     "y": 0.8,
+     "z": 2.6
+    },
+    {
+     "at": "s8-ping",
+     "x": 0.22,
+     "y": 0.8,
+     "z": 2.9,
+     "offset": 40
+    },
+    {
+     "at": "end",
+     "x": 0.22,
+     "y": 0.8,
+     "z": 2.9
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s8-open",
+     "frames": 12,
+     "sfx": "beep"
+    },
+    {
+     "kind": "line",
+     "id": "s8l1",
+     "who": "lin-en",
+     "en": "On my first day, I was nervous, but Xiaoman let me finish.",
+     "zh": "入学第一天我很紧张，但小满等我把话说完。"
+    },
+    {
+     "kind": "line",
+     "id": "s8l2",
+     "who": "su",
+     "en": "Let's save this as a spoken draft. We'll set up the real interviews later. No building a show out of trending posts.",
+     "zh": "先把这段存成口述草稿。正式采访再约，别照着热帖拼节目。",
+     "sfx": "click"
+    },
+    {
+     "kind": "line",
+     "id": "s8l3",
+     "who": "clone",
+     "en": "Finally, something that's really ours.",
+     "zh": "终于多了一段我们自己的东西。",
+     "sfxEnd": "sparkle"
+    },
+    {
+     "kind": "line",
+     "id": "s8l4",
+     "who": "mum-vo",
+     "en": "Lunch is ready! The messages can wait.",
+     "zh": "该吃饭了，消息一会儿再看。"
+    },
+    {
+     "kind": "line",
+     "id": "s8l5",
+     "who": "lin",
+     "en": "Okay. I'll pack up once it's saved.",
+     "zh": "好，保存完就收。"
+    },
+    {
+     "kind": "pause",
+     "id": "s8-ping",
+     "frames": 56,
+     "sfx": "notify"
+    },
+    {
+     "kind": "pause",
+     "id": "s8-end",
+     "frames": 20
+    }
+   ]
+  }
+ ],
+ "narration": [
+  {
+   "id": "n-prev1",
+   "who": "narrator-en",
+   "en": "Last time: the clone's two-page shopping list blocked the screen.",
+   "zh": "上回说到：分身的两页采购单把屏幕挡住了。"
+  },
+  {
+   "id": "n-prev2",
+   "who": "narrator-en",
+   "en": "The real problem was one tiny icon. Xiaoshuai had muted the track by mistake.",
+   "zh": "真正的问题只是一个小图标——小帅误把音轨静音了。"
+  },
+  {
+   "id": "n-prev3",
+   "who": "narrator-en",
+   "en": "Then they opened a search engine, to find stories about the first day of school.",
+   "zh": "接着，他们打开搜索引擎，寻找关于入学第一天的故事。"
+  },
+  {
+   "id": "n-title",
+   "who": "narrator-en",
+   "en": "English: To Be Continued. Episode nine. Three hours of searching. Twenty group chats.",
+   "zh": "英语有续集，第九话。搜了三小时，收获二十个聊天群。"
+  },
+  {
+   "id": "n-recap",
+   "who": "lesson",
+   "en": "Now, let's learn the words!",
+   "zh": "现在，来学单词！"
+  },
+  {
+   "id": "n-review",
+   "who": "lesson",
+   "en": "And two words from Episode 8!",
+   "zh": "还有两个第八集学过的词！"
+  },
+  {
+   "id": "n-next1",
+   "who": "narrator-en",
+   "en": "Next time: trying to quit his phone, he almost deletes the whole show.",
+   "zh": "下集预告：为了戒手机，他差点删掉整个节目。"
+  },
+  {
+   "id": "n-next2",
+   "who": "narrator-en",
+   "en": "The new spoken draft is still in the prep project, and the notifications light up again. The clone wants to clear every distraction, but his hand reaches for their work files.",
+   "zh": "刚保存的口述草稿还在准备工程里，通知又亮了。分身想把干扰清空，手却伸向了他们工作的文件。"
+  },
+  {
+   "id": "n-outro",
+   "who": "word-us",
+   "en": "Follow the story. Learn the words.",
+   "zh": "跟着故事，记住单词。"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+# Video files
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.avi
+out/
+
+# Dependencies, tools and caches
+node_modules/
+.venv/
+.tools/
+.cache/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

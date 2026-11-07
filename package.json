@@ -1,0 +1,6 @@
+{
+  "name": "english-to-be-continued-video",
+  "private": true,
+  "description": "英语有续集 · 视频制作（每集一个目录，见 AGENTS.md）",
+  "workspaces": ["episodes/*/*"]
+}

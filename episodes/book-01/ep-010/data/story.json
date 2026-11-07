@@ -1,0 +1,1188 @@
+{
+ "episode": "EP.010",
+ "episodeNo": 10,
+ "title": "为了戒手机，他差点删掉整个节目。",
+ "titleLines": [
+  "Trying to Quit His Phone,",
+  "He Almost Deleted the Show."
+ ],
+ "season": "Out-Hustled by My Own Clone",
+ "source": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-010.html",
+ "pronounce": {
+  "Xiaoshuais": "Shiao Shwais",
+  "Xiaoshuai": "Shiao Shwai",
+  "Xiaoman": "Shiao Man"
+ },
+ "next": {
+  "no": "011",
+  "lines": [
+   "A Luxury Gear List.",
+   "The Wallet Says No."
+  ],
+  "desc": [
+   "How do we record in the library?",
+   "The clone asks to borrow a mic... then writes a wish list."
+  ]
+ },
+ "voices": {
+  "lin": {
+   "label": "Xiaoshuai",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+6%",
+   "pitch": "+2Hz"
+  },
+  "lin-en": {
+   "label": "Xiaoshuai",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "-4%",
+   "pitch": "+2Hz"
+  },
+  "lin-inner-en": {
+   "label": "Xiaoshuai (thinking)",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "-4%",
+   "pitch": "+2Hz",
+   "fx": "aecho=0.8:0.55:70|140:0.28|0.14"
+  },
+  "clone": {
+   "label": "Clone",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+12%",
+   "pitch": "+6Hz"
+  },
+  "clone-en": {
+   "label": "Clone",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+2%",
+   "pitch": "+6Hz"
+  },
+  "su": {
+   "label": "Su Xiaoman",
+   "voice": "zh-TW-HsiaoChenNeural",
+   "rate": "+4%",
+   "pitch": "+6Hz"
+  },
+  "su-en": {
+   "label": "Su Xiaoman",
+   "voice": "zh-TW-HsiaoChenNeural",
+   "rate": "+0%",
+   "pitch": "+6Hz"
+  },
+  "buzz": {
+   "label": "Buzz-cut classmate",
+   "voice": "zh-TW-YunJheNeural",
+   "rate": "+4%",
+   "pitch": "+4Hz"
+  },
+  "pony": {
+   "label": "Ponytail classmate",
+   "voice": "zh-CN-XiaoyiNeural",
+   "rate": "+4%",
+   "pitch": "+4Hz"
+  },
+  "mum": {
+   "label": "Mum",
+   "voice": "zh-CN-XiaoxiaoNeural",
+   "rate": "-2%",
+   "pitch": "-2Hz"
+  },
+  "teacher": {
+   "label": "Head Teacher",
+   "voice": "en-US-ChristopherNeural",
+   "rate": "+0%",
+   "pitch": "+0Hz"
+  },
+  "narrator-en": {
+   "label": "Narrator",
+   "voice": "en-US-AvaNeural",
+   "rate": "-4%",
+   "pitch": "+0Hz"
+  },
+  "lesson": {
+   "label": "English Corner",
+   "voice": "en-US-JennyNeural",
+   "rate": "-2%",
+   "pitch": "+0Hz"
+  },
+  "word-us": {
+   "label": "American",
+   "voice": "en-US-AriaNeural",
+   "rate": "-18%",
+   "pitch": "+0Hz"
+  },
+  "word-gb": {
+   "label": "British",
+   "voice": "en-GB-SoniaNeural",
+   "rate": "-18%",
+   "pitch": "+0Hz"
+  },
+  "adviser": {
+   "label": "Radio Adviser",
+   "voice": "en-GB-LibbyNeural",
+   "rate": "-2%",
+   "pitch": "+0Hz"
+  },
+  "clone-spk": {
+   "label": "Clone (through the speaker)",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "+12%",
+   "pitch": "+6Hz",
+   "fx": "highpass=f=320,lowpass=f=3800,aecho=0.8:0.35:35:0.25,volume=1.3"
+  },
+  "lin-spk": {
+   "label": "Xiaoshuai (playback)",
+   "voice": "zh-CN-YunxiNeural",
+   "rate": "-4%",
+   "pitch": "+2Hz",
+   "fx": "highpass=f=320,lowpass=f=3800,aecho=0.8:0.35:35:0.25,volume=1.3"
+  },
+  "mum-vo": {
+   "label": "Mum (from the kitchen)",
+   "voice": "zh-CN-XiaoxiaoNeural",
+   "rate": "-2%",
+   "pitch": "-2Hz",
+   "fx": "lowpass=f=3200,aecho=0.8:0.4:40:0.2"
+  },
+  "pony-phone": {
+   "label": "Ponytail classmate (on the phone)",
+   "voice": "zh-CN-XiaoyiNeural",
+   "rate": "+4%",
+   "pitch": "+4Hz",
+   "fx": "highpass=f=400,lowpass=f=3400,volume=1.4"
+  }
+ },
+ "storyboard": "/Users/huyin/Swingboat/english-to-be-continued/production/book-01/ep-010/storyboard.png",
+ "panelRects": [
+  [
+   3,
+   3,
+   502,
+   371
+  ],
+  [
+   521,
+   3,
+   500,
+   371
+  ],
+  [
+   3,
+   387,
+   502,
+   361
+  ],
+  [
+   521,
+   387,
+   500,
+   361
+  ],
+  [
+   3,
+   761,
+   502,
+   331
+  ],
+  [
+   521,
+   761,
+   500,
+   331
+  ],
+  [
+   3,
+   1105,
+   502,
+   428
+  ],
+  [
+   521,
+   1105,
+   500,
+   428
+  ]
+ ],
+ "panels": {
+  "p1": [
+   2008,
+   1484
+  ],
+  "p2": [
+   2000,
+   1484
+  ],
+  "p3": [
+   2008,
+   1444
+  ],
+  "p4": [
+   2000,
+   1444
+  ],
+  "p5": [
+   2008,
+   1324
+  ],
+  "p6": [
+   2000,
+   1324
+  ],
+  "p7": [
+   2008,
+   1712
+  ],
+  "p8": [
+   2000,
+   1712
+  ],
+  "prev1": [
+   1732,
+   1620
+  ],
+  "prev2": [
+   1736,
+   1620
+  ],
+  "prev3": [
+   1736,
+   2120
+  ]
+ },
+ "prevSource": [
+  "../ep-009/public/panels/p3.png",
+  "../ep-009/public/panels/p4.png",
+  "../ep-009/public/panels/p8.png"
+ ],
+ "prev": [
+  {
+   "id": "n-prev1",
+   "panel": "prev1",
+   "from": [
+    0.5,
+    0.45,
+    1.0
+   ],
+   "to": [
+    0.25,
+    0.38,
+    2.1
+   ]
+  },
+  {
+   "id": "n-prev2",
+   "panel": "prev2",
+   "from": [
+    0.5,
+    0.45,
+    1.0
+   ],
+   "to": [
+    0.5,
+    0.6,
+    1.9
+   ]
+  },
+  {
+   "id": "n-prev3",
+   "panel": "prev3",
+   "from": [
+    0.5,
+    0.4,
+    1.0
+   ],
+   "to": [
+    0.22,
+    0.8,
+    2.6
+   ]
+  }
+ ],
+ "reviewFrom": "8 & 9",
+ "words": [
+  {
+   "word": "addict",
+   "id": "addict",
+   "ipa": "/ˈædɪkt/",
+   "pos": "noun",
+   "meaning": "对某事着迷的人；有瘾的人",
+   "example": "I feel like a phone addict.",
+   "exampleZh": "我觉得自己像个手机迷。",
+   "scene": 1,
+   "panel": "p1",
+   "en": "An addict is someone who can't stop doing something.",
+   "enZh": "addict：停不下来、对某事上瘾的人。"
+  },
+  {
+   "word": "remove",
+   "id": "remove",
+   "ipa": "/rɪˈmuːv/",
+   "pos": "verb",
+   "meaning": "移走；去掉；清除",
+   "example": "I can remove these screenshots.",
+   "exampleZh": "我可以清掉这些截图。",
+   "scene": 2,
+   "panel": "p2",
+   "en": "To remove something is to take it away.",
+   "enZh": "remove：把东西拿走、去掉。"
+  },
+  {
+   "word": "entirely",
+   "id": "entirely",
+   "ipa": "/ɪnˈtaɪəli/",
+   "uk": "/ɪnˈtaɪəli/",
+   "us": "/ɪnˈtaɪərli/",
+   "pos": "adverb",
+   "meaning": "完全地；彻底地",
+   "example": "I want the screen entirely clear.",
+   "exampleZh": "我想让屏幕彻底清爽。",
+   "scene": 2,
+   "panel": "p2",
+   "en": "Entirely means completely, one hundred percent.",
+   "enZh": "entirely：完全地，百分之百。"
+  },
+  {
+   "word": "stressed",
+   "id": "stressed",
+   "ipa": "/strest/",
+   "pos": "adjective",
+   "meaning": "感到紧张的；有压力的",
+   "example": "Now I feel stressed.",
+   "exampleZh": "这下我紧张起来了。",
+   "scene": 3,
+   "panel": "p3",
+   "en": "If you feel stressed, you feel worried and tense.",
+   "enZh": "stressed：感到担心、紧绷。"
+  },
+  {
+   "word": "reduce",
+   "id": "reduce",
+   "ipa": "/rɪˈdjuːs/",
+   "uk": "/rɪˈdjuːs/",
+   "us": "/rɪˈduːs/",
+   "pos": "verb",
+   "meaning": "减少；降低",
+   "example": "Let's reduce the interruptions.",
+   "exampleZh": "我们来减少打断吧。",
+   "scene": 6,
+   "panel": "p6",
+   "en": "To reduce something is to make it smaller or less.",
+   "enZh": "reduce：让某物变少、变小。"
+  }
+ ],
+ "review": [
+  {
+   "word": "laptop",
+   "meaning": "笔记本电脑",
+   "example": "We open the folder on the laptop.",
+   "exampleZh": "我们在笔记本电脑上打开那个文件夹。"
+  },
+  {
+   "word": "social media",
+   "meaning": "社交媒体",
+   "example": "I turn off my social media alerts.",
+   "exampleZh": "我关闭自己的社交媒体提醒。"
+  }
+ ],
+ "scenes": [
+  {
+   "id": 1,
+   "panel": "p1",
+   "name": "手比脑子先伸过去",
+   "place": "Saturday · 2 p.m. · The living-room desk",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s1-ping",
+     "x": 0.2,
+     "y": 0.82,
+     "z": 2.6
+    },
+    {
+     "at": "s1l1",
+     "x": 0.25,
+     "y": 0.3,
+     "z": 2.0
+    },
+    {
+     "at": "s1l2",
+     "x": 0.82,
+     "y": 0.35,
+     "z": 2.1
+    },
+    {
+     "at": "s1l3",
+     "x": 0.55,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s1-open",
+     "frames": 14
+    },
+    {
+     "kind": "pause",
+     "id": "s1-ping",
+     "frames": 36,
+     "sfx": "notify"
+    },
+    {
+     "kind": "line",
+     "id": "s1l1",
+     "who": "lin-en",
+     "en": "I feel like a phone addict.",
+     "zh": "我觉得自己像个手机迷。",
+     "kw": "addict"
+    },
+    {
+     "kind": "line",
+     "id": "s1l2",
+     "who": "su",
+     "en": "I have to go home at two thirty. We already scrolled away three hours this morning. Let's make something real in this half hour.",
+     "zh": "我两点半得回家。上午已经把三小时滑没了，这半小时咱们做出点东西。"
+    },
+    {
+     "kind": "line",
+     "id": "s1l3",
+     "who": "clone",
+     "en": "Leave it to me. I'll make the desktop nice and clean.",
+     "zh": "交给我，我来让桌面清爽一点。",
+     "sfxEnd": "boing"
+    },
+    {
+     "kind": "pause",
+     "id": "s1-end",
+     "frames": 14
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "panel": "p2",
+   "name": "先说清楚，清理什么",
+   "place": "2:02 p.m. · Same desk",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s2l1",
+     "x": 0.55,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s2-shots",
+     "x": 0.55,
+     "y": 0.62,
+     "z": 1.8
+    },
+    {
+     "at": "s2l2",
+     "x": 0.2,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s2l3",
+     "x": 0.55,
+     "y": 0.3,
+     "z": 2.2
+    },
+    {
+     "at": "s2-folder",
+     "x": 0.86,
+     "y": 0.65,
+     "z": 2.4
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s2-open",
+     "frames": 12,
+     "sfx": "tap"
+    },
+    {
+     "kind": "line",
+     "id": "s2l1",
+     "who": "clone-en",
+     "en": "I can remove these screenshots.",
+     "zh": "我可以清掉这些截图。",
+     "kw": "remove"
+    },
+    {
+     "kind": "pause",
+     "id": "s2-shots",
+     "frames": 26,
+     "sfx": "tap"
+    },
+    {
+     "kind": "line",
+     "id": "s2l2",
+     "who": "lin",
+     "en": "Only our own temporary downloads. Check what's in them first. Don't touch the school's software.",
+     "zh": "只整理我们自己的临时下载，先看内容，学校的软件不要动。"
+    },
+    {
+     "kind": "line",
+     "id": "s2l3",
+     "who": "clone-en",
+     "en": "I want the screen entirely clear.",
+     "zh": "我想让屏幕彻底清爽。",
+     "kw": "entirely",
+     "sfxEnd": "sparkle"
+    },
+    {
+     "kind": "pause",
+     "id": "s2-folder",
+     "frames": 34
+    },
+    {
+     "kind": "pause",
+     "id": "s2-end",
+     "frames": 8
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "panel": "p3",
+   "name": "这一个可不算干扰",
+   "place": "2:04 p.m. · In front of the screen",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.55,
+     "z": 1.3
+    },
+    {
+     "at": "s3-select",
+     "x": 0.62,
+     "y": 0.55,
+     "z": 1.8
+    },
+    {
+     "at": "s3-box",
+     "x": 0.55,
+     "y": 0.75,
+     "z": 2.2
+    },
+    {
+     "at": "s3l1",
+     "x": 0.85,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s3l2",
+     "x": 0.18,
+     "y": 0.3,
+     "z": 2.3
+    },
+    {
+     "at": "s3l3",
+     "x": 0.2,
+     "y": 0.32,
+     "z": 2.0
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.5,
+     "z": 1.1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s3-select",
+     "frames": 40,
+     "sfx": "click"
+    },
+    {
+     "kind": "pause",
+     "id": "s3-box",
+     "frames": 30,
+     "sfx": "error"
+    },
+    {
+     "kind": "line",
+     "id": "s3l1",
+     "who": "su",
+     "en": "Wait, it's not just screenshots! That waveform icon... that's our project!",
+     "zh": "等一下，选中的不止截图。那个波形图标，是我们的工程！"
+    },
+    {
+     "kind": "line",
+     "id": "s3l2",
+     "who": "lin-en",
+     "en": "Now I feel stressed.",
+     "zh": "这下我紧张起来了。",
+     "kw": "stressed",
+     "sfx": "heartbeat"
+    },
+    {
+     "kind": "line",
+     "id": "s3l3",
+     "who": "lin",
+     "en": "The half minute I finally recorded in my own voice is in there, too!",
+     "zh": "我好不容易亲口说完的那半分钟，也在里面！"
+    },
+    {
+     "kind": "pause",
+     "id": "s3-end",
+     "frames": 14
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "panel": "p4",
+   "name": "取消键，救场了",
+   "place": "Right after · Before the delete is confirmed",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s4l1",
+     "x": 0.25,
+     "y": 0.35,
+     "z": 1.9
+    },
+    {
+     "at": "s4-cancel",
+     "x": 0.47,
+     "y": 0.8,
+     "z": 2.4
+    },
+    {
+     "at": "s4-cancel",
+     "x": 0.47,
+     "y": 0.8,
+     "z": 2.4,
+     "offset": 30
+    },
+    {
+     "at": "s4l2",
+     "x": 0.55,
+     "y": 0.3,
+     "z": 2.2
+    },
+    {
+     "at": "s4l3",
+     "x": 0.88,
+     "y": 0.35,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s4-open",
+     "frames": 6
+    },
+    {
+     "kind": "line",
+     "id": "s4l1",
+     "who": "lin-en",
+     "en": "Stop! Cancel that.",
+     "zh": "停！取消。"
+    },
+    {
+     "kind": "pause",
+     "id": "s4-cancel",
+     "frames": 44,
+     "sfx": "click"
+    },
+    {
+     "kind": "line",
+     "id": "s4l2",
+     "who": "clone",
+     "en": "I thought everything I selected was screenshots... I'm taking my hands away. You confirm it.",
+     "zh": "我以为全选的都是截图……我把手拿开，你来确认。"
+    },
+    {
+     "kind": "line",
+     "id": "s4l3",
+     "who": "su",
+     "en": "Good thing we didn't confirm. A clean desktop almost cleaned away our work, too.",
+     "zh": "还好没确认。清爽的桌面差点把我们的工作也清爽掉了。"
+    },
+    {
+     "kind": "pause",
+     "id": "s4-end",
+     "frames": 18
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "panel": "p5",
+   "name": "先确认，工作还在",
+   "place": "2:06 p.m. · The radio prep project",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s5l1",
+     "x": 0.5,
+     "y": 0.6,
+     "z": 1.6
+    },
+    {
+     "at": "s5-check",
+     "x": 0.55,
+     "y": 0.72,
+     "z": 2.0
+    },
+    {
+     "at": "s5l2",
+     "x": 0.85,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s5l3",
+     "x": 0.2,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s5l4",
+     "x": 0.55,
+     "y": 0.25,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s5-open",
+     "frames": 10
+    },
+    {
+     "kind": "line",
+     "id": "s5l1",
+     "who": "lin-inner-en",
+     "en": "We open the folder on the laptop.",
+     "zh": "我们在笔记本电脑上打开那个文件夹。",
+     "kw": "laptop",
+     "sfx": "click"
+    },
+    {
+     "kind": "pause",
+     "id": "s5-check",
+     "frames": 60
+    },
+    {
+     "kind": "line",
+     "id": "s5l2",
+     "who": "su-en",
+     "en": "That's our work.",
+     "zh": "这些是我们的工作成果。"
+    },
+    {
+     "kind": "line",
+     "id": "s5l3",
+     "who": "lin",
+     "en": "Both sound clips are still there, and so are the notes. My heartbeat can finally stop being the background drum.",
+     "zh": "两段声音都还在，笔记也在。我的心跳终于不用当背景鼓点了。"
+    },
+    {
+     "kind": "line",
+     "id": "s5l4",
+     "who": "clone",
+     "en": "I didn't look carefully. The computer isn't the distraction. Some things on it are.",
+     "zh": "是我没看清。电脑不是干扰，里面有些内容才是。"
+    },
+    {
+     "kind": "pause",
+     "id": "s5-end",
+     "frames": 18
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "panel": "p6",
+   "name": "关掉提醒，留下工具",
+   "place": "2:08 p.m. · Back to the outline",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s6l1",
+     "x": 0.15,
+     "y": 0.55,
+     "z": 2.4
+    },
+    {
+     "at": "s6l2",
+     "x": 0.2,
+     "y": 0.3,
+     "z": 2.0
+    },
+    {
+     "at": "s6l3",
+     "x": 0.55,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s6-tabs",
+     "x": 0.72,
+     "y": 0.65,
+     "z": 2.0
+    },
+    {
+     "at": "s6l4",
+     "x": 0.88,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s6-open",
+     "frames": 10
+    },
+    {
+     "kind": "line",
+     "id": "s6l1",
+     "who": "lin-inner-en",
+     "en": "I turn off my social media alerts.",
+     "zh": "我关闭自己的社交媒体提醒。",
+     "kw": "social media",
+     "sfxEnd": "powerdown"
+    },
+    {
+     "kind": "line",
+     "id": "s6l2",
+     "who": "lin-en",
+     "en": "Let's reduce the interruptions.",
+     "zh": "我们来减少打断吧。",
+     "kw": "reduce"
+    },
+    {
+     "kind": "line",
+     "id": "s6l3",
+     "who": "clone",
+     "en": "Close the extra tabs, keep the project. Check each one first.",
+     "zh": "关无关标签，留工程。每个先看一眼。"
+    },
+    {
+     "kind": "pause",
+     "id": "s6-tabs",
+     "frames": 36,
+     "sfx": "click"
+    },
+    {
+     "kind": "line",
+     "id": "s6l4",
+     "who": "su",
+     "en": "I won't reply to comments this time, either. The outline stays on the screen.",
+     "zh": "我这次也先不回评论了。提纲留在屏幕上。",
+     "sfx": "flip"
+    },
+    {
+     "kind": "pause",
+     "id": "s6-end",
+     "frames": 18
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "panel": "p7",
+   "name": "少一条支线，多一条主线",
+   "place": "2:10 p.m. · Twenty minutes left",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.86,
+     "y": 0.12,
+     "z": 2.4
+    },
+    {
+     "at": "s7l1",
+     "x": 0.75,
+     "y": 0.3,
+     "z": 1.9
+    },
+    {
+     "at": "s7-cards",
+     "x": 0.5,
+     "y": 0.7,
+     "z": 1.5
+    },
+    {
+     "at": "s7l2",
+     "x": 0.18,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s7l3",
+     "x": 0.45,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s7-open",
+     "frames": 20,
+     "sfx": "tick"
+    },
+    {
+     "kind": "line",
+     "id": "s7l1",
+     "who": "su",
+     "en": "It's ten past two. If we try all three, we won't even pin down the questions today. Let's focus on one person's story.",
+     "zh": "两点十分了。三条全做，今天连问题都收不拢。先围绕一个人的经历。"
+    },
+    {
+     "kind": "pause",
+     "id": "s7-cards",
+     "frames": 40,
+     "sfx": "paper"
+    },
+    {
+     "kind": "line",
+     "id": "s7l2",
+     "who": "lin",
+     "en": "Let's do her story about finding the library on her first day. She said she'd talk. On Monday, we'll set a time and check the route. My clip can wait.",
+     "zh": "就做她第一天找图书馆的故事。她答应愿意说，周一再约具体时间、核对路线。我的那段先存着。"
+    },
+    {
+     "kind": "line",
+     "id": "s7l3",
+     "who": "clone",
+     "en": "The map helps us ask the right questions. But it can't tell her story for her.",
+     "zh": "地图帮我们问清楚，不能拿地图替她讲经历。",
+     "sfxEnd": "stamp"
+    },
+    {
+     "kind": "pause",
+     "id": "s7-end",
+     "frames": 20
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "panel": "p8",
+   "name": "这回，先问再伸手",
+   "place": "2:25 p.m. · Saving three questions",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1
+    },
+    {
+     "at": "s8l1",
+     "x": 0.85,
+     "y": 0.35,
+     "z": 2.0
+    },
+    {
+     "at": "s8-q",
+     "x": 0.58,
+     "y": 0.6,
+     "z": 1.9
+    },
+    {
+     "at": "s8l2",
+     "x": 0.28,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s8l3",
+     "x": 0.55,
+     "y": 0.25,
+     "z": 2.2
+    },
+    {
+     "at": "s8l4",
+     "x": 0.28,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1.1
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s8-open",
+     "frames": 12,
+     "sfx": "scribble"
+    },
+    {
+     "kind": "line",
+     "id": "s8l1",
+     "who": "su",
+     "en": "Three questions saved. We'll confirm the place and the time with her on Monday.",
+     "zh": "三问存好了。现场位置和采访时间，周一再跟她确认。",
+     "sfx": "click"
+    },
+    {
+     "kind": "pause",
+     "id": "s8-q",
+     "frames": 50
+    },
+    {
+     "kind": "line",
+     "id": "s8l2",
+     "who": "lin",
+     "en": "The ten-minute trial is still next Wednesday after school. Today, let's just finish the outline.",
+     "zh": "十分钟试播还是下周三放学后，今天先把提纲做好。"
+    },
+    {
+     "kind": "line",
+     "id": "s8l3",
+     "who": "clone-en",
+     "en": "Can we borrow a portable microphone first?",
+     "zh": "我们能先借一支便携麦克风吗？"
+    },
+    {
+     "kind": "line",
+     "id": "s8l4",
+     "who": "lin",
+     "en": "You asked first this time. I'm half relieved. The other half waits until I see your equipment list.",
+     "zh": "你这次先问了。我放心了一半——另一半等我看完你的设备清单。"
+    },
+    {
+     "kind": "pause",
+     "id": "s8-end",
+     "frames": 34
+    }
+   ]
+  }
+ ],
+ "narration": [
+  {
+   "id": "n-prev1",
+   "who": "narrator-en",
+   "en": "Last time: a search for interview ideas turned into cat videos and comment fights.",
+   "zh": "上回说到：查采访思路，查着查着变成了看猫视频、回评论。"
+  },
+  {
+   "id": "n-prev2",
+   "who": "narrator-en",
+   "en": "Three hours later: twenty saved group invites, and almost no notes.",
+   "zh": "三小时后：收藏了二十个群入口，笔记几乎是空的。"
+  },
+  {
+   "id": "n-prev3",
+   "who": "narrator-en",
+   "en": "They finally saved a real story. Then the phone lit up again.",
+   "zh": "他们终于存下一段真实的故事。接着，手机又亮了。"
+  },
+  {
+   "id": "n-title",
+   "who": "narrator-en",
+   "en": "English: To Be Continued. Episode ten. Trying to quit his phone, he almost deleted the whole show.",
+   "zh": "英语有续集，第十话。为了戒手机，他差点删掉整个节目。"
+  },
+  {
+   "id": "n-recap",
+   "who": "lesson",
+   "en": "Now, let's learn the words!",
+   "zh": "现在，来学单词！"
+  },
+  {
+   "id": "n-review",
+   "who": "lesson",
+   "en": "And two words from Episodes 8 and 9!",
+   "zh": "还有两个第八、九集学过的词！"
+  },
+  {
+   "id": "n-next1",
+   "who": "narrator-en",
+   "en": "Next time: a luxury equipment list, and a wallet that says no.",
+   "zh": "下集预告：设备清单很豪华，钱包不同意。"
+  },
+  {
+   "id": "n-next2",
+   "who": "narrator-en",
+   "en": "The outline is ready. But how do we record an interview in the library? The clone asks to borrow a microphone first, then starts a fancy wish list.",
+   "zh": "提纲收拢了，图书馆现场采访怎么收音？分身先问能不能借麦克风，转头又列起一张豪华设备清单。"
+  },
+  {
+   "id": "n-outro",
+   "who": "word-us",
+   "en": "Follow the story. Learn the words.",
+   "zh": "跟着故事，记住单词。"
+  }
+ ]
+}

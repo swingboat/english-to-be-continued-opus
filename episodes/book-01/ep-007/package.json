@@ -1,0 +1,22 @@
+{
+  "name": "book-01-ep-007",
+  "private": true,
+  "version": "0.1.0",
+  "description": "英语有续集 第 007 集视频：负责人的名字，不能写两个小帅。",
+  "scripts": {
+    "audio": "../../../.venv/bin/python scripts/tts.py && ../../../.venv/bin/python scripts/sfx.py",
+    "studio": "remotion studio",
+    "typecheck": "tsc -p .",
+    "render": "remotion render Ep007 .cache/raw.mp4 --codec h264 --crf 18 --audio-bitrate 192k && ffmpeg -v error -y -i .cache/raw.mp4 -c:v copy -af loudnorm=I=-16:TP=-1.5:LRA=11 -ar 48000 -c:a aac -b:a 192k -movflags +faststart out/ep-007.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.539",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.539"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "typescript": "7.0.2"
+  }
+}

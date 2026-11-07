@@ -1,0 +1,1129 @@
+{
+  "episode": "EP.002",
+  "episodeNo": 2,
+  "title": "三个我才够用？先删掉一个承诺。",
+  "titleLines": [
+    "Do I Need Three of Me?",
+    "First, Drop One Promise."
+  ],
+  "season": "Out-Hustled by My Own Clone",
+  "source": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-002.html",
+  "pronounce": {
+    "Xiaoshuais": "Shiao Shwais",
+    "Xiaoshuai": "Shiao Shwai",
+    "Xiaoman": "Shiao Man"
+  },
+  "next": {
+    "no": "003",
+    "lines": [
+      "My Deskmate Figured Me Out",
+      "with One Honest Sentence."
+    ],
+    "desc": [
+      "The schedule is clear now.",
+      "Where two Xiaoshuais came from is not."
+    ]
+  },
+  "voices": {
+    "lin": {
+      "label": "Xiaoshuai",
+      "ref": "小帅"
+    },
+    "lin-narr": {
+      "label": "Xiaoshuai (narrating)",
+      "ref": "小帅"
+    },
+    "lin-inner": {
+      "label": "Xiaoshuai (thinking)",
+      "ref": "小帅",
+      "fx": "aecho=0.8:0.7:70|140:0.28|0.14"
+    },
+    "clone": {
+      "label": "Clone",
+      "ref": "小帅的分身"
+    },
+    "both": {
+      "label": "Xiaoshuai + Clone",
+      "mix": [
+        "lin",
+        "clone"
+      ]
+    },
+    "teacher": {
+      "label": "Head Teacher",
+      "ref": "班主任"
+    },
+    "su": {
+      "label": "Su Xiaoman",
+      "ref": "苏小满"
+    },
+    "word-us": {
+      "label": "美音",
+      "voice": "en-US-AriaNeural",
+      "rate": "-18%",
+      "pitch": "+0Hz"
+    },
+    "word-gb": {
+      "label": "英音",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-18%",
+      "pitch": "+0Hz"
+    },
+    "lesson": {
+      "label": "课堂",
+      "voice": "en-US-JennyNeural",
+      "rate": "-2%",
+      "pitch": "+0Hz"
+    }
+  },
+  "storyboard": "/Users/huyin/Swingboat/english-to-be-continued/production/book-01/ep-002/storyboard.png",
+  "panelRects": [
+    [
+      3,
+      3,
+      436,
+      430
+    ],
+    [
+      449,
+      3,
+      435,
+      430
+    ],
+    [
+      3,
+      441,
+      436,
+      384
+    ],
+    [
+      449,
+      441,
+      435,
+      384
+    ],
+    [
+      3,
+      834,
+      436,
+      382
+    ],
+    [
+      449,
+      834,
+      435,
+      382
+    ],
+    [
+      3,
+      1225,
+      436,
+      546
+    ],
+    [
+      449,
+      1225,
+      435,
+      546
+    ]
+  ],
+  "panels": {
+    "p1": [
+      1744,
+      1720
+    ],
+    "p2": [
+      1740,
+      1720
+    ],
+    "p3": [
+      1744,
+      1536
+    ],
+    "p4": [
+      1740,
+      1536
+    ],
+    "p5": [
+      1744,
+      1528
+    ],
+    "p6": [
+      1740,
+      1528
+    ],
+    "p7": [
+      1744,
+      2184
+    ],
+    "p8": [
+      1740,
+      2184
+    ],
+    "prev1": [
+      1740,
+      1576
+    ],
+    "prev2": [
+      1740,
+      1548
+    ],
+    "prev3": [
+      1740,
+      2112
+    ]
+  },
+  "prev": [
+    {
+      "id": "n-prev1",
+      "panel": "prev1",
+      "from": [
+        0.44,
+        0.22,
+        2.3
+      ],
+      "to": [
+        0.46,
+        0.3,
+        1.6
+      ]
+    },
+    {
+      "id": "n-prev2",
+      "panel": "prev2",
+      "from": [
+        0.72,
+        0.6,
+        1.9
+      ],
+      "to": [
+        0.35,
+        0.35,
+        1.7
+      ]
+    },
+    {
+      "id": "n-prev3",
+      "panel": "prev3",
+      "from": [
+        0.5,
+        0.5,
+        1.0
+      ],
+      "to": [
+        0.3,
+        0.3,
+        1.8
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "stressful",
+      "ipa": "/ˈstresfl/",
+      "partZh": "形容词",
+      "meaning": "充满压力的；令人紧张的",
+      "example": "This is stressful!",
+      "exampleZh": "这也太让人紧张了！",
+      "scene": 2,
+      "panel": "p2",
+      "pos": "adjective",
+      "en": "Stressful means making you feel worried and nervous.",
+      "enZh": "stressful：让人担心、紧张的。"
+    },
+    {
+      "word": "arise",
+      "ipa": "/əˈraɪz/",
+      "partZh": "不及物动词",
+      "meaning": "（问题或困难）出现；发生",
+      "example": "Problems arise when you say yes to everything.",
+      "exampleZh": "什么都答应，麻烦就来了。",
+      "scene": 3,
+      "panel": "p3",
+      "pos": "verb",
+      "en": "When a problem arises, it starts to happen.",
+      "enZh": "arise：（问题）出现、发生。"
+    },
+    {
+      "word": "challenging",
+      "ipa": "/ˈtʃælɪndʒɪŋ/",
+      "partZh": "形容词",
+      "meaning": "富有挑战性的；有难度的",
+      "example": "It's challenging, but possible.",
+      "exampleZh": "很有挑战性，但能做到。",
+      "scene": 4,
+      "panel": "p4",
+      "pos": "adjective",
+      "en": "Challenging means difficult, but possible with effort.",
+      "enZh": "challenging：有难度，但努力就能做到。"
+    },
+    {
+      "word": "expectation",
+      "ipa": "/ˌekspekˈteɪʃn/",
+      "partZh": "名词",
+      "meaning": "期待；预料；预期",
+      "example": "We have different expectations.",
+      "exampleZh": "我们俩的期待不一样。",
+      "scene": 4,
+      "panel": "p4",
+      "pos": "noun",
+      "en": "An expectation is what you think will happen.",
+      "enZh": "expectation：你认为会发生的事，即期待。"
+    },
+    {
+      "word": "pressure",
+      "ipa": "/ˈpreʃə(r)/",
+      "partZh": "名词",
+      "meaning": "压力",
+      "example": "I'm under pressure.",
+      "exampleZh": "我现在压力好大。",
+      "scene": 5,
+      "panel": "p5",
+      "pos": "noun",
+      "en": "Pressure is the feeling of having too much to do.",
+      "enZh": "pressure：事情太多时的压力感。"
+    }
+  ],
+  "review": [
+    {
+      "word": "schedule",
+      "meaning": "日程表；计划表",
+      "example": "Can we change the schedule?",
+      "exampleZh": "能调整一下日程吗？"
+    },
+    {
+      "word": "challenge",
+      "meaning": "挑战",
+      "example": "Making a choice is a challenge, too.",
+      "exampleZh": "作出选择也是个挑战。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": "p1",
+      "name": "先交表，再解释",
+      "place": "Hallway · Right after Episode 1",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.3,
+          "z": 2.4
+        },
+        {
+          "at": "s1-open",
+          "x": 0.5,
+          "y": 0.3,
+          "z": 2.3,
+          "offset": 36
+        },
+        {
+          "at": "s1n1",
+          "x": 0.2,
+          "y": 0.38,
+          "z": 2.3
+        },
+        {
+          "at": "s1n2",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s1n3",
+          "x": 0.22,
+          "y": 0.4,
+          "z": 2.0
+        },
+        {
+          "at": "s1n4",
+          "x": 0.5,
+          "y": 0.28,
+          "z": 2.6
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.05
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s1-open",
+          "frames": 40,
+          "sfx": "steps"
+        },
+        {
+          "kind": "line",
+          "id": "s1n1",
+          "who": "lin-narr",
+          "en": "Xiaoman saw both of us.",
+          "zh": "苏小满看见了我们两个。",
+          "sfx": "dun"
+        },
+        {
+          "kind": "line",
+          "id": "s1n2",
+          "who": "lin-narr",
+          "en": "Then the teacher called for the activity form.",
+          "zh": "老师却在这时催交活动确认表。"
+        },
+        {
+          "kind": "line",
+          "id": "s1n3",
+          "who": "lin-narr",
+          "en": "She was collecting activity forms, so she followed us.",
+          "zh": "她负责收活动确认表，就跟着我们。"
+        },
+        {
+          "kind": "line",
+          "id": "s1n4",
+          "who": "lin-narr",
+          "en": "No escape.",
+          "zh": "看来是躲不掉了。",
+          "sfx": "stamp"
+        },
+        {
+          "kind": "pause",
+          "id": "s1-end",
+          "frames": 24
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": "p2",
+      "name": "两个我，三件事",
+      "place": "Same hallway",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.45,
+          "y": 0.5,
+          "z": 1.9
+        },
+        {
+          "at": "s2n2",
+          "x": 0.45,
+          "y": 0.55,
+          "z": 2.2
+        },
+        {
+          "at": "s2l1",
+          "x": 0.3,
+          "y": 0.28,
+          "z": 2.6
+        },
+        {
+          "at": "s2l2",
+          "x": 0.9,
+          "y": 0.4,
+          "z": 2.3
+        },
+        {
+          "at": "s2n3",
+          "x": 0.68,
+          "y": 0.4,
+          "z": 2.0
+        },
+        {
+          "at": "s2l5",
+          "x": 0.62,
+          "y": 0.3,
+          "z": 2.3
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s2-scan",
+          "frames": 16,
+          "sfx": "paper"
+        },
+        {
+          "kind": "line",
+          "id": "s2n1",
+          "who": "lin-narr",
+          "en": "Three invitations.",
+          "zh": "三份邀请。"
+        },
+        {
+          "kind": "line",
+          "id": "s2n2",
+          "who": "lin-narr",
+          "en": "One time: Friday at two.",
+          "zh": "同一个时间：周五两点。"
+        },
+        {
+          "kind": "line",
+          "id": "s2l1",
+          "who": "lin",
+          "en": "This is stressful!",
+          "zh": "这也太让人紧张了！",
+          "kw": "stressful",
+          "sfx": "bonk"
+        },
+        {
+          "kind": "line",
+          "id": "s2l2",
+          "who": "su",
+          "en": "Let's check the schedule.",
+          "zh": "先看看日程表。",
+          "kw": "schedule"
+        },
+        {
+          "kind": "line",
+          "id": "s2n3",
+          "who": "lin-narr",
+          "en": "My clone counted:",
+          "zh": "分身算了起来："
+        },
+        {
+          "kind": "line",
+          "id": "s2l3",
+          "who": "clone",
+          "en": "Two of me.",
+          "zh": "两个我。",
+          "sfx": "pop"
+        },
+        {
+          "kind": "line",
+          "id": "s2l4",
+          "who": "clone",
+          "en": "Three jobs.",
+          "zh": "三件事。",
+          "sfx": "pop"
+        },
+        {
+          "kind": "line",
+          "id": "s2l5",
+          "who": "clone",
+          "en": "We need one more.",
+          "zh": "还缺一个我。",
+          "sfx": "ding"
+        },
+        {
+          "kind": "pause",
+          "id": "s2-math",
+          "frames": 30
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": "p3",
+      "name": "手机不是打印机",
+      "place": "Hallway outside the classroom",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.62,
+          "y": 0.5,
+          "z": 2.0
+        },
+        {
+          "at": "s3l1",
+          "x": 0.22,
+          "y": 0.4,
+          "z": 2.1
+        },
+        {
+          "at": "s3l3",
+          "x": 0.88,
+          "y": 0.38,
+          "z": 2.3
+        },
+        {
+          "at": "s3-end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s3-draw",
+          "frames": 64,
+          "sfx": "scribble"
+        },
+        {
+          "kind": "line",
+          "id": "s3l1",
+          "who": "lin",
+          "en": "The button only works once.",
+          "zh": "这个按钮只能用一次。",
+          "sfx": "tap"
+        },
+        {
+          "kind": "line",
+          "id": "s3l2",
+          "who": "lin",
+          "en": "This phone isn't a printer.",
+          "zh": "手机又不是打印机。"
+        },
+        {
+          "kind": "line",
+          "id": "s3l3",
+          "who": "su",
+          "en": "Problems arise when you say yes to everything.",
+          "zh": "什么都答应，麻烦就来了。",
+          "kw": "arise"
+        },
+        {
+          "kind": "pause",
+          "id": "s3-end",
+          "frames": 50,
+          "sfx": "whoosh"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": "p4",
+      "name": "先换个排法",
+      "place": "Outside the classroom · Event room in view",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s4l1",
+          "x": 0.36,
+          "y": 0.3,
+          "z": 2.2
+        },
+        {
+          "at": "s4l2",
+          "x": 0.15,
+          "y": 0.3,
+          "z": 2.3
+        },
+        {
+          "at": "s4n1",
+          "x": 0.75,
+          "y": 0.5,
+          "z": 1.7
+        },
+        {
+          "at": "s4n2",
+          "x": 0.6,
+          "y": 0.45,
+          "z": 1.8
+        },
+        {
+          "at": "s4-end",
+          "x": 0.18,
+          "y": 0.32,
+          "z": 2.0
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s4-open",
+          "frames": 14,
+          "sfx": "paper"
+        },
+        {
+          "kind": "line",
+          "id": "s4l1",
+          "who": "clone",
+          "en": "It's challenging, but possible.",
+          "zh": "很有挑战性，但能做到。",
+          "kw": "challenging",
+          "sfxEnd": "twinkle"
+        },
+        {
+          "kind": "line",
+          "id": "s4l2",
+          "who": "lin",
+          "en": "We have different expectations.",
+          "zh": "我们俩的期待不一样。",
+          "kw": "expectation"
+        },
+        {
+          "kind": "pause",
+          "id": "s4-vs",
+          "frames": 78,
+          "sfx": "stamp"
+        },
+        {
+          "kind": "line",
+          "id": "s4n1",
+          "who": "lin-narr",
+          "en": "Moving desks was preparation.",
+          "zh": "搬桌子是布场工作。"
+        },
+        {
+          "kind": "line",
+          "id": "s4n2",
+          "who": "lin-narr",
+          "en": "It could happen before the talk.",
+          "zh": "可以安排在分享开始之前。"
+        },
+        {
+          "kind": "pause",
+          "id": "s4-end",
+          "frames": 40,
+          "sfx": "ding"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": "p5",
+      "name": "这次自己开口",
+      "place": "Head teacher's office · Xiaoshuai alone",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.5,
+          "z": 1.0
+        },
+        {
+          "at": "s5n1",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.15
+        },
+        {
+          "at": "s5l1",
+          "x": 0.22,
+          "y": 0.32,
+          "z": 2.6
+        },
+        {
+          "at": "s5l2",
+          "x": 0.3,
+          "y": 0.42,
+          "z": 1.9
+        },
+        {
+          "at": "s5-end",
+          "x": 0.68,
+          "y": 0.32,
+          "z": 2.2
+        },
+        {
+          "at": "end",
+          "x": 0.68,
+          "y": 0.32,
+          "z": 2.3
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s5-knock",
+          "frames": 40,
+          "sfx": "knock"
+        },
+        {
+          "kind": "line",
+          "id": "s5n1",
+          "who": "lin-narr",
+          "en": "I left my clone outside and entered the office myself.",
+          "zh": "我把分身留在门外，独自走进办公室。"
+        },
+        {
+          "kind": "line",
+          "id": "s5l1",
+          "who": "lin-inner",
+          "en": "I'm under pressure.",
+          "zh": "我现在压力好大。",
+          "kw": "pressure",
+          "sfx": "heartbeat"
+        },
+        {
+          "kind": "pause",
+          "id": "s5-breath",
+          "frames": 24
+        },
+        {
+          "kind": "line",
+          "id": "s5l2",
+          "who": "lin",
+          "en": "Can we change the schedule?",
+          "zh": "能调整一下日程吗？",
+          "kw": "schedule"
+        },
+        {
+          "kind": "pause",
+          "id": "s5-end",
+          "frames": 40
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": "p6",
+      "name": "机会不能全留着",
+      "place": "Same office",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.6,
+          "y": 0.3,
+          "z": 2.0
+        },
+        {
+          "at": "s6n2",
+          "x": 0.85,
+          "y": 0.3,
+          "z": 1.9
+        },
+        {
+          "at": "s6n3",
+          "x": 0.8,
+          "y": 0.75,
+          "z": 1.8
+        },
+        {
+          "at": "s6n4",
+          "x": 0.16,
+          "y": 0.32,
+          "z": 2.5
+        },
+        {
+          "at": "s6n5",
+          "x": 0.55,
+          "y": 0.45,
+          "z": 1.2
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.5,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "line",
+          "id": "s6n1",
+          "who": "lin-narr",
+          "en": "The teacher moved the desk setup to one twenty.",
+          "zh": "老师把搬桌安排到一点二十。"
+        },
+        {
+          "kind": "line",
+          "id": "s6n2",
+          "who": "lin-narr",
+          "en": "The talk stayed at two.",
+          "zh": "分享仍在两点。"
+        },
+        {
+          "kind": "line",
+          "id": "s6n3",
+          "who": "lin-narr",
+          "en": "Basketball still clashed.",
+          "zh": "篮球初选还是撞期了。",
+          "sfx": "bonk"
+        },
+        {
+          "kind": "line",
+          "id": "s6n4",
+          "who": "lin-narr",
+          "en": "I couldn't do both.",
+          "zh": "我没法两边都参加。"
+        },
+        {
+          "kind": "pause",
+          "id": "s6-think",
+          "frames": 24
+        },
+        {
+          "kind": "line",
+          "id": "s6n5",
+          "who": "lin-narr",
+          "en": "The notice offered open tryouts at the end of the month.",
+          "zh": "不过，公告上原本就有月底开放补选的安排。",
+          "sfx": "pop"
+        },
+        {
+          "kind": "pause",
+          "id": "s6-end",
+          "frames": 40
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "panel": "p7",
+      "name": "划掉一项，事情清楚了",
+      "place": "At the teacher's desk",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s7n1",
+          "x": 0.4,
+          "y": 0.5,
+          "z": 1.5
+        },
+        {
+          "at": "s7n2",
+          "x": 0.45,
+          "y": 0.55,
+          "z": 1.6
+        },
+        {
+          "at": "s7l1",
+          "x": 0.75,
+          "y": 0.32,
+          "z": 1.8
+        },
+        {
+          "at": "end",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "line",
+          "id": "s7n1",
+          "who": "lin-narr",
+          "en": "I chose to move desks earlier, give the talk, and skip this week's basketball tryout.",
+          "zh": "我选择提前搬桌、参加分享，这次不报篮球初选。"
+        },
+        {
+          "kind": "pause",
+          "id": "s7-strike",
+          "frames": 34,
+          "sfx": "scribble"
+        },
+        {
+          "kind": "line",
+          "id": "s7n2",
+          "who": "lin-narr",
+          "en": "I could apply for the later tryout separately.",
+          "zh": "之后，我可以另行申请月底补选。"
+        },
+        {
+          "kind": "line",
+          "id": "s7l1",
+          "who": "teacher",
+          "en": "Making a choice is a challenge, too.",
+          "zh": "作出选择也是个挑战。",
+          "kw": "challenge",
+          "sfxEnd": "twinkle"
+        },
+        {
+          "kind": "pause",
+          "id": "s7-end",
+          "frames": 20,
+          "sfx": "paper"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "panel": "p8",
+      "name": "两个人，一个答案",
+      "place": "Outside the closed office door",
+      "cam": [
+        {
+          "at": "start",
+          "x": 0.5,
+          "y": 0.45,
+          "z": 1.0
+        },
+        {
+          "at": "s8l1",
+          "x": 0.52,
+          "y": 0.24,
+          "z": 2.0
+        },
+        {
+          "at": "s8l2",
+          "x": 0.25,
+          "y": 0.24,
+          "z": 2.2
+        },
+        {
+          "at": "s8l4",
+          "x": 0.83,
+          "y": 0.27,
+          "z": 2.2
+        },
+        {
+          "at": "s8n1",
+          "x": 0.5,
+          "y": 0.35,
+          "z": 1.0
+        },
+        {
+          "at": "s8l5",
+          "x": 0.5,
+          "y": 0.35,
+          "z": 1.05
+        },
+        {
+          "at": "s8-awk",
+          "x": 0.83,
+          "y": 0.27,
+          "z": 1.9,
+          "offset": 20
+        },
+        {
+          "at": "end",
+          "x": 0.83,
+          "y": 0.27,
+          "z": 2.0
+        }
+      ],
+      "beats": [
+        {
+          "kind": "pause",
+          "id": "s8-open",
+          "frames": 14,
+          "sfx": "steps"
+        },
+        {
+          "kind": "line",
+          "id": "s8l1",
+          "who": "clone",
+          "en": "You didn't add another person?",
+          "zh": "你没再加一个人？"
+        },
+        {
+          "kind": "line",
+          "id": "s8l2",
+          "who": "lin",
+          "en": "No.",
+          "zh": "没有。"
+        },
+        {
+          "kind": "line",
+          "id": "s8l3",
+          "who": "lin",
+          "en": "I stopped saying yes to everything.",
+          "zh": "我不再什么都答应了。",
+          "sfxEnd": "twinkle"
+        },
+        {
+          "kind": "line",
+          "id": "s8l4",
+          "who": "su",
+          "en": "Now explain why there are two of you.",
+          "zh": "现在，解释为什么有两个你。",
+          "sfx": "twinkle"
+        },
+        {
+          "kind": "line",
+          "id": "s8n1",
+          "who": "lin-narr",
+          "en": "We pointed at each other.",
+          "zh": "我们同时指向对方。",
+          "sfx": "whoosh"
+        },
+        {
+          "kind": "line",
+          "id": "s8l5",
+          "who": "both",
+          "en": "He will.",
+          "zh": "他说。"
+        },
+        {
+          "kind": "pause",
+          "id": "s8-awk",
+          "frames": 70
+        },
+        {
+          "kind": "pause",
+          "id": "s8-end",
+          "frames": 16
+        }
+      ]
+    }
+  ],
+  "narration": [
+    {
+      "id": "n-prev1",
+      "who": "lin-narr",
+      "en": "Last time: I only wanted my clone to say hello for me.",
+      "zh": "上回说到：我只想让分身替我说句哈喽，"
+    },
+    {
+      "id": "n-prev2",
+      "who": "lin-narr",
+      "en": "Instead, he became class monitor for a week, and brought back three invitations, all at two on Friday.",
+      "zh": "结果他当上了试任班长，还领回三项全在周五两点的邀请。"
+    },
+    {
+      "id": "n-prev3",
+      "who": "lin-narr",
+      "en": "We were on our way to see the teacher...",
+      "zh": "我们正要去找老师——"
+    },
+    {
+      "id": "n-title",
+      "who": "lin-narr",
+      "en": "English: To Be Continued. Episode two. Do I need three of me? First, drop one promise.",
+      "zh": "英语有续集，第二话。三个我才够用？先删掉一个承诺。"
+    },
+    {
+      "id": "n-recap",
+      "who": "lesson",
+      "en": "Now, let's learn the words!",
+      "zh": "现在，来学单词！"
+    },
+    {
+      "id": "n-review",
+      "who": "lesson",
+      "en": "Two words from last time!",
+      "zh": "还有两个上集的单词！"
+    },
+    {
+      "id": "n-next1",
+      "who": "lin-narr",
+      "en": "Next time: My deskmate figured me out, with one honest sentence.",
+      "zh": "下集预告：同桌认出我，靠的是一句大实话。"
+    },
+    {
+      "id": "n-next2",
+      "who": "lin-narr",
+      "en": "The schedule is clear now, but where the two of us came from is not. Xiaoman is waiting for an answer.",
+      "zh": "日程已经说清，我们两个的来历还没说清。小满等着我们给出答案。"
+    },
+    {
+      "id": "n-outro",
+      "who": "word-us",
+      "en": "Follow the story. Learn the words.",
+      "zh": "跟着故事，记住单词。"
+    }
+  ],
+  "voiceRefs": "/Users/huyin/Swingboat/english-to-be-continued/voices/book-01/characters"
+}

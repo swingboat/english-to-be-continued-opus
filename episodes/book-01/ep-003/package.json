@@ -1,0 +1,22 @@
+{
+  "name": "book-01-ep-003",
+  "private": true,
+  "version": "0.1.0",
+  "description": "英语有续集 第 003 集视频：同桌认出我，靠的是一句大实话。",
+  "scripts": {
+    "audio": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/.venv/bin/python scripts/clone.py && ../../../.venv/bin/python scripts/check.py && ../../../.venv/bin/python scripts/tts.py && ../../../.venv/bin/python scripts/sfx.py",
+    "studio": "remotion studio",
+    "typecheck": "tsc -p .",
+    "render": "remotion render Ep003 .cache/raw.mp4 --codec h264 --crf 18 --audio-bitrate 192k && ffmpeg -v error -y -i .cache/raw.mp4 -c:v copy -af loudnorm=I=-16:TP=-1.5:LRA=11 -ar 48000 -c:a aac -b:a 192k -movflags +faststart out/ep-003.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.539",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.539"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "typescript": "7.0.2"
+  }
+}

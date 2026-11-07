@@ -1,0 +1,1346 @@
+{
+ "episode": "EP.006",
+ "episodeNo": 6,
+ "title": "她想要的不是保密费，是十分钟。",
+ "titleLines": [
+  "Not Hush Money.",
+  "She Wants Ten Minutes."
+ ],
+ "season": "Out-Hustled by My Own Clone",
+ "source": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-006.html",
+ "pronounce": {
+  "Xiaoshuais": "Shiao Shwais",
+  "Xiaoshuai": "Shiao Shwai",
+  "Xiaoman": "Shiao Man"
+ },
+ "next": {
+  "no": "007",
+  "lines": [
+   "One Job, One Name.",
+   "Not Two Xiaoshuais."
+  ],
+  "desc": [
+   "We hand in the roles and test the equipment.",
+   "But the equipment... makes no sound."
+  ]
+ },
+ "voices": {
+  "lin": {
+   "label": "Xiaoshuai",
+   "ref": "小帅"
+  },
+  "lin-narr": {
+   "label": "Xiaoshuai (narrating)",
+   "ref": "小帅"
+  },
+  "lin-inner": {
+   "label": "Xiaoshuai (thinking)",
+   "ref": "小帅",
+   "fx": "aecho=0.8:0.7:70|140:0.28|0.14"
+  },
+  "clone": {
+   "label": "Clone",
+   "ref": "小帅的分身"
+  },
+  "su": {
+   "label": "Su Xiaoman",
+   "ref": "苏小满"
+  },
+  "teacher": {
+   "label": "Head Teacher",
+   "ref": "班主任"
+  },
+  "word-us": {
+   "label": "American",
+   "voice": "en-US-AriaNeural",
+   "rate": "-18%",
+   "pitch": "+0Hz"
+  },
+  "word-gb": {
+   "label": "British",
+   "voice": "en-GB-SoniaNeural",
+   "rate": "-18%",
+   "pitch": "+0Hz"
+  },
+  "lesson": {
+   "label": "English Corner",
+   "voice": "en-US-JennyNeural",
+   "rate": "+6%",
+   "pitch": "+0Hz"
+  },
+  "word-ex": {
+   "label": "American",
+   "voice": "en-US-AriaNeural",
+   "rate": "-8%",
+   "pitch": "+0Hz"
+  }
+ },
+ "storyboard": "/Users/huyin/Swingboat/english-to-be-continued/production/book-01/ep-006/storyboard.png",
+ "panelRects": [
+  [
+   3,
+   3,
+   434,
+   391
+  ],
+  [
+   450,
+   3,
+   434,
+   391
+  ],
+  [
+   3,
+   407,
+   434,
+   403
+  ],
+  [
+   450,
+   407,
+   434,
+   403
+  ],
+  [
+   3,
+   823,
+   434,
+   393
+  ],
+  [
+   450,
+   823,
+   434,
+   393
+  ],
+  [
+   3,
+   1228,
+   434,
+   543
+  ],
+  [
+   450,
+   1228,
+   434,
+   543
+  ]
+ ],
+ "panels": {
+  "p1": [
+   1736,
+   1564
+  ],
+  "p2": [
+   1736,
+   1564
+  ],
+  "p3": [
+   1736,
+   1612
+  ],
+  "p4": [
+   1736,
+   1612
+  ],
+  "p5": [
+   1736,
+   1572
+  ],
+  "p6": [
+   1736,
+   1572
+  ],
+  "p7": [
+   1736,
+   2172
+  ],
+  "p8": [
+   1736,
+   2172
+  ],
+  "prev1": [
+   1736,
+   1808
+  ],
+  "prev2": [
+   1736,
+   1476
+  ],
+  "prev3": [
+   1736,
+   1996
+  ]
+ },
+ "prevSource": [
+  "../ep-005/public/panels/p4.png",
+  "../ep-005/public/panels/p6.png",
+  "../ep-005/public/panels/p8.png"
+ ],
+ "prev": [
+  {
+   "id": "n-prev1",
+   "panel": "prev1",
+   "from": [
+    0.5,
+    0.45,
+    1.0
+   ],
+   "to": [
+    0.3,
+    0.35,
+    2.0
+   ]
+  },
+  {
+   "id": "n-prev2",
+   "panel": "prev2",
+   "from": [
+    0.5,
+    0.45,
+    1.0
+   ],
+   "to": [
+    0.25,
+    0.3,
+    2.1
+   ]
+  },
+  {
+   "id": "n-prev3",
+   "panel": "prev3",
+   "from": [
+    0.5,
+    0.45,
+    1.0
+   ],
+   "to": [
+    0.55,
+    0.45,
+    1.9
+   ]
+  }
+ ],
+ "words": [
+  {
+   "word": "aim",
+   "id": "aim",
+   "ipa": "/eɪm/",
+   "pos": "verb",
+   "meaning": "力求达到；旨在",
+   "example": "I aim to give quiet students a voice.",
+   "exampleZh": "我希望让安静的同学也能表达自己的想法。",
+   "scene": 2,
+   "panel": "p2",
+   "en": "If you aim to do something, you try to do it.",
+   "enZh": "aim to do sth：努力去做某事。"
+  },
+  {
+   "word": "target",
+   "id": "target",
+   "ipa": "/ˈtɑːɡɪt/",
+   "pos": "noun",
+   "meaning": "目标",
+   "example": "Our target is one ten-minute trial.",
+   "exampleZh": "我们的目标是做一期十分钟的试播。",
+   "scene": 4,
+   "panel": "p4",
+   "en": "A target is a result you are trying to reach.",
+   "enZh": "target：你努力要达到的结果。"
+  },
+  {
+   "word": "organise",
+   "id": "organise",
+   "ipa": "/ˈɔːɡənaɪz/",
+   "pos": "verb",
+   "meaning": "组织；安排（美式拼写 organize）",
+   "example": "Who will organise it?",
+   "exampleZh": "谁来组织这件事？",
+   "scene": 5,
+   "panel": "p5",
+   "en": "To organise something is to plan it and get it ready.",
+   "enZh": "organise：计划好一件事，并做好准备。"
+  },
+  {
+   "word": "competence",
+   "id": "competence",
+   "ipa": "/ˈkɒmpɪtəns/",
+   "uk": "/ˈkɒmpɪtəns/",
+   "us": "/ˈkɑːmpɪtəns/",
+   "pos": "noun",
+   "meaning": "能力；胜任能力",
+   "example": "We will build competence through practice.",
+   "exampleZh": "我们会通过练习培养胜任工作的能力。",
+   "scene": 6,
+   "panel": "p6",
+   "en": "Competence is the ability to do something well.",
+   "enZh": "competence：能把事情做好的能力。"
+  },
+  {
+   "word": "voluntary",
+   "id": "voluntary",
+   "ipa": "/ˈvɒləntri/",
+   "uk": "/ˈvɒləntri/",
+   "us": "/ˈvɑːlənteri/",
+   "pos": "adjective",
+   "meaning": "自愿的；志愿的",
+   "example": "Taking part is voluntary.",
+   "exampleZh": "参与是自愿的。",
+   "scene": 7,
+   "panel": "p7",
+   "en": "Voluntary means you choose to do it. Nobody makes you.",
+   "enZh": "voluntary：自己选择去做，没人强迫。"
+  }
+ ],
+ "review": [
+  {
+   "word": "goal",
+   "meaning": "目标"
+  },
+  {
+   "word": "challenge",
+   "meaning": "挑战"
+  }
+ ],
+ "reviewExample": {
+  "en": "One small goal. Still a real challenge.",
+  "zh": "目标虽小，仍是个实实在在的挑战。"
+ },
+ "scenes": [
+  {
+   "id": 1,
+   "panel": "p1",
+   "name": "这次，十分钟真的留出来",
+   "place": "Same day · Lunch break · A quiet classroom",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1.0
+    },
+    {
+     "at": "s1n1",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1.3
+    },
+    {
+     "at": "s1l1",
+     "x": 0.78,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s1l2",
+     "x": 0.35,
+     "y": 0.32,
+     "z": 2.1
+    },
+    {
+     "at": "s1l3",
+     "x": 0.8,
+     "y": 0.38,
+     "z": 1.9
+    },
+    {
+     "at": "s1n2",
+     "x": 0.9,
+     "y": 0.6,
+     "z": 2.6
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1.0
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s1-open",
+     "frames": 20,
+     "sfx": "birds"
+    },
+    {
+     "kind": "line",
+     "id": "s1n1",
+     "who": "lin-narr",
+     "en": "At lunch, Xiaoman finally gets her ten minutes.",
+     "zh": "午休时，小满终于等到了留给她的十分钟。"
+    },
+    {
+     "kind": "line",
+     "id": "s1l1",
+     "who": "lin",
+     "en": "Last time, you came with me to see the teacher. I never really said thanks.",
+     "zh": "上次你陪我找老师，我还没正式道谢。"
+    },
+    {
+     "kind": "line",
+     "id": "s1l2",
+     "who": "su",
+     "en": "Then give me the ten minutes you promised. Hear my whole plan.",
+     "zh": "那就把约好的十分钟留给我，把提案听完。"
+    },
+    {
+     "kind": "line",
+     "id": "s1l3",
+     "who": "lin",
+     "en": "Okay. This time I won't say \"forget it\" for you. And no timer to rush you.",
+     "zh": "好，这次不替你说算了，也不按计时器催你。"
+    },
+    {
+     "kind": "line",
+     "id": "s1n2",
+     "who": "lin-narr",
+     "en": "I put the stopwatch away and listen.",
+     "zh": "我收好秒表，认真听她说。",
+     "sfx": "zipper"
+    },
+    {
+     "kind": "pause",
+     "id": "s1-pocket",
+     "frames": 24
+    },
+    {
+     "kind": "pause",
+     "id": "s1-end",
+     "frames": 10
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "panel": "p2",
+   "name": "先让安静的人被听见",
+   "place": "Same desk · Xiaoman's pitch",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1.0
+    },
+    {
+     "at": "s2l1",
+     "x": 0.33,
+     "y": 0.33,
+     "z": 2.2
+    },
+    {
+     "at": "s2n1",
+     "x": 0.42,
+     "y": 0.58,
+     "z": 1.6
+    },
+    {
+     "at": "s2n2",
+     "x": 0.42,
+     "y": 0.58,
+     "z": 1.9
+    },
+    {
+     "at": "s2l2",
+     "x": 0.72,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s2l3",
+     "x": 0.34,
+     "y": 0.35,
+     "z": 2.0
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1.0
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s2-open",
+     "frames": 16,
+     "sfx": "flip"
+    },
+    {
+     "kind": "line",
+     "id": "s2l1",
+     "who": "su",
+     "en": "I aim to give quiet students a voice.",
+     "zh": "我希望让安静的同学也能表达自己的想法。",
+     "kw": "aim",
+     "sfxEnd": "twinkle"
+    },
+    {
+     "kind": "pause",
+     "id": "s2-voices",
+     "frames": 44
+    },
+    {
+     "kind": "line",
+     "id": "s2n1",
+     "who": "lin-narr",
+     "en": "She wants to start with one short radio show.",
+     "zh": "她想先从一期短节目开始。"
+    },
+    {
+     "kind": "line",
+     "id": "s2n2",
+     "who": "lin-narr",
+     "en": "Her first question is simple: what helped you on your first day?",
+     "zh": "她的第一个问题很简单：入学第一天，什么帮到了你？"
+    },
+    {
+     "kind": "line",
+     "id": "s2l2",
+     "who": "lin",
+     "en": "We could use our own stories as a sample first, then invite anyone who wants to share.",
+     "zh": "可以先用我们自己的故事做样稿，再请愿意分享的同学参加。"
+    },
+    {
+     "kind": "line",
+     "id": "s2l3",
+     "who": "su",
+     "en": "Mm. Let's get one show right first. We'll go ask the teacher after school.",
+     "zh": "嗯，先把一期讲清楚。我们放学后去问问老师。",
+     "sfxEnd": "bell"
+    },
+    {
+     "kind": "pause",
+     "id": "s2-end",
+     "frames": 28
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "panel": "p3",
+   "name": "他一来，节目表就展开了",
+   "place": "After school · Planning meeting",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1.0
+    },
+    {
+     "at": "s3n1",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1.15
+    },
+    {
+     "at": "s3l1",
+     "x": 0.88,
+     "y": 0.3,
+     "z": 2.2
+    },
+    {
+     "at": "s3n2",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1.0
+    },
+    {
+     "at": "s3l2",
+     "x": 0.2,
+     "y": 0.22,
+     "z": 2.2
+    },
+    {
+     "at": "s3n3",
+     "x": 0.25,
+     "y": 0.62,
+     "z": 1.9
+    },
+    {
+     "at": "s3-floor",
+     "x": 0.8,
+     "y": 0.78,
+     "z": 1.9
+    },
+    {
+     "at": "s3l3",
+     "x": 0.43,
+     "y": 0.32,
+     "z": 2.3
+    },
+    {
+     "at": "s3l4",
+     "x": 0.66,
+     "y": 0.38,
+     "z": 2.2
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1.0
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s3-open",
+     "frames": 14,
+     "sfx": "door"
+    },
+    {
+     "kind": "line",
+     "id": "s3n1",
+     "who": "lin-narr",
+     "en": "Our teacher agrees to a planning meeting after class.",
+     "zh": "老师同意放学后开一次提案讨论。"
+    },
+    {
+     "kind": "line",
+     "id": "s3l1",
+     "who": "teacher",
+     "en": "Today, let's just make the plan clear. I'll be right here listening. Your mum also agreed he can join this one meeting.",
+     "zh": "今天先把提案说清楚。我在这里听，家长也同意他来参加这一次讨论。"
+    },
+    {
+     "kind": "line",
+     "id": "s3n2",
+     "who": "lin-narr",
+     "en": "Mum brings my clone, with permission.",
+     "zh": "得到许可后，妈妈把分身送来。",
+     "sfx": "notify"
+    },
+    {
+     "kind": "line",
+     "id": "s3l2",
+     "who": "clone",
+     "en": "I planned it all at home! First, we start with the morning news—",
+     "zh": "我在家想好了！先从早间新闻开始——"
+    },
+    {
+     "kind": "line",
+     "id": "s3n3",
+     "who": "lin-narr",
+     "en": "He brings a timetable that unfolds onto the floor.",
+     "zh": "他带来的节目表一展开，纸都垂到了地上。",
+     "sfx": "unfold"
+    },
+    {
+     "kind": "pause",
+     "id": "s3-floor",
+     "frames": 30
+    },
+    {
+     "kind": "line",
+     "id": "s3l3",
+     "who": "lin",
+     "en": "Wait, why is your sheet still unfolding?",
+     "zh": "等等，你这张纸怎么还没展开完？"
+    },
+    {
+     "kind": "line",
+     "id": "s3l4",
+     "who": "su",
+     "en": "We were talking about one show. Let me take a look first.",
+     "zh": "我们刚才说的是一期。先让我看看。"
+    },
+    {
+     "kind": "pause",
+     "id": "s3-end",
+     "frames": 16
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "panel": "p4",
+   "name": "整张表，只圈一个小格",
+   "place": "Same table · The very long timetable",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1.0
+    },
+    {
+     "at": "s4l1",
+     "x": 0.42,
+     "y": 0.16,
+     "z": 2.1
+    },
+    {
+     "at": "s4n1",
+     "x": 0.2,
+     "y": 0.34,
+     "z": 2.7
+    },
+    {
+     "at": "s4-circle",
+     "x": 0.2,
+     "y": 0.34,
+     "z": 2.7
+    },
+    {
+     "at": "s4l2",
+     "x": 0.45,
+     "y": 0.45,
+     "z": 2.2
+    },
+    {
+     "at": "s4l3",
+     "x": 0.72,
+     "y": 0.5,
+     "z": 2.2
+    },
+    {
+     "at": "s4l4",
+     "x": 0.42,
+     "y": 0.16,
+     "z": 2.0
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1.0
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s4-open",
+     "frames": 10
+    },
+    {
+     "kind": "line",
+     "id": "s4l1",
+     "who": "clone",
+     "en": "Breakfast news! Lunch interviews! Evening music! Something on every single day!",
+     "zh": "早间新闻，午间访谈，晚间音乐！每天都有内容。",
+     "sfx": "jingle"
+    },
+    {
+     "kind": "line",
+     "id": "s4n1",
+     "who": "lin-narr",
+     "en": "Xiaoman circles one small box.",
+     "zh": "小满只圈出了一个小格。",
+     "sfx": "marker"
+    },
+    {
+     "kind": "pause",
+     "id": "s4-circle",
+     "frames": 22
+    },
+    {
+     "kind": "line",
+     "id": "s4l2",
+     "who": "su",
+     "en": "Our target is one ten-minute trial.",
+     "zh": "我们的目标是做一期十分钟的试播。",
+     "kw": "target",
+     "sfxEnd": "ding"
+    },
+    {
+     "kind": "line",
+     "id": "s4l3",
+     "who": "lin",
+     "en": "Your timetable is longer than our whole school day. Let's just do the box she circled.",
+     "zh": "你那张表，比我们整天的课还长。先做她圈的这一格。"
+    },
+    {
+     "kind": "line",
+     "id": "s4l4",
+     "who": "clone",
+     "en": "Then I'll fold the rest back up for now.",
+     "zh": "那我把后面的先折回来。",
+     "sfxEnd": "paper"
+    },
+    {
+     "kind": "pause",
+     "id": "s4-end",
+     "frames": 20
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "panel": "p5",
+   "name": "有节目，还得有人安排",
+   "place": "Same meeting · Who does what?",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1.0
+    },
+    {
+     "at": "s5l1",
+     "x": 0.88,
+     "y": 0.27,
+     "z": 2.3
+    },
+    {
+     "at": "s5-q",
+     "x": 0.4,
+     "y": 0.28,
+     "z": 1.3
+    },
+    {
+     "at": "s5-q",
+     "offset": 24,
+     "x": 0.4,
+     "y": 0.28,
+     "z": 1.3
+    },
+    {
+     "at": "s5n1",
+     "x": 0.12,
+     "y": 0.35,
+     "z": 2.0
+    },
+    {
+     "at": "s5n2",
+     "x": 0.38,
+     "y": 0.32,
+     "z": 2.1
+    },
+    {
+     "at": "s5n3",
+     "x": 0.66,
+     "y": 0.32,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1.0
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s5-open",
+     "frames": 10
+    },
+    {
+     "kind": "line",
+     "id": "s5l1",
+     "who": "teacher",
+     "en": "Who will organise it?",
+     "zh": "谁来组织这件事？",
+     "kw": "organise"
+    },
+    {
+     "kind": "pause",
+     "id": "s5-q",
+     "frames": 30,
+     "sfx": "boing"
+    },
+    {
+     "kind": "line",
+     "id": "s5n1",
+     "who": "lin-narr",
+     "en": "Xiaoman offers to choose stories.",
+     "zh": "小满愿意挑选故事。"
+    },
+    {
+     "kind": "line",
+     "id": "s5l2",
+     "who": "su",
+     "en": "I'll prepare the topics and the scripts first.",
+     "zh": "选题和稿子，我先准备。",
+     "sfxEnd": "pop"
+    },
+    {
+     "kind": "line",
+     "id": "s5n2",
+     "who": "lin-narr",
+     "en": "I can arrange people and time.",
+     "zh": "我可以安排人员和时间。"
+    },
+    {
+     "kind": "line",
+     "id": "s5l3",
+     "who": "lin",
+     "en": "First, I'll write up a role list everyone can check.",
+     "zh": "先写一份大家都能确认的分工。",
+     "sfxEnd": "pop"
+    },
+    {
+     "kind": "line",
+     "id": "s5n3",
+     "who": "lin-narr",
+     "en": "My clone offers to check the sound.",
+     "zh": "分身提出想负责声音检查。"
+    },
+    {
+     "kind": "line",
+     "id": "s5l4",
+     "who": "clone",
+     "en": "I'd like to learn the sound check. I'll list what I can do first.",
+     "zh": "声音检查我想学。我先把自己能做的列出来。",
+     "sfxEnd": "pop"
+    },
+    {
+     "kind": "pause",
+     "id": "s5-end",
+     "frames": 30
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "panel": "p6",
+   "name": "热情有了，操作还得练",
+   "place": "By the table · The equipment manual",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.7,
+     "y": 0.55,
+     "z": 2.0
+    },
+    {
+     "at": "s6l1",
+     "x": 0.85,
+     "y": 0.3,
+     "z": 2.1
+    },
+    {
+     "at": "s6-hmm",
+     "x": 0.5,
+     "y": 0.25,
+     "z": 2.5
+    },
+    {
+     "at": "s6n1",
+     "x": 0.5,
+     "y": 0.27,
+     "z": 2.2
+    },
+    {
+     "at": "s6l3",
+     "x": 0.85,
+     "y": 0.3,
+     "z": 2.0
+    },
+    {
+     "at": "s6l4",
+     "x": 0.16,
+     "y": 0.35,
+     "z": 2.2
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.45,
+     "z": 1.0
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s6-open",
+     "frames": 26,
+     "sfx": "thud"
+    },
+    {
+     "kind": "line",
+     "id": "s6l1",
+     "who": "teacher",
+     "en": "We will build competence through practice.",
+     "zh": "我们会通过练习培养胜任工作的能力。",
+     "kw": "competence"
+    },
+    {
+     "kind": "pause",
+     "id": "s6-hmm",
+     "frames": 30,
+     "sfx": "cricket"
+    },
+    {
+     "kind": "line",
+     "id": "s6n1",
+     "who": "lin-narr",
+     "en": "My clone admits he needs to learn the controls.",
+     "zh": "分身承认，自己还需要学习设备怎么操作。"
+    },
+    {
+     "kind": "line",
+     "id": "s6l2",
+     "who": "clone",
+     "en": "I've never used this equipment. When I said sound check, I meant I want to start learning there.",
+     "zh": "我还没用过这套设备。刚才说声音检查，是想从这里开始学。"
+    },
+    {
+     "kind": "line",
+     "id": "s6l3",
+     "who": "teacher",
+     "en": "Thanks for being clear. List what you can do and what you need to learn. Next time, I'll walk you through the equipment.",
+     "zh": "说清楚就好。先列会做什么、需要学什么，下一次我带你们试机。"
+    },
+    {
+     "kind": "line",
+     "id": "s6l4",
+     "who": "lin",
+     "en": "Then let's write down what we need to learn, too.",
+     "zh": "那我们把要学的也写进去。",
+     "sfxEnd": "scribble"
+    },
+    {
+     "kind": "pause",
+     "id": "s6-end",
+     "frames": 24
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "panel": "p7",
+   "name": "报名这件事，各人自己说",
+   "place": "Same classroom · Who's in?",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.3,
+     "z": 1.0
+    },
+    {
+     "at": "s7l1",
+     "x": 0.2,
+     "y": 0.18,
+     "z": 2.1
+    },
+    {
+     "at": "s7l2",
+     "x": 0.47,
+     "y": 0.18,
+     "z": 2.0
+    },
+    {
+     "at": "s7l3",
+     "x": 0.7,
+     "y": 0.18,
+     "z": 2.0
+    },
+    {
+     "at": "s7n1",
+     "x": 0.5,
+     "y": 0.3,
+     "z": 1.2
+    },
+    {
+     "at": "s7n2",
+     "x": 0.5,
+     "y": 0.3,
+     "z": 1.35
+    },
+    {
+     "at": "s7l4",
+     "x": 0.85,
+     "y": 0.22,
+     "z": 2.0
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.3,
+     "z": 1.0
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s7-open",
+     "frames": 12
+    },
+    {
+     "kind": "line",
+     "id": "s7l1",
+     "who": "lin",
+     "en": "Taking part is voluntary.",
+     "zh": "参与是自愿的。",
+     "kw": "voluntary",
+     "sfxEnd": "twinkle"
+    },
+    {
+     "kind": "line",
+     "id": "s7l2",
+     "who": "su",
+     "en": "I'm in. For the first show, we'll start with our own little stories.",
+     "zh": "我愿意。第一期先从我们自己的小故事开始。",
+     "sfx": "rustle"
+    },
+    {
+     "kind": "line",
+     "id": "s7l3",
+     "who": "clone",
+     "en": "I'm in, too. This time, I'm only signing up myself.",
+     "zh": "我也愿意。这次只报我自己。",
+     "sfx": "rustle"
+    },
+    {
+     "kind": "line",
+     "id": "s7n1",
+     "who": "lin-narr",
+     "en": "We each choose a job.",
+     "zh": "我们各自选择想做的事。"
+    },
+    {
+     "kind": "line",
+     "id": "s7n2",
+     "who": "lin-narr",
+     "en": "We cannot volunteer for everyone else.",
+     "zh": "不能替其他所有人报名。",
+     "kw": "volunteer"
+    },
+    {
+     "kind": "line",
+     "id": "s7l4",
+     "who": "teacher",
+     "en": "Good. If anyone comes to share later, we'll ask them first, too.",
+     "zh": "可以。后续有人来分享，也先问本人意愿。",
+     "sfxEnd": "stamp"
+    },
+    {
+     "kind": "pause",
+     "id": "s7-end",
+     "frames": 24
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "panel": "p8",
+   "name": "十分钟，先把它做好",
+   "place": "End of the meeting · One box",
+   "cam": [
+    {
+     "at": "start",
+     "x": 0.5,
+     "y": 0.4,
+     "z": 1.0
+    },
+    {
+     "at": "s8n1",
+     "x": 0.75,
+     "y": 0.35,
+     "z": 1.7
+    },
+    {
+     "at": "s8n2",
+     "x": 0.6,
+     "y": 0.4,
+     "z": 1.3
+    },
+    {
+     "at": "s8n3",
+     "x": 0.6,
+     "y": 0.4,
+     "z": 1.4
+    },
+    {
+     "at": "s8l1",
+     "x": 0.12,
+     "y": 0.32,
+     "z": 2.2
+    },
+    {
+     "at": "s8l2",
+     "x": 0.53,
+     "y": 0.22,
+     "z": 2.2
+    },
+    {
+     "at": "s8-quiet",
+     "x": 0.7,
+     "y": 0.6,
+     "z": 2.4
+    },
+    {
+     "at": "s8-quiet",
+     "x": 0.7,
+     "y": 0.6,
+     "z": 2.4,
+     "offset": 20
+    },
+    {
+     "at": "s8n4",
+     "x": 0.33,
+     "y": 0.24,
+     "z": 2.1
+    },
+    {
+     "at": "end",
+     "x": 0.5,
+     "y": 0.35,
+     "z": 1.15
+    }
+   ],
+   "beats": [
+    {
+     "kind": "pause",
+     "id": "s8-open",
+     "frames": 12,
+     "sfx": "paper"
+    },
+    {
+     "kind": "line",
+     "id": "s8n1",
+     "who": "lin-narr",
+     "en": "Our teacher approves one ten-minute trial in principle.",
+     "zh": "老师原则同意做一期十分钟的试播。",
+     "sfxEnd": "stamp"
+    },
+    {
+     "kind": "line",
+     "id": "s8n2",
+     "who": "lin-narr",
+     "en": "First, we must submit our roles and check the equipment.",
+     "zh": "我们得先交清分工，再检查设备。"
+    },
+    {
+     "kind": "line",
+     "id": "s8n3",
+     "who": "lin-narr",
+     "en": "The date will be set after that.",
+     "zh": "试播日期要在那之后再确定。"
+    },
+    {
+     "kind": "line",
+     "id": "s8l1",
+     "who": "su",
+     "en": "Okay! My plan finally has a next step.",
+     "zh": "好，我的提案终于有下一步了。",
+     "sfxEnd": "sparkle"
+    },
+    {
+     "kind": "line",
+     "id": "s8l2",
+     "who": "clone",
+     "en": "I'll fold up the evening music. Just this one box.",
+     "zh": "我先把晚间音乐折起来。只做这一格。",
+     "sfx": "paper"
+    },
+    {
+     "kind": "pause",
+     "id": "s8-quiet",
+     "frames": 30
+    },
+    {
+     "kind": "line",
+     "id": "s8n4",
+     "who": "lin-inner",
+     "en": "One small goal.",
+     "zh": "目标虽小。",
+     "kw": "goal"
+    },
+    {
+     "kind": "pause",
+     "id": "s8-beat",
+     "frames": 8
+    },
+    {
+     "kind": "line",
+     "id": "s8n5",
+     "who": "lin-inner",
+     "en": "Still a real challenge.",
+     "zh": "仍是个实实在在的挑战。",
+     "kw": "challenge"
+    },
+    {
+     "kind": "pause",
+     "id": "s8-end",
+     "frames": 36
+    }
+   ]
+  }
+ ],
+ "narration": [
+  {
+   "id": "n-prev1",
+   "who": "lin-narr",
+   "en": "Last time: my clone's morning run came with a ten-second rest timer.",
+   "zh": "上回说到：分身安排的晨跑，休息只有十秒倒计时。"
+  },
+  {
+   "id": "n-prev2",
+   "who": "lin-narr",
+   "en": "So I stopped the timer and asked everyone again.",
+   "zh": "于是我停下秒表，重新问了每个人的想法。"
+  },
+  {
+   "id": "n-prev3",
+   "who": "lin-narr",
+   "en": "Then Xiaoman asked me to save ten minutes at lunch, to hear her radio plan.",
+   "zh": "接着，小满请我午休留出十分钟，听她讲完广播提案。"
+  },
+  {
+   "id": "n-title",
+   "who": "lin-narr",
+   "en": "English: To Be Continued. Episode six. She doesn't want hush money. She wants ten minutes.",
+   "zh": "英语有续集，第六话。她想要的不是保密费，是十分钟。"
+  },
+  {
+   "id": "n-recap",
+   "who": "lesson",
+   "en": "Now, let's learn the words!",
+   "zh": "现在，来学单词！"
+  },
+  {
+   "id": "n-review",
+   "who": "lesson",
+   "en": "And two words from Episode One!",
+   "zh": "还有两个第一集学过的词！"
+  },
+  {
+   "id": "n-next1",
+   "who": "lin-narr",
+   "en": "Next time: one job, one name. You can't write Xiaoshuai twice.",
+   "zh": "下集预告：负责人的名字，不能写两个小帅。"
+  },
+  {
+   "id": "n-next2",
+   "who": "lin-narr",
+   "en": "We hand in our roles and test the equipment with our teacher. Three of us are ready to speak... but the equipment makes no sound.",
+   "zh": "我们要交上分工，在老师指导下试机。三个人都准备好开口了……设备却不出声。"
+  },
+  {
+   "id": "n-outro",
+   "who": "word-us",
+   "en": "Follow the story. Learn the words.",
+   "zh": "跟着故事，记住单词。"
+  }
+ ],
+ "voiceRefs": "/Users/huyin/Swingboat/english-to-be-continued/voices/book-01/characters",
+ "recall": [
+  {
+   "word": "senior",
+   "meaning": "较高年级的"
+  },
+  {
+   "word": "secondary",
+   "meaning": "中等教育的"
+  },
+  {
+   "word": "previous",
+   "meaning": "以前的"
+  },
+  {
+   "word": "campus",
+   "meaning": "校园"
+  },
+  {
+   "word": "junior",
+   "meaning": "较低年级的"
+  }
+ ]
+}
